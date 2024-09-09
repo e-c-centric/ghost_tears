@@ -1,0 +1,5023 @@
+state,Badakhshan
+state,Badghis
+state,Baghlan
+state,Balkh
+state,Bamyan
+state,Daykundi
+state,Farah
+state,Faryab
+state,Ghazni
+state,Ghōr
+state,Helmand
+state,Herat
+state,Jowzjan
+state,Kabul
+state,Kandahar
+state,Kapisa
+state,Khost
+state,Kunar
+state,Kunduz Province
+state,Laghman
+state,Logar
+state,Nangarhar
+state,Nimruz
+state,Nuristan
+state,Paktia
+state,Paktika
+state,Panjshir
+state,Parwan
+state,Samangan
+state,Sar-e Pol
+state,Takhar
+state,Urozgan
+state,Zabul
+state,Berat County
+state,Berat District
+state,Bulqizë District
+state,Delvinë District
+state,Devoll District
+state,Dibër County
+state,Dibër District
+state,Durrës County
+state,Durrës District
+state,Elbasan County
+state,Fier County
+state,Fier District
+state,Gjirokastër County
+state,Gjirokastër District
+state,Gramsh District
+state,Has District
+state,Kavajë District
+state,Kolonjë District
+state,Korçë County
+state,Korçë District
+state,Krujë District
+state,Kuçovë District
+state,Kukës County
+state,Kukës District
+state,Kurbin District
+state,Lezhë County
+state,Lezhë District
+state,Librazhd District
+state,Lushnjë District
+state,Malësi e Madhe District
+state,Mallakastër District
+state,Mat District
+state,Mirditë District
+state,Peqin District
+state,Përmet District
+state,Pogradec District
+state,Pukë District
+state,Sarandë District
+state,Shkodër County
+state,Shkodër District
+state,Skrapar District
+state,Tepelenë District
+state,Tirana County
+state,Tirana District
+state,Tropojë District
+state,Vlorë County
+state,Vlorë District
+state,Adrar
+state,Aïn Defla
+state,Aïn Témouchent
+state,Algiers
+state,Annaba
+state,Batna
+state,Béchar
+state,Béjaïa
+state,Béni Abbès
+state,Biskra
+state,Blida
+state,Bordj Baji Mokhtar
+state,Bordj Bou Arréridj
+state,Bouïra
+state,Boumerdès
+state,Chlef
+state,Constantine
+state,Djanet
+state,Djelfa
+state,El Bayadh
+state,El M'ghair
+state,El Menia
+state,El Oued
+state,El Tarf
+state,Ghardaïa
+state,Guelma
+state,Illizi
+state,In Guezzam
+state,In Salah
+state,Jijel
+state,Khenchela
+state,Laghouat
+state,M'Sila
+state,Mascara
+state,Médéa
+state,Mila
+state,Mostaganem
+state,Naama
+state,Oran
+state,Ouargla
+state,Ouled Djellal
+state,Oum El Bouaghi
+state,Relizane
+state,Saïda
+state,Sétif
+state,Sidi Bel Abbès
+state,Skikda
+state,Souk Ahras
+state,Tamanghasset
+state,Tébessa
+state,Tiaret
+state,Timimoun
+state,Tindouf
+state,Tipasa
+state,Tissemsilt
+state,Tizi Ouzou
+state,Tlemcen
+state,Touggourt
+state,Andorra la Vella
+state,Canillo
+state,Encamp
+state,Escaldes-Engordany
+state,La Massana
+state,Ordino
+state,Sant Julià de Lòria
+state,Bengo Province
+state,Benguela Province
+state,Bié Province
+state,Cabinda Province
+state,Cuando Cubango Province
+state,Cuanza Norte Province
+state,Cuanza Sul
+state,Cunene Province
+state,Huambo Province
+state,Huíla Province
+state,Luanda Province
+state,Lunda Norte Province
+state,Lunda Sul Province
+state,Malanje Province
+state,Moxico Province
+state,Uíge Province
+state,Zaire Province
+state,Barbuda
+state,Redonda
+state,Saint George Parish
+state,Saint John Parish
+state,Saint Mary Parish
+state,Saint Paul Parish
+state,Saint Peter Parish
+state,Saint Philip Parish
+state,Buenos Aires
+state,Catamarca
+state,Chaco
+state,Chubut
+state,Ciudad Autónoma de Buenos Aires
+state,Córdoba
+state,Corrientes
+state,Entre Ríos
+state,Formosa
+state,Jujuy
+state,La Pampa
+state,La Rioja
+state,Mendoza
+state,Misiones
+state,Neuquén
+state,Río Negro
+state,Salta
+state,San Juan
+state,San Luis
+state,Santa Cruz
+state,Santa Fe
+state,Santiago del Estero
+state,Tierra del Fuego
+state,Tucumán
+state,Aragatsotn Region
+state,Ararat Province
+state,Armavir Region
+state,Gegharkunik Province
+state,Kotayk Region
+state,Lori Region
+state,Shirak Region
+state,Syunik Province
+state,Tavush Region
+state,Vayots Dzor Region
+state,Yerevan
+state,Australian Capital Territory
+state,New South Wales
+state,Northern Territory
+state,Queensland
+state,South Australia
+state,Tasmania
+state,Victoria
+state,Western Australia
+state,Burgenland
+state,Carinthia
+state,Lower Austria
+state,Salzburg
+state,Styria
+state,Tyrol
+state,Upper Austria
+state,Vienna
+state,Vorarlberg
+state,Absheron District
+state,Agdam District
+state,Agdash District
+state,Aghjabadi District
+state,Agstafa District
+state,Agsu District
+state,Astara District
+state,Babek District
+state,Baku
+state,Balakan District
+state,Barda District
+state,Beylagan District
+state,Bilasuvar District
+state,Dashkasan District
+state,Fizuli District
+state,Ganja
+state,Gədəbəy
+state,Gobustan District
+state,Goranboy District
+state,Goychay
+state,Goygol District
+state,Hajigabul District
+state,Imishli District
+state,Ismailli District
+state,Jabrayil District
+state,Jalilabad District
+state,Julfa District
+state,Kalbajar District
+state,Kangarli District
+state,Khachmaz District
+state,Khizi District
+state,Khojali District
+state,Kurdamir District
+state,Lachin District
+state,Lankaran
+state,Lankaran District
+state,Lerik District
+state,Martuni
+state,Masally District
+state,Mingachevir
+state,Nakhchivan Autonomous Republic
+state,Neftchala District
+state,Oghuz District
+state,Ordubad District
+state,Qabala District
+state,Qakh District
+state,Qazakh District
+state,Quba District
+state,Qubadli District
+state,Qusar District
+state,Saatly District
+state,Sabirabad District
+state,Sadarak District
+state,Salyan District
+state,Samukh District
+state,Shabran District
+state,Shahbuz District
+state,Shaki
+state,Shaki District
+state,Shamakhi District
+state,Shamkir District
+state,Sharur District
+state,Shirvan
+state,Shusha District
+state,Siazan District
+state,Sumqayit
+state,Tartar District
+state,Tovuz District
+state,Ujar District
+state,Yardymli District
+state,Yevlakh
+state,Yevlakh District
+state,Zangilan District
+state,Zaqatala District
+state,Zardab District
+state,Capital
+state,Central
+state,Muharraq
+state,Northern
+state,Southern
+state,Barisal
+state,Chittagong
+state,Dhaka
+state,Khulna
+state,Mymensingh
+state,Rajshahi
+state,Rangpur
+state,Sylhet
+state,Christ Church
+state,Saint Andrew
+state,Saint George
+state,Saint James
+state,Saint John
+state,Saint Joseph
+state,Saint Lucy
+state,Saint Michael
+state,Saint Peter
+state,Saint Philip
+state,Saint Thomas
+state,Brest Region
+state,Gomel Region
+state,Grodno Region
+state,Minsk
+state,Minsk Region
+state,Mogilev Region
+state,Vitebsk Region
+state,Antwerp
+state,Brussels-Capital Region
+state,East Flanders
+state,Flanders
+state,Flemish Brabant
+state,Hainaut
+state,Liège
+state,Limburg
+state,Luxembourg
+state,Namur
+state,Wallonia
+state,Walloon Brabant
+state,West Flanders
+state,Belize District
+state,Cayo District
+state,Corozal District
+state,Orange Walk District
+state,Stann Creek District
+state,Toledo District
+state,Alibori Department
+state,Atakora Department
+state,Atlantique Department
+state,Borgou Department
+state,Collines Department
+state,Donga Department
+state,Kouffo Department
+state,Littoral Department
+state,Mono Department
+state,Ouémé Department
+state,Plateau Department
+state,Zou Department
+state,Devonshire
+state,Hamilton
+state,Paget
+state,Pembroke
+state,Saint George's
+state,Sandys
+state,Smith's
+state,Southampton
+state,Warwick
+state,Bumthang
+state,Chukha
+state,Dagana
+state,Gasa
+state,Haa
+state,Lhuntse
+state,Mongar
+state,Paro
+state,Pemagatshel
+state,Punakha
+state,Samdrup Jongkhar
+state,Samtse
+state,Sarpang
+state,Thimphu
+state,"Trashi Yangtse	"
+state,Trashigang
+state,Trongsa
+state,Tsirang
+state,Wangdue Phodrang
+state,Zhemgang
+state,Beni Department
+state,Chuquisaca Department
+state,Cochabamba Department
+state,La Paz Department
+state,Oruro Department
+state,Pando Department
+state,Potosí Department
+state,Santa Cruz Department
+state,Tarija Department
+state,Bonaire
+state,Saba
+state,Sint Eustatius
+state,Bosnian Podrinje Canton
+state,Brčko District
+state,Canton 10
+state,Central Bosnia Canton
+state,Federation of Bosnia and Herzegovina
+state,Herzegovina-Neretva Canton
+state,Posavina Canton
+state,Republika Srpska
+state,Sarajevo Canton
+state,Tuzla Canton
+state,Una-Sana Canton
+state,West Herzegovina Canton
+state,Zenica-Doboj Canton
+state,Central District
+state,Ghanzi District
+state,Kgalagadi District
+state,Kgatleng District
+state,Kweneng District
+state,Ngamiland
+state,North-East District
+state,North-West District
+state,South-East District
+state,Southern District
+state,Acre
+state,Alagoas
+state,Amapá
+state,Amazonas
+state,Bahia
+state,Ceará
+state,Distrito Federal
+state,Espírito Santo
+state,Goiás
+state,Maranhão
+state,Mato Grosso
+state,Mato Grosso do Sul
+state,Minas Gerais
+state,Pará
+state,Paraíba
+state,Paraná
+state,Pernambuco
+state,Piauí
+state,Rio de Janeiro
+state,Rio Grande do Norte
+state,Rio Grande do Sul
+state,Rondônia
+state,Roraima
+state,Santa Catarina
+state,São Paulo
+state,Sergipe
+state,Tocantins
+state,Belait District
+state,Brunei-Muara District
+state,Temburong District
+state,Tutong District
+state,Blagoevgrad Province
+state,Burgas Province
+state,Dobrich Province
+state,Gabrovo Province
+state,Haskovo Province
+state,Kardzhali Province
+state,Kyustendil Province
+state,Lovech Province
+state,Montana Province
+state,Pazardzhik Province
+state,Pernik Province
+state,Pleven Province
+state,Plovdiv Province
+state,Razgrad Province
+state,Ruse Province
+state,Shumen
+state,Silistra Province
+state,Sliven Province
+state,Smolyan Province
+state,Sofia City Province
+state,Sofia Province
+state,Stara Zagora Province
+state,Targovishte Province
+state,Varna Province
+state,Veliko Tarnovo Province
+state,Vidin Province
+state,Vratsa Province
+state,Yambol Province
+state,Balé Province
+state,Bam Province
+state,Banwa Province
+state,Bazèga Province
+state,Boucle du Mouhoun Region
+state,Bougouriba Province
+state,Boulgou
+state,Cascades Region
+state,Centre
+state,Centre-Est Region
+state,Centre-Nord Region
+state,Centre-Ouest Region
+state,Centre-Sud Region
+state,Comoé Province
+state,Est Region
+state,Ganzourgou Province
+state,Gnagna Province
+state,Gourma Province
+state,Hauts-Bassins Region
+state,Houet Province
+state,Ioba Province
+state,Kadiogo Province
+state,Kénédougou Province
+state,Komondjari Province
+state,Kompienga Province
+state,Kossi Province
+state,Koulpélogo Province
+state,Kouritenga Province
+state,Kourwéogo Province
+state,Léraba Province
+state,Loroum Province
+state,Mouhoun
+state,Nahouri Province
+state,Namentenga Province
+state,Nayala Province
+state,"Nord Region, Burkina Faso"
+state,Noumbiel Province
+state,Oubritenga Province
+state,Oudalan Province
+state,Passoré Province
+state,Plateau-Central Region
+state,Poni Province
+state,Sahel Region
+state,Sanguié Province
+state,Sanmatenga Province
+state,Séno Province
+state,Sissili Province
+state,Soum Province
+state,Sourou Province
+state,Sud-Ouest Region
+state,Tapoa Province
+state,Tuy Province
+state,Yagha Province
+state,Yatenga Province
+state,Ziro Province
+state,Zondoma Province
+state,Zoundwéogo Province
+state,Bubanza Province
+state,Bujumbura Mairie Province
+state,Bujumbura Rural Province
+state,Bururi Province
+state,Cankuzo Province
+state,Cibitoke Province
+state,Gitega Province
+state,Karuzi Province
+state,Kayanza Province
+state,Kirundo Province
+state,Makamba Province
+state,Muramvya Province
+state,Muyinga Province
+state,Mwaro Province
+state,Ngozi Province
+state,Rumonge Province
+state,Rutana Province
+state,Ruyigi Province
+state,Banteay Meanchey
+state,Battambang
+state,Kampong Cham
+state,Kampong Chhnang
+state,Kampong Speu
+state,Kampong Thom
+state,Kampot
+state,Kandal
+state,Kep
+state,Koh Kong
+state,Kratie
+state,Mondulkiri
+state,Oddar Meanchey
+state,Pailin
+state,Phnom Penh
+state,Preah Vihear
+state,Prey Veng
+state,Pursat
+state,Ratanakiri
+state,Siem Reap
+state,Sihanoukville
+state,Stung Treng
+state,Svay Rieng
+state,Takeo
+state,Adamawa
+state,Centre
+state,East
+state,Far North
+state,Littoral
+state,North
+state,Northwest
+state,South
+state,Southwest
+state,West
+state,Alberta
+state,British Columbia
+state,Manitoba
+state,New Brunswick
+state,Newfoundland and Labrador
+state,Northwest Territories
+state,Nova Scotia
+state,Nunavut
+state,Ontario
+state,Prince Edward Island
+state,Quebec
+state,Saskatchewan
+state,Yukon
+state,Barlavento Islands
+state,Boa Vista
+state,Brava
+state,Maio Municipality
+state,Mosteiros
+state,Paul
+state,Porto Novo
+state,Praia
+state,Ribeira Brava Municipality
+state,Ribeira Grande
+state,Ribeira Grande de Santiago
+state,Sal
+state,Santa Catarina
+state,Santa Catarina do Fogo
+state,Santa Cruz
+state,São Domingos
+state,São Filipe
+state,São Lourenço dos Órgãos
+state,São Miguel
+state,São Vicente
+state,Sotavento Islands
+state,Tarrafal
+state,Tarrafal de São Nicolau
+state,Bamingui-Bangoran Prefecture
+state,Bangui
+state,Basse-Kotto Prefecture
+state,Haut-Mbomou Prefecture
+state,Haute-Kotto Prefecture
+state,Kémo Prefecture
+state,Lobaye Prefecture
+state,Mambéré-Kadéï
+state,Mbomou Prefecture
+state,Nana-Grébizi Economic Prefecture
+state,Nana-Mambéré Prefecture
+state,Ombella-M'Poko Prefecture
+state,Ouaka Prefecture
+state,Ouham Prefecture
+state,Ouham-Pendé Prefecture
+state,Sangha-Mbaéré
+state,Vakaga Prefecture
+state,Bahr el Gazel
+state,Batha
+state,Borkou
+state,Chari-Baguirmi
+state,Ennedi-Est
+state,Ennedi-Ouest
+state,Guéra
+state,Hadjer-Lamis
+state,Kanem
+state,Lac
+state,Logone Occidental
+state,Logone Oriental
+state,Mandoul
+state,Mayo-Kebbi Est
+state,Mayo-Kebbi Ouest
+state,Moyen-Chari
+state,N'Djamena
+state,Ouaddaï
+state,Salamat
+state,Sila
+state,Tandjilé
+state,Tibesti
+state,Wadi Fira
+state,Aisén del General Carlos Ibañez del Campo
+state,Antofagasta
+state,Arica y Parinacota
+state,Atacama
+state,Biobío
+state,Coquimbo
+state,La Araucanía
+state,Libertador General Bernardo O'Higgins
+state,Los Lagos
+state,Los Ríos
+state,Magallanes y de la Antártica Chilena
+state,Maule
+state,Ñuble
+state,Región Metropolitana de Santiago
+state,Tarapacá
+state,Valparaíso
+state,Anhui
+state,Beijing
+state,Chongqing
+state,Fujian
+state,Gansu
+state,Guangdong
+state,Guangxi Zhuang
+state,Guizhou
+state,Hainan
+state,Hebei
+state,Heilongjiang
+state,Henan
+state,Hong Kong SAR
+state,Hubei
+state,Hunan
+state,Inner Mongolia
+state,Jiangsu
+state,Jiangxi
+state,Jilin
+state,Liaoning
+state,Macau SAR
+state,Ningxia Huizu
+state,Qinghai
+state,Shaanxi
+state,Shandong
+state,Shanghai
+state,Shanxi
+state,Sichuan
+state,Taiwan
+state,Tianjin
+state,Xinjiang
+state,Xizang
+state,Yunnan
+state,Zhejiang
+state,Amazonas
+state,Antioquia
+state,Arauca
+state,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+state,Atlántico
+state,Bogotá D.C.
+state,Bolívar
+state,Boyacá
+state,Caldas
+state,Caquetá
+state,Casanare
+state,Cauca
+state,Cesar
+state,Chocó
+state,Córdoba
+state,Cundinamarca
+state,Guainía
+state,Guaviare
+state,Huila
+state,La Guajira
+state,Magdalena
+state,Meta
+state,Nariño
+state,Norte de Santander
+state,Putumayo
+state,Quindío
+state,Risaralda
+state,Santander
+state,Sucre
+state,Tolima
+state,Valle del Cauca
+state,Vaupés
+state,Vichada
+state,Anjouan
+state,Grande Comore
+state,Mohéli
+state,Bouenza Department
+state,Brazzaville
+state,Cuvette Department
+state,Cuvette-Ouest Department
+state,Kouilou Department
+state,Lékoumou Department
+state,Likouala Department
+state,Niari Department
+state,Plateaux Department
+state,Pointe-Noire
+state,Pool Department
+state,Sangha Department
+state,Alajuela Province
+state,Guanacaste Province
+state,Heredia Province
+state,Limón Province
+state,Provincia de Cartago
+state,Puntarenas Province
+state,San José Province
+state,Abidjan
+state,Agnéby
+state,Bafing Region
+state,Bas-Sassandra District
+state,Bas-Sassandra Region
+state,Comoé District
+state,Denguélé District
+state,Denguélé Region
+state,Dix-Huit Montagnes
+state,Fromager
+state,Gôh-Djiboua District
+state,Haut-Sassandra
+state,Lacs District
+state,Lacs Region
+state,Lagunes District
+state,Lagunes region
+state,Marahoué Region
+state,Montagnes District
+state,Moyen-Cavally
+state,Moyen-Comoé
+state,N'zi-Comoé
+state,Sassandra-Marahoué District
+state,Savanes Region
+state,Sud-Bandama
+state,Sud-Comoé
+state,Vallée du Bandama District
+state,Vallée du Bandama Region
+state,Woroba District
+state,Worodougou
+state,Yamoussoukro
+state,Zanzan Region
+state,Bjelovar-Bilogora
+state,Brod-Posavina
+state,Dubrovnik-Neretva
+state,Istria
+state,Karlovac
+state,Koprivnica-Križevci
+state,Krapina-Zagorje
+state,Lika-Senj
+state,Međimurje
+state,Osijek-Baranja
+state,Požega-Slavonia
+state,Primorje-Gorski Kotar
+state,Šibenik-Knin
+state,Sisak-Moslavina
+state,Split-Dalmatia
+state,Varaždin
+state,Virovitica-Podravina
+state,Vukovar-Syrmia
+state,Zadar
+state,Zagreb
+state,Zagreb
+state,Artemisa Province
+state,Camagüey Province
+state,Ciego de Ávila Province
+state,Cienfuegos Province
+state,Granma Province
+state,Guantánamo Province
+state,Havana Province
+state,Holguín Province
+state,Isla de la Juventud
+state,Las Tunas Province
+state,Matanzas Province
+state,Mayabeque Province
+state,Pinar del Río Province
+state,Sancti Spíritus Province
+state,Santiago de Cuba Province
+state,Villa Clara Province
+state,Famagusta District (Mağusa)
+state,Kyrenia District (Keryneia)
+state,Larnaca District (Larnaka)
+state,Limassol District (Leymasun)
+state,Nicosia District (Lefkoşa)
+state,Paphos District (Pafos)
+state,Benešov
+state,Beroun
+state,Blansko
+state,Břeclav
+state,Brno-město
+state,Brno-venkov
+state,Bruntál
+state,Česká Lípa
+state,České Budějovice
+state,Český Krumlov
+state,Cheb
+state,Chomutov
+state,Chrudim
+state,Děčín
+state,Domažlice
+state,Frýdek-Místek
+state,Havlíčkův Brod
+state,Hodonín
+state,Hradec Králové
+state,Jablonec nad Nisou
+state,Jeseník
+state,Jičín
+state,Jihlava
+state,Jihočeský kraj
+state,Jihomoravský kraj
+state,Jindřichův Hradec
+state,Karlovarský kraj
+state,Karlovy Vary
+state,Karviná
+state,Kladno
+state,Klatovy
+state,Kolín
+state,Kraj Vysočina
+state,Královéhradecký kraj
+state,Kroměříž
+state,Kutná Hora
+state,Liberec
+state,Liberecký kraj
+state,Litoměřice
+state,Louny
+state,Mělník
+state,Mladá Boleslav
+state,Moravskoslezský kraj
+state,Most
+state,Náchod
+state,Nový Jičín
+state,Nymburk
+state,Olomouc
+state,Olomoucký kraj
+state,Opava
+state,Ostrava-město
+state,Pardubice
+state,Pardubický kraj
+state,Pelhřimov
+state,Písek
+state,Plzeň-jih
+state,Plzeň-město
+state,Plzeň-sever
+state,Plzeňský kraj
+state,Prachatice
+state,Praha-východ
+state,Praha-západ
+state,"Praha, Hlavní město"
+state,Přerov
+state,Příbram
+state,Prostějov
+state,Rakovník
+state,Rokycany
+state,Rychnov nad Kněžnou
+state,Semily
+state,Sokolov
+state,Strakonice
+state,Středočeský kraj
+state,Šumperk
+state,Svitavy
+state,Tábor
+state,Tachov
+state,Teplice
+state,Třebíč
+state,Trutnov
+state,Uherské Hradiště
+state,Ústecký kraj
+state,Ústí nad Labem
+state,Ústí nad Orlicí
+state,Vsetín
+state,Vyškov
+state,Žďár nad Sázavou
+state,Zlín
+state,Zlínský kraj
+state,Znojmo
+state,Bas-Uélé
+state,Équateur
+state,Haut-Katanga
+state,Haut-Lomami
+state,Haut-Uélé
+state,Ituri
+state,Kasaï
+state,Kasaï Central
+state,Kasaï Oriental
+state,Kinshasa
+state,Kongo Central
+state,Kwango
+state,Kwilu
+state,Lomami
+state,Lualaba
+state,Mai-Ndombe
+state,Maniema
+state,Mongala
+state,Nord-Kivu
+state,Nord-Ubangi
+state,Sankuru
+state,Sud-Kivu
+state,Sud-Ubangi
+state,Tanganyika
+state,Tshopo
+state,Tshuapa
+state,Capital Region of Denmark
+state,Central Denmark Region
+state,North Denmark Region
+state,Region of Southern Denmark
+state,Region Zealand
+state,Ali Sabieh Region
+state,Arta Region
+state,Dikhil Region
+state,Djibouti
+state,Obock Region
+state,Tadjourah Region
+state,Saint Andrew Parish
+state,Saint David Parish
+state,Saint George Parish
+state,Saint John Parish
+state,Saint Joseph Parish
+state,Saint Luke Parish
+state,Saint Mark Parish
+state,Saint Patrick Parish
+state,Saint Paul Parish
+state,Saint Peter Parish
+state,Azua Province
+state,Baoruco Province
+state,Barahona Province
+state,Dajabón Province
+state,Distrito Nacional
+state,Duarte Province
+state,El Seibo Province
+state,Espaillat Province
+state,Hato Mayor Province
+state,Hermanas Mirabal Province
+state,Independencia
+state,La Altagracia Province
+state,La Romana Province
+state,La Vega Province
+state,María Trinidad Sánchez Province
+state,Monseñor Nouel Province
+state,Monte Cristi Province
+state,Monte Plata Province
+state,Pedernales Province
+state,Peravia Province
+state,Puerto Plata Province
+state,Samaná Province
+state,San Cristóbal Province
+state,San José de Ocoa Province
+state,San Juan Province
+state,San Pedro de Macorís
+state,Sánchez Ramírez Province
+state,Santiago Province
+state,Santiago Rodríguez Province
+state,Santo Domingo Province
+state,Valverde Province
+state,Azuay
+state,Bolívar
+state,Cañar
+state,Carchi
+state,Chimborazo
+state,Cotopaxi
+state,El Oro
+state,Esmeraldas
+state,Galápagos
+state,Guayas
+state,Imbabura
+state,Loja
+state,Los Ríos
+state,Manabí
+state,Morona-Santiago
+state,Napo
+state,Orellana
+state,Pastaza
+state,Pichincha
+state,Santa Elena
+state,Santo Domingo de los Tsáchilas
+state,Sucumbíos
+state,Tungurahua
+state,Zamora Chinchipe
+state,Alexandria
+state,Aswan
+state,Asyut
+state,Beheira
+state,Beni Suef
+state,Cairo
+state,Dakahlia
+state,Damietta
+state,Faiyum
+state,Gharbia
+state,Giza
+state,Ismailia
+state,Kafr el-Sheikh
+state,Luxor
+state,Matrouh
+state,Minya
+state,Monufia
+state,New Valley
+state,North Sinai
+state,Port Said
+state,Qalyubia
+state,Qena
+state,Red Sea
+state,Sharqia
+state,Sohag
+state,South Sinai
+state,Suez
+state,Ahuachapán Department
+state,Cabañas Department
+state,Chalatenango Department
+state,Cuscatlán Department
+state,La Libertad Department
+state,La Paz Department
+state,La Unión Department
+state,Morazán Department
+state,San Miguel Department
+state,San Salvador Department
+state,San Vicente Department
+state,Santa Ana Department
+state,Sonsonate Department
+state,Usulután Department
+state,Annobón Province
+state,Bioko Norte Province
+state,Bioko Sur Province
+state,Centro Sur Province
+state,Insular Region
+state,Kié-Ntem Province
+state,Litoral Province
+state,Río Muni
+state,Wele-Nzas Province
+state,Anseba Region
+state,Debub Region
+state,Gash-Barka Region
+state,Maekel Region
+state,Northern Red Sea Region
+state,Southern Red Sea Region
+state,Harju County
+state,Hiiu County
+state,Ida-Viru County
+state,Järva County
+state,Jõgeva County
+state,Lääne County
+state,Lääne-Viru County
+state,Pärnu County
+state,Põlva County
+state,Rapla County
+state,Saare County
+state,Tartu County
+state,Valga County
+state,Viljandi County
+state,Võru County
+state,Hhohho District
+state,Lubombo District
+state,Manzini District
+state,Shiselweni District
+state,Addis Ababa
+state,Afar Region
+state,Amhara Region
+state,Benishangul-Gumuz Region
+state,Dire Dawa
+state,Gambela Region
+state,Harari Region
+state,Oromia Region
+state,Somali Region
+state,"Southern Nations, Nationalities, and Peoples' Region"
+state,Tigray Region
+state,Eysturoy
+state,Northern Isles
+state,Sandoy
+state,Streymoy
+state,Suðuroy
+state,Vágar
+state,Ba
+state,Bua
+state,Cakaudrove
+state,Central Division
+state,Eastern Division
+state,Kadavu
+state,Lau
+state,Lomaiviti
+state,Macuata
+state,Nadroga-Navosa
+state,Naitasiri
+state,Namosi
+state,Northern Division
+state,Ra
+state,Rewa
+state,Rotuma
+state,Serua
+state,Tailevu
+state,Western Division
+state,Åland Islands
+state,Central Finland
+state,Central Ostrobothnia
+state,Finland Proper
+state,Kainuu
+state,Kymenlaakso
+state,Lapland
+state,North Karelia
+state,Northern Ostrobothnia
+state,Northern Savonia
+state,Ostrobothnia
+state,Päijänne Tavastia
+state,Pirkanmaa
+state,Satakunta
+state,South Karelia
+state,Southern Ostrobothnia
+state,Southern Savonia
+state,Tavastia Proper
+state,Uusimaa
+state,Ain
+state,Aisne
+state,Allier
+state,Alpes-de-Haute-Provence
+state,Alpes-Maritimes
+state,Alsace
+state,Ardèche
+state,Ardennes
+state,Ariège
+state,Aube
+state,Aude
+state,Auvergne-Rhône-Alpes
+state,Aveyron
+state,Bas-Rhin
+state,Bouches-du-Rhône
+state,Bourgogne-Franche-Comté
+state,Bretagne
+state,Calvados
+state,Cantal
+state,Centre-Val de Loire
+state,Charente
+state,Charente-Maritime
+state,Cher
+state,Clipperton
+state,Corrèze
+state,Corse
+state,Corse-du-Sud
+state,Côte-d'Or
+state,Côtes-d'Armor
+state,Creuse
+state,Deux-Sèvres
+state,Dordogne
+state,Doubs
+state,Drôme
+state,Essonne
+state,Eure
+state,Eure-et-Loir
+state,Finistère
+state,French Guiana
+state,French Polynesia
+state,French Southern and Antarctic Lands
+state,Gard
+state,Gers
+state,Gironde
+state,Grand-Est
+state,Guadeloupe
+state,Haut-Rhin
+state,Haute-Corse
+state,Haute-Garonne
+state,Haute-Loire
+state,Haute-Marne
+state,Haute-Saône
+state,Haute-Savoie
+state,Haute-Vienne
+state,Hautes-Alpes
+state,Hautes-Pyrénées
+state,Hauts-de-France
+state,Hauts-de-Seine
+state,Hérault
+state,Île-de-France
+state,Ille-et-Vilaine
+state,Indre
+state,Indre-et-Loire
+state,Isère
+state,Jura
+state,La Réunion
+state,Landes
+state,Loir-et-Cher
+state,Loire
+state,Loire-Atlantique
+state,Loiret
+state,Lot
+state,Lot-et-Garonne
+state,Lozère
+state,Maine-et-Loire
+state,Manche
+state,Marne
+state,Martinique
+state,Mayenne
+state,Mayotte
+state,Métropole de Lyon
+state,Meurthe-et-Moselle
+state,Meuse
+state,Morbihan
+state,Moselle
+state,Nièvre
+state,Nord
+state,Normandie
+state,Nouvelle-Aquitaine
+state,Occitanie
+state,Oise
+state,Orne
+state,Paris
+state,Pas-de-Calais
+state,Pays-de-la-Loire
+state,Provence-Alpes-Côte-d’Azur
+state,Puy-de-Dôme
+state,Pyrénées-Atlantiques
+state,Pyrénées-Orientales
+state,Rhône
+state,Saint Pierre and Miquelon
+state,Saint-Barthélemy
+state,Saint-Martin
+state,Saône-et-Loire
+state,Sarthe
+state,Savoie
+state,Seine-et-Marne
+state,Seine-Maritime
+state,Seine-Saint-Denis
+state,Somme
+state,Tarn
+state,Tarn-et-Garonne
+state,Territoire de Belfort
+state,Val-d'Oise
+state,Val-de-Marne
+state,Var
+state,Vaucluse
+state,Vendée
+state,Vienne
+state,Vosges
+state,Wallis and Futuna
+state,Yonne
+state,Yvelines
+state,Estuaire Province
+state,Haut-Ogooué Province
+state,Moyen-Ogooué Province
+state,Ngounié Province
+state,Nyanga Province
+state,Ogooué-Ivindo Province
+state,Ogooué-Lolo Province
+state,Ogooué-Maritime Province
+state,Woleu-Ntem Province
+state,Abkhazia
+state,Adjara
+state,Guria
+state,Imereti
+state,Kakheti
+state,Khelvachauri Municipality
+state,Kvemo Kartli
+state,Mtskheta-Mtianeti
+state,Racha-Lechkhumi and Kvemo Svaneti
+state,Samegrelo-Zemo Svaneti
+state,Samtskhe-Javakheti
+state,Senaki Municipality
+state,Shida Kartli
+state,Tbilisi
+state,Baden-Württemberg
+state,Bavaria
+state,Berlin
+state,Brandenburg
+state,Bremen
+state,Hamburg
+state,Hessen
+state,Lower Saxony
+state,Mecklenburg-Vorpommern
+state,North Rhine-Westphalia
+state,Rhineland-Palatinate
+state,Saarland
+state,Saxony
+state,Saxony-Anhalt
+state,Schleswig-Holstein
+state,Thuringia
+state,Ahafo
+state,Ashanti
+state,Bono
+state,Bono East
+state,Central
+state,Eastern
+state,Greater Accra
+state,North East
+state,Northern
+state,Oti
+state,Savannah
+state,Upper East
+state,Upper West
+state,Volta
+state,Western
+state,Western North
+state,Achaea Regional Unit
+state,Aetolia-Acarnania Regional Unit
+state,Arcadia Prefecture
+state,Argolis Regional Unit
+state,Attica Region
+state,Boeotia Regional Unit
+state,Central Greece Region
+state,Central Macedonia
+state,Chania Regional Unit
+state,Corfu Prefecture
+state,Corinthia Regional Unit
+state,Crete Region
+state,Drama Regional Unit
+state,East Attica Regional Unit
+state,East Macedonia and Thrace
+state,Epirus Region
+state,Euboea
+state,Grevena Prefecture
+state,Imathia Regional Unit
+state,Ioannina Regional Unit
+state,Ionian Islands Region
+state,Karditsa Regional Unit
+state,Kastoria Regional Unit
+state,Kefalonia Prefecture
+state,Kilkis Regional Unit
+state,Kozani Prefecture
+state,Laconia
+state,Larissa Prefecture
+state,Lefkada Regional Unit
+state,Pella Regional Unit
+state,Peloponnese Region
+state,Phthiotis Prefecture
+state,Preveza Prefecture
+state,Serres Prefecture
+state,South Aegean
+state,Thessaloniki Regional Unit
+state,West Greece Region
+state,West Macedonia Region
+state,Carriacou and Petite Martinique
+state,Saint Andrew Parish
+state,Saint David Parish
+state,Saint George Parish
+state,Saint John Parish
+state,Saint Mark Parish
+state,Saint Patrick Parish
+state,Alta Verapaz
+state,Baja Verapaz
+state,Chimaltenango
+state,Chiquimula
+state,El Progreso
+state,Escuintla
+state,Guatemala
+state,Huehuetenango
+state,Izabal
+state,Jalapa
+state,Jutiapa
+state,Petén
+state,Quetzaltenango
+state,Quiché
+state,Retalhuleu
+state,Sacatepéquez
+state,San Marcos
+state,Santa Rosa
+state,Sololá
+state,Suchitepéquez
+state,Totonicapán
+state,Zacapa
+state,Beyla Prefecture
+state,Boffa Prefecture
+state,Boké Prefecture
+state,Boké Region
+state,Conakry
+state,Coyah Prefecture
+state,Dabola Prefecture
+state,Dalaba Prefecture
+state,Dinguiraye Prefecture
+state,Dubréka Prefecture
+state,Faranah Prefecture
+state,Forécariah Prefecture
+state,Fria Prefecture
+state,Gaoual Prefecture
+state,Guéckédou Prefecture
+state,Kankan Prefecture
+state,Kankan Region
+state,Kérouané Prefecture
+state,Kindia Prefecture
+state,Kindia Region
+state,Kissidougou Prefecture
+state,Koubia Prefecture
+state,Koundara Prefecture
+state,Kouroussa Prefecture
+state,Labé Prefecture
+state,Labé Region
+state,Lélouma Prefecture
+state,Lola Prefecture
+state,Macenta Prefecture
+state,Mali Prefecture
+state,Mamou Prefecture
+state,Mamou Region
+state,Mandiana Prefecture
+state,Nzérékoré Prefecture
+state,Nzérékoré Region
+state,Pita Prefecture
+state,Siguiri Prefecture
+state,Télimélé Prefecture
+state,Tougué Prefecture
+state,Yomou Prefecture
+state,Bafatá
+state,Biombo Region
+state,Bolama Region
+state,Cacheu Region
+state,Gabú Region
+state,Leste Province
+state,Norte Province
+state,Oio Region
+state,Quinara Region
+state,Sul Province
+state,Tombali Region
+state,Barima-Waini
+state,Cuyuni-Mazaruni
+state,Demerara-Mahaica
+state,East Berbice-Corentyne
+state,Essequibo Islands-West Demerara
+state,Mahaica-Berbice
+state,Pomeroon-Supenaam
+state,Potaro-Siparuni
+state,Upper Demerara-Berbice
+state,Upper Takutu-Upper Essequibo
+state,Artibonite
+state,Centre
+state,Grand'Anse
+state,Nippes
+state,Nord
+state,Nord-Est
+state,Nord-Ouest
+state,Ouest
+state,Sud
+state,Sud-Est
+state,Atlántida Department
+state,Bay Islands Department
+state,Choluteca Department
+state,Colón Department
+state,Comayagua Department
+state,Copán Department
+state,Cortés Department
+state,El Paraíso Department
+state,Francisco Morazán Department
+state,Gracias a Dios Department
+state,Intibucá Department
+state,La Paz Department
+state,Lempira Department
+state,Ocotepeque Department
+state,Olancho Department
+state,Santa Bárbara Department
+state,Valle Department
+state,Yoro Department
+state,Central and Western
+state,Eastern
+state,Islands
+state,Kowloon City
+state,Kwai Tsing
+state,Kwun Tong
+state,North
+state,Sai Kung
+state,Sha Tin
+state,Sham Shui Po
+state,Southern
+state,Tai Po
+state,Tsuen Wan
+state,Tuen Mun
+state,Wan Chai
+state,Wong Tai Sin
+state,Yau Tsim Mong
+state,Yuen Long
+state,Bács-Kiskun
+state,Baranya
+state,Békés
+state,Békéscsaba
+state,Borsod-Abaúj-Zemplén
+state,Budapest
+state,Csongrád County
+state,Debrecen
+state,Dunaújváros
+state,Eger
+state,Érd
+state,Fejér County
+state,Győr
+state,Győr-Moson-Sopron County
+state,Hajdú-Bihar County
+state,Heves County
+state,Hódmezővásárhely
+state,Jász-Nagykun-Szolnok County
+state,Kaposvár
+state,Kecskemét
+state,Komárom-Esztergom
+state,Miskolc
+state,Nagykanizsa
+state,Nógrád County
+state,Nyíregyháza
+state,Pécs
+state,Pest County
+state,Salgótarján
+state,Somogy County
+state,Sopron
+state,Szabolcs-Szatmár-Bereg County
+state,Szeged
+state,Székesfehérvár
+state,Szekszárd
+state,Szolnok
+state,Szombathely
+state,Tatabánya
+state,Tolna County
+state,Vas County
+state,Veszprém
+state,Veszprém County
+state,Zala County
+state,Zalaegerszeg
+state,Capital Region
+state,Eastern Region
+state,Northeastern Region
+state,Northwestern Region
+state,Southern Peninsula Region
+state,Southern Region
+state,Western Region
+state,Westfjords
+state,Andaman and Nicobar Islands
+state,Andhra Pradesh
+state,Arunachal Pradesh
+state,Assam
+state,Bihar
+state,Chandigarh
+state,Chhattisgarh
+state,Dadra and Nagar Haveli and Daman and Diu
+state,Delhi
+state,Goa
+state,Gujarat
+state,Haryana
+state,Himachal Pradesh
+state,Jammu and Kashmir
+state,Jharkhand
+state,Karnataka
+state,Kerala
+state,Ladakh
+state,Lakshadweep
+state,Madhya Pradesh
+state,Maharashtra
+state,Manipur
+state,Meghalaya
+state,Mizoram
+state,Nagaland
+state,Odisha
+state,Puducherry
+state,Punjab
+state,Rajasthan
+state,Sikkim
+state,Tamil Nadu
+state,Telangana
+state,Tripura
+state,Uttar Pradesh
+state,Uttarakhand
+state,West Bengal
+state,Aceh
+state,Bali
+state,Banten
+state,Bengkulu
+state,DI Yogyakarta
+state,DKI Jakarta
+state,Gorontalo
+state,Jambi
+state,Jawa Barat
+state,Jawa Tengah
+state,Jawa Timur
+state,Kalimantan Barat
+state,Kalimantan Selatan
+state,Kalimantan Tengah
+state,Kalimantan Timur
+state,Kalimantan Utara
+state,Kepulauan Bangka Belitung
+state,Kepulauan Riau
+state,Lampung
+state,Maluku
+state,Maluku Utara
+state,Nusa Tenggara Barat
+state,Nusa Tenggara Timur
+state,Papua
+state,Papua Barat
+state,Papua Barat Daya
+state,Papua Pegunungan
+state,Papua Selatan
+state,Papua Tengah
+state,Riau
+state,Sulawesi Barat
+state,Sulawesi Selatan
+state,Sulawesi Tengah
+state,Sulawesi Tenggara
+state,Sulawesi Utara
+state,Sumatera Barat
+state,Sumatera Selatan
+state,Sumatera Utara
+state,Alborz
+state,Ardabil
+state,Bushehr
+state,Chaharmahal and Bakhtiari
+state,East Azerbaijan
+state,Fars
+state,Gilan
+state,Golestan
+state,Hamadan
+state,Hormozgan
+state,Ilam
+state,Isfahan
+state,Kerman
+state,Kermanshah
+state,Khuzestan
+state,Kohgiluyeh and Boyer-Ahmad
+state,Kurdistan
+state,Lorestan
+state,Markazi
+state,Mazandaran
+state,North Khorasan
+state,Qazvin
+state,Qom
+state,Razavi Khorasan
+state,Semnan
+state,Sistan and Baluchestan
+state,South Khorasan
+state,Tehran
+state,West Azarbaijan
+state,Yazd
+state,Zanjan
+state,Al Anbar
+state,Al Muthanna
+state,Al-Qādisiyyah
+state,Babylon
+state,Baghdad
+state,Basra
+state,Dhi Qar
+state,Diyala
+state,Dohuk
+state,Erbil
+state,Karbala
+state,Kirkuk
+state,Maysan
+state,Najaf
+state,Nineveh
+state,Saladin
+state,Sulaymaniyah
+state,Wasit
+state,Carlow
+state,Cavan
+state,Clare
+state,Connacht
+state,Cork
+state,Donegal
+state,Dublin
+state,Galway
+state,Kerry
+state,Kildare
+state,Kilkenny
+state,Laois
+state,Leinster
+state,Limerick
+state,Longford
+state,Louth
+state,Mayo
+state,Meath
+state,Monaghan
+state,Munster
+state,Offaly
+state,Roscommon
+state,Sligo
+state,Tipperary
+state,Ulster
+state,Waterford
+state,Westmeath
+state,Wexford
+state,Wicklow
+state,Central District
+state,Haifa District
+state,Jerusalem District
+state,Northern District
+state,Southern District
+state,Tel Aviv District
+state,Abruzzo
+state,Agrigento
+state,Alessandria
+state,Ancona
+state,Aosta Valley
+state,Apulia
+state,Ascoli Piceno
+state,Asti
+state,Avellino
+state,Barletta-Andria-Trani
+state,Basilicata
+state,Belluno
+state,Benevento
+state,Bergamo
+state,Biella
+state,Brescia
+state,Brindisi
+state,Calabria
+state,Caltanissetta
+state,Campania
+state,Campobasso
+state,Caserta
+state,Catanzaro
+state,Chieti
+state,Como
+state,Cosenza
+state,Cremona
+state,Crotone
+state,Cuneo
+state,Emilia-Romagna
+state,Enna
+state,Fermo
+state,Ferrara
+state,Foggia
+state,Forlì-Cesena
+state,Friuli–Venezia Giulia
+state,Frosinone
+state,Gorizia
+state,Grosseto
+state,Imperia
+state,Isernia
+state,L'Aquila
+state,La Spezia
+state,Latina
+state,Lazio
+state,Lecce
+state,Lecco
+state,Liguria
+state,Livorno
+state,Lodi
+state,Lombardy
+state,Lucca
+state,Macerata
+state,Mantua
+state,Marche
+state,Massa and Carrara
+state,Matera
+state,Medio Campidano
+state,Modena
+state,Molise
+state,Monza and Brianza
+state,Novara
+state,Nuoro
+state,Oristano
+state,Padua
+state,Palermo
+state,Parma
+state,Pavia
+state,Perugia
+state,Pesaro and Urbino
+state,Pescara
+state,Piacenza
+state,Piedmont
+state,Pisa
+state,Pistoia
+state,Pordenone
+state,Potenza
+state,Prato
+state,Ragusa
+state,Ravenna
+state,Reggio Emilia
+state,Rieti
+state,Rimini
+state,Rovigo
+state,Salerno
+state,Sardinia
+state,Sassari
+state,Savona
+state,Sicily
+state,Siena
+state,Siracusa
+state,Sondrio
+state,South Sardinia
+state,Taranto
+state,Teramo
+state,Terni
+state,Trapani
+state,Trentino-South Tyrol
+state,Treviso
+state,Trieste
+state,Tuscany
+state,Udine
+state,Umbria
+state,Varese
+state,Veneto
+state,Verbano-Cusio-Ossola
+state,Vercelli
+state,Verona
+state,Vibo Valentia
+state,Vicenza
+state,Viterbo
+state,Clarendon Parish
+state,Hanover Parish
+state,Kingston Parish
+state,Manchester Parish
+state,Portland Parish
+state,Saint Andrew
+state,Saint Ann Parish
+state,Saint Catherine Parish
+state,Saint Elizabeth Parish
+state,Saint James Parish
+state,Saint Mary Parish
+state,Saint Thomas Parish
+state,Trelawny Parish
+state,Westmoreland Parish
+state,Aichi Prefecture
+state,Akita Prefecture
+state,Aomori Prefecture
+state,Chiba Prefecture
+state,Ehime Prefecture
+state,Fukui Prefecture
+state,Fukuoka Prefecture
+state,Fukushima Prefecture
+state,Gifu Prefecture
+state,Gunma Prefecture
+state,Hiroshima Prefecture
+state,Hokkaidō Prefecture
+state,Hyōgo Prefecture
+state,Ibaraki Prefecture
+state,Ishikawa Prefecture
+state,Iwate Prefecture
+state,Kagawa Prefecture
+state,Kagoshima Prefecture
+state,Kanagawa Prefecture
+state,Kōchi Prefecture
+state,Kumamoto Prefecture
+state,Kyōto Prefecture
+state,Mie Prefecture
+state,Miyagi Prefecture
+state,Miyazaki Prefecture
+state,Nagano Prefecture
+state,Nagasaki Prefecture
+state,Nara Prefecture
+state,Niigata Prefecture
+state,Ōita Prefecture
+state,Okayama Prefecture
+state,Okinawa Prefecture
+state,Ōsaka Prefecture
+state,Saga Prefecture
+state,Saitama Prefecture
+state,Shiga Prefecture
+state,Shimane Prefecture
+state,Shizuoka Prefecture
+state,Tochigi Prefecture
+state,Tokushima Prefecture
+state,Tokyo
+state,Tottori Prefecture
+state,Toyama Prefecture
+state,Wakayama Prefecture
+state,Yamagata Prefecture
+state,Yamaguchi Prefecture
+state,Yamanashi Prefecture
+state,Ajloun
+state,Amman
+state,Aqaba
+state,Balqa
+state,Irbid
+state,Jerash
+state,Karak
+state,Ma'an
+state,Madaba
+state,Mafraq
+state,Tafilah
+state,Zarqa
+state,Akmola Region
+state,Aktobe Region
+state,Almaty
+state,Almaty Region
+state,Atyrau Region
+state,Baikonur
+state,East Kazakhstan Region
+state,Jambyl Region
+state,Karaganda Region
+state,Kostanay Region
+state,Kyzylorda Region
+state,Mangystau Region
+state,North Kazakhstan Region
+state,Nur-Sultan
+state,Pavlodar Region
+state,Turkestan Region
+state,West Kazakhstan Province
+state,Baringo
+state,Bomet
+state,Bungoma
+state,Busia
+state,Elgeyo-Marakwet
+state,Embu
+state,Garissa
+state,Homa Bay
+state,Isiolo
+state,Kajiado
+state,Kakamega
+state,Kericho
+state,Kiambu
+state,Kilifi
+state,Kirinyaga
+state,Kisii
+state,Kisumu
+state,Kitui
+state,Kwale
+state,Laikipia
+state,Lamu
+state,Machakos
+state,Makueni
+state,Mandera
+state,Marsabit
+state,Meru
+state,Migori
+state,Mombasa
+state,Murang'a
+state,Nairobi City
+state,Nakuru
+state,Nandi
+state,Narok
+state,Nyamira
+state,Nyandarua
+state,Nyeri
+state,Samburu
+state,Siaya
+state,Taita–Taveta
+state,Tana River
+state,Tharaka-Nithi
+state,Trans Nzoia
+state,Turkana
+state,Uasin Gishu
+state,Vihiga
+state,Wajir
+state,West Pokot
+state,Gilbert Islands
+state,Line Islands
+state,Phoenix Islands
+state,Đakovica District (Gjakove)
+state,Gjilan District
+state,Kosovska Mitrovica District
+state,Peć District
+state,Pristina (Priştine)
+state,Prizren District
+state,Uroševac District (Ferizaj)
+state,Al Ahmadi
+state,Al Farwaniyah
+state,Al Jahra
+state,Capital
+state,Hawalli
+state,Mubarak Al-Kabeer
+state,Batken Region
+state,Bishkek
+state,Chuy Region
+state,Issyk-Kul Region
+state,Jalal-Abad Region
+state,Naryn Region
+state,Osh
+state,Osh Region
+state,Talas Region
+state,Attapeu Province
+state,Bokeo Province
+state,Bolikhamsai Province
+state,Champasak Province
+state,Houaphanh Province
+state,Khammouane Province
+state,Luang Namtha Province
+state,Luang Prabang Province
+state,Oudomxay Province
+state,Phongsaly Province
+state,Sainyabuli Province
+state,Salavan Province
+state,Savannakhet Province
+state,Sekong Province
+state,Vientiane Prefecture
+state,Vientiane Province
+state,Xaisomboun
+state,Xaisomboun Province
+state,Xiangkhouang Province
+state,Aglona Municipality
+state,Aizkraukle Municipality
+state,Aizpute Municipality
+state,Aknīste Municipality
+state,Aloja Municipality
+state,Alsunga Municipality
+state,Alūksne Municipality
+state,Amata Municipality
+state,Ape Municipality
+state,Auce Municipality
+state,Babīte Municipality
+state,Baldone Municipality
+state,Baltinava Municipality
+state,Balvi Municipality
+state,Bauska Municipality
+state,Beverīna Municipality
+state,Brocēni Municipality
+state,Burtnieki Municipality
+state,Carnikava Municipality
+state,Cēsis Municipality
+state,Cesvaine Municipality
+state,Cibla Municipality
+state,Dagda Municipality
+state,Daugavpils
+state,Daugavpils Municipality
+state,Dobele Municipality
+state,Dundaga Municipality
+state,Durbe Municipality
+state,Engure Municipality
+state,Ērgļi Municipality
+state,Garkalne Municipality
+state,Grobiņa Municipality
+state,Gulbene Municipality
+state,Iecava Municipality
+state,Ikšķile Municipality
+state,Ilūkste Municipality
+state,Inčukalns Municipality
+state,Jaunjelgava Municipality
+state,Jaunpiebalga Municipality
+state,Jaunpils Municipality
+state,Jēkabpils
+state,Jēkabpils Municipality
+state,Jelgava
+state,Jelgava Municipality
+state,Jūrmala
+state,Kandava Municipality
+state,Kārsava Municipality
+state,Ķegums Municipality
+state,Ķekava Municipality
+state,Kocēni Municipality
+state,Koknese Municipality
+state,Krāslava Municipality
+state,Krimulda Municipality
+state,Krustpils Municipality
+state,Kuldīga Municipality
+state,Lielvārde Municipality
+state,Liepāja
+state,Līgatne Municipality
+state,Limbaži Municipality
+state,Līvāni Municipality
+state,Lubāna Municipality
+state,Ludza Municipality
+state,Madona Municipality
+state,Mālpils Municipality
+state,Mārupe Municipality
+state,Mazsalaca Municipality
+state,Mērsrags Municipality
+state,Naukšēni Municipality
+state,Nereta Municipality
+state,Nīca Municipality
+state,Ogre Municipality
+state,Olaine Municipality
+state,Ozolnieki Municipality
+state,Pārgauja Municipality
+state,Pāvilosta Municipality
+state,Pļaviņas Municipality
+state,Preiļi Municipality
+state,Priekule Municipality
+state,Priekuļi Municipality
+state,Rauna Municipality
+state,Rēzekne
+state,Rēzekne Municipality
+state,Riebiņi Municipality
+state,Riga
+state,Roja Municipality
+state,Ropaži Municipality
+state,Rucava Municipality
+state,Rugāji Municipality
+state,Rūjiena Municipality
+state,Rundāle Municipality
+state,Sala Municipality
+state,Salacgrīva Municipality
+state,Salaspils Municipality
+state,Saldus Municipality
+state,Saulkrasti Municipality
+state,Sēja Municipality
+state,Sigulda Municipality
+state,Skrīveri Municipality
+state,Skrunda Municipality
+state,Smiltene Municipality
+state,Stopiņi Municipality
+state,Strenči Municipality
+state,Talsi Municipality
+state,Tērvete Municipality
+state,Tukums Municipality
+state,Vaiņode Municipality
+state,Valka Municipality
+state,Valmiera
+state,Varakļāni Municipality
+state,Vārkava Municipality
+state,Vecpiebalga Municipality
+state,Vecumnieki Municipality
+state,Ventspils
+state,Ventspils Municipality
+state,Viesīte Municipality
+state,Viļaka Municipality
+state,Viļāni Municipality
+state,Zilupe Municipality
+state,Akkar
+state,Baalbek-Hermel
+state,Beirut
+state,Beqaa
+state,Mount Lebanon
+state,Nabatieh
+state,North
+state,South
+state,Berea District
+state,Butha-Buthe District
+state,Leribe District
+state,Mafeteng District
+state,Maseru District
+state,Mohale's Hoek District
+state,Mokhotlong District
+state,Qacha's Nek District
+state,Quthing District
+state,Thaba-Tseka District
+state,Bomi County
+state,Bong County
+state,Gbarpolu County
+state,Grand Bassa County
+state,Grand Cape Mount County
+state,Grand Gedeh County
+state,Grand Kru County
+state,Lofa County
+state,Margibi County
+state,Maryland County
+state,Montserrado County
+state,Nimba
+state,River Cess County
+state,River Gee County
+state,Sinoe County
+state,Al Wahat District
+state,Benghazi
+state,Derna District
+state,Ghat District
+state,Jabal al Akhdar
+state,Jabal al Gharbi District
+state,Jafara
+state,Jufra
+state,Kufra District
+state,Marj District
+state,Misrata District
+state,Murqub
+state,Murzuq District
+state,Nalut District
+state,Nuqat al Khams
+state,Sabha District
+state,Sirte District
+state,Tripoli District
+state,Wadi al Hayaa District
+state,Wadi al Shatii District
+state,Zawiya District
+state,Balzers
+state,Eschen
+state,Gamprin
+state,Mauren
+state,Planken
+state,Ruggell
+state,Schaan
+state,Schellenberg
+state,Triesen
+state,Triesenberg
+state,Vaduz
+state,Akmenė District Municipality
+state,Alytus City Municipality
+state,Alytus County
+state,Alytus District Municipality
+state,Birštonas Municipality
+state,Biržai District Municipality
+state,Druskininkai municipality
+state,Elektrėnai municipality
+state,Ignalina District Municipality
+state,Jonava District Municipality
+state,Joniškis District Municipality
+state,Jurbarkas District Municipality
+state,Kaišiadorys District Municipality
+state,Kalvarija municipality
+state,Kaunas City Municipality
+state,Kaunas County
+state,Kaunas District Municipality
+state,Kazlų Rūda municipality
+state,Kėdainiai District Municipality
+state,Kelmė District Municipality
+state,Klaipeda City Municipality
+state,Klaipėda County
+state,Klaipėda District Municipality
+state,Kretinga District Municipality
+state,Kupiškis District Municipality
+state,Lazdijai District Municipality
+state,Marijampolė County
+state,Marijampolė Municipality
+state,Mažeikiai District Municipality
+state,Molėtai District Municipality
+state,Neringa Municipality
+state,Pagėgiai municipality
+state,Pakruojis District Municipality
+state,Palanga City Municipality
+state,Panevėžys City Municipality
+state,Panevėžys County
+state,Panevėžys District Municipality
+state,Pasvalys District Municipality
+state,Plungė District Municipality
+state,Prienai District Municipality
+state,Radviliškis District Municipality
+state,Raseiniai District Municipality
+state,Rietavas municipality
+state,Rokiškis District Municipality
+state,Šakiai District Municipality
+state,Šalčininkai District Municipality
+state,Šiauliai City Municipality
+state,Šiauliai County
+state,Šiauliai District Municipality
+state,Šilalė District Municipality
+state,Šilutė District Municipality
+state,Širvintos District Municipality
+state,Skuodas District Municipality
+state,Švenčionys District Municipality
+state,Tauragė County
+state,Tauragė District Municipality
+state,Telšiai County
+state,Telšiai District Municipality
+state,Trakai District Municipality
+state,Ukmergė District Municipality
+state,Utena County
+state,Utena District Municipality
+state,Varėna District Municipality
+state,Vilkaviškis District Municipality
+state,Vilnius City Municipality
+state,Vilnius County
+state,Vilnius District Municipality
+state,Visaginas Municipality
+state,Zarasai District Municipality
+state,Canton of Capellen
+state,Canton of Clervaux
+state,Canton of Diekirch
+state,Canton of Echternach
+state,Canton of Esch-sur-Alzette
+state,Canton of Grevenmacher
+state,Canton of Luxembourg
+state,Canton of Mersch
+state,Canton of Redange
+state,Canton of Remich
+state,Canton of Vianden
+state,Canton of Wiltz
+state,Diekirch District
+state,Grevenmacher District
+state,Luxembourg District
+state,Antananarivo Province
+state,Antsiranana Province
+state,Fianarantsoa Province
+state,Mahajanga Province
+state,Toamasina Province
+state,Toliara Province
+state,Balaka District
+state,Blantyre District
+state,Central Region
+state,Chikwawa District
+state,Chiradzulu District
+state,Chitipa district
+state,Dedza District
+state,Dowa District
+state,Karonga District
+state,Kasungu District
+state,Likoma District
+state,Lilongwe District
+state,Machinga District
+state,Mangochi District
+state,Mchinji District
+state,Mulanje District
+state,Mwanza District
+state,Mzimba District
+state,Nkhata Bay District
+state,Nkhotakota District
+state,Northern Region
+state,Nsanje District
+state,Ntcheu District
+state,Ntchisi District
+state,Phalombe District
+state,Rumphi District
+state,Salima District
+state,Southern Region
+state,Thyolo District
+state,Zomba District
+state,Johor
+state,Kedah
+state,Kelantan
+state,Kuala Lumpur
+state,Labuan
+state,Malacca
+state,Negeri Sembilan
+state,Pahang
+state,Penang
+state,Perak
+state,Perlis
+state,Putrajaya
+state,Sabah
+state,Sarawak
+state,Selangor
+state,Terengganu
+state,Addu Atoll
+state,Alif Alif Atoll
+state,Alif Dhaal Atoll
+state,Central Province
+state,Dhaalu Atoll
+state,Faafu Atoll
+state,Gaafu Alif Atoll
+state,Gaafu Dhaalu Atoll
+state,Gnaviyani Atoll
+state,Haa Alif Atoll
+state,Haa Dhaalu Atoll
+state,Kaafu Atoll
+state,Laamu Atoll
+state,Lhaviyani Atoll
+state,Malé
+state,Meemu Atoll
+state,Noonu Atoll
+state,North Central Province
+state,North Province
+state,Raa Atoll
+state,Shaviyani Atoll
+state,South Central Province
+state,South Province
+state,Thaa Atoll
+state,Upper South Province
+state,Vaavu Atoll
+state,Bamako
+state,Gao Region
+state,Kayes Region
+state,Kidal Region
+state,Koulikoro Region
+state,Ménaka Region
+state,Mopti Region
+state,Ségou Region
+state,Sikasso Region
+state,Taoudénit Region
+state,Tombouctou Region
+state,Attard
+state,Balzan
+state,Birgu
+state,Birkirkara
+state,Birżebbuġa
+state,Cospicua
+state,Dingli
+state,Fgura
+state,Floriana
+state,Fontana
+state,Għajnsielem
+state,Għarb
+state,Għargħur
+state,Għasri
+state,Għaxaq
+state,Gudja
+state,Gżira
+state,Ħamrun
+state,Iklin
+state,Kalkara
+state,Kerċem
+state,Kirkop
+state,Lija
+state,Luqa
+state,Marsa
+state,Marsaskala
+state,Marsaxlokk
+state,Mdina
+state,Mellieħa
+state,Mġarr
+state,Mosta
+state,Mqabba
+state,Msida
+state,Mtarfa
+state,Munxar
+state,Nadur
+state,Naxxar
+state,Paola
+state,Pembroke
+state,Pietà
+state,Qala
+state,Qormi
+state,Qrendi
+state,Rabat
+state,San Ġwann
+state,San Lawrenz
+state,Sannat
+state,Santa Luċija
+state,Santa Venera
+state,Senglea
+state,Siġġiewi
+state,Sliema
+state,St. Julian's
+state,St. Paul's Bay
+state,Swieqi
+state,Ta' Xbiex
+state,Tarxien
+state,Valletta
+state,Victoria
+state,Xagħra
+state,Xewkija
+state,Xgħajra
+state,Żabbar
+state,Żebbuġ Gozo
+state,Żebbuġ Malta
+state,Żejtun
+state,Żurrieq
+state,Ralik Chain
+state,Ratak Chain
+state,Adrar
+state,Assaba
+state,Brakna
+state,Dakhlet Nouadhibou
+state,Gorgol
+state,Guidimaka
+state,Hodh Ech Chargui
+state,Hodh El Gharbi
+state,Inchiri
+state,Nouakchott-Nord
+state,Nouakchott-Ouest
+state,Nouakchott-Sud
+state,Tagant
+state,Tiris Zemmour
+state,Trarza
+state,Agalega Islands
+state,Black River
+state,Flacq
+state,Grand Port
+state,Moka
+state,Pamplemousses
+state,Plaines Wilhems
+state,Port Louis
+state,Rivière du Rempart
+state,Rodrigues Island
+state,Saint Brandon Islands
+state,Savanne
+state,Aguascalientes
+state,Baja California
+state,Baja California Sur
+state,Campeche
+state,Chiapas
+state,Chihuahua
+state,Ciudad de México
+state,Coahuila de Zaragoza
+state,Colima
+state,Durango
+state,Estado de México
+state,Guanajuato
+state,Guerrero
+state,Hidalgo
+state,Jalisco
+state,Michoacán de Ocampo
+state,Morelos
+state,Nayarit
+state,Nuevo León
+state,Oaxaca
+state,Puebla
+state,Querétaro
+state,Quintana Roo
+state,San Luis Potosí
+state,Sinaloa
+state,Sonora
+state,Tabasco
+state,Tamaulipas
+state,Tlaxcala
+state,Veracruz de Ignacio de la Llave
+state,Yucatán
+state,Zacatecas
+state,Chuuk State
+state,Kosrae State
+state,Pohnpei State
+state,Yap State
+state,Anenii Noi District
+state,Bălți Municipality
+state,Basarabeasca District
+state,Bender Municipality
+state,Briceni District
+state,Cahul District
+state,Călărași District
+state,Cantemir District
+state,Căușeni District
+state,Chișinău Municipality
+state,Cimișlia District
+state,Criuleni District
+state,Dondușeni District
+state,Drochia District
+state,Dubăsari District
+state,Edineț District
+state,Fălești District
+state,Florești District
+state,Gagauzia
+state,Glodeni District
+state,Hîncești District
+state,Ialoveni District
+state,Nisporeni District
+state,Ocnița District
+state,Orhei District
+state,Rezina District
+state,Rîșcani District
+state,Sîngerei District
+state,Șoldănești District
+state,Soroca District
+state,Ștefan Vodă District
+state,Strășeni District
+state,Taraclia District
+state,Telenești District
+state,Transnistria autonomous territorial unit
+state,Ungheni District
+state,La Colle
+state,La Condamine
+state,Moneghetti
+state,Arkhangai Province
+state,Bayan-Ölgii Province
+state,Bayankhongor Province
+state,Bulgan Province
+state,Darkhan-Uul Province
+state,Dornod Province
+state,Dornogovi Province
+state,Dundgovi Province
+state,Govi-Altai Province
+state,Govisümber Province
+state,Khentii Province
+state,Khovd Province
+state,Khövsgöl Province
+state,Ömnögovi Province
+state,Orkhon Province
+state,Övörkhangai Province
+state,Selenge Province
+state,Sükhbaatar Province
+state,Töv Province
+state,Uvs Province
+state,Zavkhan Province
+state,Andrijevica Municipality
+state,Bar Municipality
+state,Berane Municipality
+state,Bijelo Polje Municipality
+state,Budva Municipality
+state,Danilovgrad Municipality
+state,Gusinje Municipality
+state,Kolašin Municipality
+state,Kotor Municipality
+state,Mojkovac Municipality
+state,Nikšić Municipality
+state,Old Royal Capital Cetinje
+state,Petnjica Municipality
+state,Plav Municipality
+state,Pljevlja Municipality
+state,Plužine Municipality
+state,Podgorica Municipality
+state,Rožaje Municipality
+state,Šavnik Municipality
+state,Tivat Municipality
+state,Ulcinj Municipality
+state,Žabljak Municipality
+state,Agadir-Ida-Ou-Tanane
+state,Al Haouz
+state,Al Hoceïma
+state,Aousserd (EH)
+state,Assa-Zag (EH-partial)
+state,Azilal
+state,Béni Mellal
+state,Béni Mellal-Khénifra
+state,Benslimane
+state,Berkane
+state,Berrechid
+state,Boujdour (EH)
+state,Boulemane
+state,Casablanca
+state,Casablanca-Settat
+state,Chefchaouen
+state,Chichaoua
+state,Chtouka-Ait Baha
+state,Dakhla-Oued Ed-Dahab (EH)
+state,Drâa-Tafilalet
+state,Driouch
+state,El Hajeb
+state,El Jadida
+state,El Kelâa des Sraghna
+state,Errachidia
+state,Es-Semara (EH-partial)
+state,Essaouira
+state,Fahs-Anjra
+state,Fès
+state,Fès-Meknès
+state,Figuig
+state,Fquih Ben Salah
+state,Guelmim
+state,Guelmim-Oued Noun (EH-partial)
+state,Guercif
+state,Ifrane
+state,Inezgane-Ait Melloul
+state,Jerada
+state,Kénitra
+state,Khémisset
+state,Khénifra
+state,Khouribga
+state,L'Oriental
+state,Laâyoune (EH)
+state,Laâyoune-Sakia El Hamra (EH-partial)
+state,Larache
+state,M’diq-Fnideq
+state,Marrakech
+state,Marrakesh-Safi
+state,Médiouna
+state,Meknès
+state,Midelt
+state,Mohammadia
+state,Moulay Yacoub
+state,Nador
+state,Nouaceur
+state,Ouarzazate
+state,Oued Ed-Dahab (EH)
+state,Ouezzane
+state,Oujda-Angad
+state,Rabat
+state,Rabat-Salé-Kénitra
+state,Rehamna
+state,Safi
+state,Salé
+state,Sefrou
+state,Settat
+state,Sidi Bennour
+state,Sidi Ifni
+state,Sidi Kacem
+state,Sidi Slimane
+state,Skhirate-Témara
+state,Souss-Massa
+state,Tan-Tan (EH-partial)
+state,Tanger-Assilah
+state,Tanger-Tétouan-Al Hoceïma
+state,Taounate
+state,Taourirt
+state,Tarfaya (EH-partial)
+state,Taroudannt
+state,Tata
+state,Taza
+state,Tétouan
+state,Tinghir
+state,Tiznit
+state,Youssoufia
+state,Zagora
+state,Cabo Delgado Province
+state,Gaza Province
+state,Inhambane Province
+state,Manica Province
+state,Maputo
+state,Maputo Province
+state,Nampula Province
+state,Niassa Province
+state,Sofala Province
+state,Tete Province
+state,Zambezia Province
+state,Ayeyarwady Region
+state,Bago
+state,Chin State
+state,Kachin State
+state,Kayah State
+state,Kayin State
+state,Magway Region
+state,Mandalay Region
+state,Mon State
+state,Naypyidaw Union Territory
+state,Rakhine State
+state,Sagaing Region
+state,Shan State
+state,Tanintharyi Region
+state,Yangon Region
+state,Erongo Region
+state,Hardap Region
+state,Karas Region
+state,Kavango East Region
+state,Kavango West Region
+state,Khomas Region
+state,Kunene Region
+state,Ohangwena Region
+state,Omaheke Region
+state,Omusati Region
+state,Oshana Region
+state,Oshikoto Region
+state,Otjozondjupa Region
+state,Zambezi Region
+state,Aiwo District
+state,Anabar District
+state,Anetan District
+state,Anibare District
+state,Baiti District
+state,Boe District
+state,Buada District
+state,Denigomodu District
+state,Ewa District
+state,Ijuw District
+state,Meneng District
+state,Nibok District
+state,Uaboe District
+state,Yaren District
+state,Bagmati
+state,Gandaki
+state,Karnali
+state,Koshi
+state,Lumbini
+state,Madhesh
+state,Sudurpashchim
+state,Bonaire
+state,Drenthe
+state,Flevoland
+state,Friesland
+state,Gelderland
+state,Groningen
+state,Limburg
+state,North Brabant
+state,North Holland
+state,Overijssel
+state,Saba
+state,Sint Eustatius
+state,South Holland
+state,Utrecht
+state,Zeeland
+state,Loyalty Islands Province
+state,North Province
+state,South Province
+state,Auckland Region
+state,Bay of Plenty Region
+state,Canterbury Region
+state,Chatham Islands
+state,Gisborne District
+state,Hawke's Bay Region
+state,Manawatu-Wanganui Region
+state,Marlborough Region
+state,Nelson Region
+state,Northland Region
+state,Otago Region
+state,Southland Region
+state,Taranaki Region
+state,Tasman District
+state,Waikato Region
+state,Wellington Region
+state,West Coast Region
+state,Boaco
+state,Carazo
+state,Chinandega
+state,Chontales
+state,Estelí
+state,Granada
+state,Jinotega
+state,León
+state,Madriz
+state,Managua
+state,Masaya
+state,Matagalpa
+state,North Caribbean Coast
+state,Nueva Segovia
+state,Río San Juan
+state,Rivas
+state,South Caribbean Coast
+state,Agadez Region
+state,Diffa Region
+state,Dosso Region
+state,Maradi Region
+state,Tahoua Region
+state,Tillabéri Region
+state,Zinder Region
+state,Abia
+state,Abuja Federal Capital Territory
+state,Adamawa
+state,Akwa Ibom
+state,Anambra
+state,Bauchi
+state,Bayelsa
+state,Benue
+state,Borno
+state,Cross River
+state,Delta
+state,Ebonyi
+state,Edo
+state,Ekiti
+state,Enugu
+state,Gombe
+state,Imo
+state,Jigawa
+state,Kaduna
+state,Kano
+state,Katsina
+state,Kebbi
+state,Kogi
+state,Kwara
+state,Lagos
+state,Nasarawa
+state,Niger
+state,Ogun
+state,Ondo
+state,Osun
+state,Oyo
+state,Plateau
+state,Rivers
+state,Sokoto
+state,Taraba
+state,Yobe
+state,Zamfara
+state,Chagang Province
+state,Kangwon Province
+state,North Hamgyong Province
+state,North Hwanghae Province
+state,North Pyongan Province
+state,Pyongyang
+state,Rason
+state,Ryanggang Province
+state,South Hamgyong Province
+state,South Hwanghae Province
+state,South Pyongan Province
+state,Aerodrom Municipality
+state,Aračinovo Municipality
+state,Berovo Municipality
+state,Bitola Municipality
+state,Bogdanci Municipality
+state,Bogovinje Municipality
+state,Bosilovo Municipality
+state,Brvenica Municipality
+state,Butel Municipality
+state,Čair Municipality
+state,Čaška Municipality
+state,Centar Municipality
+state,Centar Župa Municipality
+state,Češinovo-Obleševo Municipality
+state,Čučer-Sandevo Municipality
+state,Debarca Municipality
+state,Delčevo Municipality
+state,Demir Hisar Municipality
+state,Demir Kapija Municipality
+state,Dojran Municipality
+state,Dolneni Municipality
+state,Drugovo Municipality
+state,Gazi Baba Municipality
+state,Gevgelija Municipality
+state,Gjorče Petrov Municipality
+state,Gostivar Municipality
+state,Gradsko Municipality
+state,Greater Skopje
+state,Ilinden Municipality
+state,Jegunovce Municipality
+state,Karbinci
+state,Karpoš Municipality
+state,Kavadarci Municipality
+state,Kičevo Municipality
+state,Kisela Voda Municipality
+state,Kočani Municipality
+state,Konče Municipality
+state,Kratovo Municipality
+state,Kriva Palanka Municipality
+state,Krivogaštani Municipality
+state,Kruševo Municipality
+state,Kumanovo Municipality
+state,Lipkovo Municipality
+state,Lozovo Municipality
+state,Makedonska Kamenica Municipality
+state,Makedonski Brod Municipality
+state,Mavrovo and Rostuša Municipality
+state,Mogila Municipality
+state,Negotino Municipality
+state,Novaci Municipality
+state,Novo Selo Municipality
+state,Ohrid Municipality
+state,Oslomej Municipality
+state,Pehčevo Municipality
+state,Petrovec Municipality
+state,Plasnica Municipality
+state,Prilep Municipality
+state,Probištip Municipality
+state,Radoviš Municipality
+state,Rankovce Municipality
+state,Resen Municipality
+state,Rosoman Municipality
+state,Saraj Municipality
+state,Sopište Municipality
+state,Staro Nagoričane Municipality
+state,Štip Municipality
+state,Struga Municipality
+state,Strumica Municipality
+state,Studeničani Municipality
+state,Šuto Orizari Municipality
+state,Sveti Nikole Municipality
+state,Tearce Municipality
+state,Tetovo Municipality
+state,Valandovo Municipality
+state,Vasilevo Municipality
+state,Veles Municipality
+state,Vevčani Municipality
+state,Vinica Municipality
+state,Vraneštica Municipality
+state,Vrapčište Municipality
+state,Zajas Municipality
+state,Zelenikovo Municipality
+state,Želino Municipality
+state,Zrnovci Municipality
+state,Agder
+state,Innlandet
+state,Jan Mayen
+state,Møre og Romsdal
+state,Nordland
+state,Oslo
+state,Rogaland
+state,Svalbard
+state,Troms og Finnmark
+state,Trøndelag
+state,Vestfold og Telemark
+state,Vestland
+state,Viken
+state,Ad Dakhiliyah
+state,Ad Dhahirah
+state,Al Batinah North
+state,Al Batinah Region
+state,Al Batinah South
+state,Al Buraimi
+state,Al Wusta
+state,Ash Sharqiyah North
+state,Ash Sharqiyah Region
+state,Ash Sharqiyah South
+state,Dhofar
+state,Musandam
+state,Muscat
+state,Azad Kashmir
+state,Balochistan
+state,Federally Administered Tribal Areas
+state,Gilgit-Baltistan
+state,Islamabad Capital Territory
+state,Khyber Pakhtunkhwa
+state,Punjab
+state,Sindh
+state,Aimeliik
+state,Airai
+state,Angaur
+state,Hatohobei
+state,Kayangel
+state,Koror
+state,Melekeok
+state,Ngaraard
+state,Ngarchelong
+state,Ngardmau
+state,Ngatpang
+state,Ngchesar
+state,Ngeremlengui
+state,Ngiwal
+state,Peleliu
+state,Sonsorol
+state,Bethlehem
+state,Deir El Balah
+state,Gaza
+state,Hebron
+state,Jenin
+state,Jericho and Al Aghwar
+state,Jerusalem
+state,Khan Yunis
+state,Nablus
+state,North Gaza
+state,Qalqilya
+state,Rafah
+state,Ramallah
+state,Salfit
+state,Tubas
+state,Tulkarm
+state,Bocas del Toro Province
+state,Chiriquí Province
+state,Coclé Province
+state,Colón Province
+state,Darién Province
+state,Emberá-Wounaan Comarca
+state,Guna Yala
+state,Herrera Province
+state,Los Santos Province
+state,Ngöbe-Buglé Comarca
+state,Panamá Oeste Province
+state,Panamá Province
+state,Veraguas Province
+state,Bougainville
+state,Central Province
+state,Chimbu Province
+state,East New Britain
+state,East Sepik
+state,Eastern Highlands Province
+state,Enga Province
+state,Gulf
+state,Hela
+state,Jiwaka Province
+state,Madang Province
+state,Manus Province
+state,Milne Bay Province
+state,Morobe Province
+state,New Ireland Province
+state,Oro Province
+state,Port Moresby
+state,Sandaun Province
+state,Southern Highlands Province
+state,West New Britain Province
+state,Western Highlands Province
+state,Western Province
+state,Alto Paraguay Department
+state,Alto Paraná Department
+state,Amambay Department
+state,Asuncion
+state,Boquerón Department
+state,Caaguazú
+state,Caazapá
+state,Canindeyú
+state,Central Department
+state,Concepción Department
+state,Cordillera Department
+state,Guairá Department
+state,Itapúa
+state,Misiones Department
+state,Ñeembucú Department
+state,Paraguarí Department
+state,Presidente Hayes Department
+state,San Pedro Department
+state,Amazonas
+state,Áncash
+state,Apurímac
+state,Arequipa
+state,Ayacucho
+state,Cajamarca
+state,Callao
+state,Cusco
+state,Huancavelica
+state,Huanuco
+state,Ica
+state,Junín
+state,La Libertad
+state,Lambayeque
+state,Lima
+state,Loreto
+state,Madre de Dios
+state,Moquegua
+state,Pasco
+state,Piura
+state,Puno
+state,San Martín
+state,Tacna
+state,Tumbes
+state,Ucayali
+state,Abra
+state,Agusan del Norte
+state,Agusan del Sur
+state,Aklan
+state,Albay
+state,Antique
+state,Apayao
+state,Aurora
+state,Autonomous Region in Muslim Mindanao
+state,Basilan
+state,Bataan
+state,Batanes
+state,Batangas
+state,Benguet
+state,Bicol
+state,Biliran
+state,Bohol
+state,Bukidnon
+state,Bulacan
+state,Cagayan
+state,Cagayan Valley
+state,Calabarzon
+state,Camarines Norte
+state,Camarines Sur
+state,Camiguin
+state,Capiz
+state,Caraga
+state,Catanduanes
+state,Cavite
+state,Cebu
+state,Central Luzon
+state,Central Visayas
+state,Compostela Valley
+state,Cordillera Administrative
+state,Cotabato
+state,Davao
+state,Davao del Norte
+state,Davao del Sur
+state,Davao Occidental
+state,Davao Oriental
+state,Dinagat Islands
+state,Eastern Samar
+state,Eastern Visayas
+state,Guimaras
+state,Ifugao
+state,Ilocos
+state,Ilocos Norte
+state,Ilocos Sur
+state,Iloilo
+state,Isabela
+state,Kalinga
+state,La Union
+state,Laguna
+state,Lanao del Norte
+state,Lanao del Sur
+state,Leyte
+state,Maguindanao
+state,Marinduque
+state,Masbate
+state,Metro Manila
+state,Mimaropa
+state,Misamis Occidental
+state,Misamis Oriental
+state,Mountain Province
+state,Negros Occidental
+state,Negros Oriental
+state,Northern Mindanao
+state,Northern Samar
+state,Nueva Ecija
+state,Nueva Vizcaya
+state,Occidental Mindoro
+state,Oriental Mindoro
+state,Palawan
+state,Pampanga
+state,Pangasinan
+state,Quezon
+state,Quirino
+state,Rizal
+state,Romblon
+state,Sarangani
+state,Siquijor
+state,Soccsksargen
+state,Sorsogon
+state,South Cotabato
+state,Southern Leyte
+state,Sultan Kudarat
+state,Sulu
+state,Surigao del Norte
+state,Surigao del Sur
+state,Tarlac
+state,Tawi-Tawi
+state,Western Samar
+state,Western Visayas
+state,Zambales
+state,Zamboanga del Norte
+state,Zamboanga del Sur
+state,Zamboanga Peninsula
+state,Zamboanga Sibugay
+state,Greater Poland
+state,Holy Cross
+state,Kuyavia-Pomerania
+state,Lesser Poland
+state,Lower Silesia
+state,Lublin
+state,Lubusz
+state,Łódź
+state,Mazovia
+state,Podlaskie
+state,Pomerania
+state,Silesia
+state,Subcarpathia
+state,Upper Silesia
+state,Warmia-Masuria
+state,West Pomerania
+state,Açores
+state,Aveiro
+state,Beja
+state,Braga
+state,Bragança
+state,Castelo Branco
+state,Coimbra
+state,Évora
+state,Faro
+state,Guarda
+state,Leiria
+state,Lisbon
+state,Madeira
+state,Portalegre
+state,Porto
+state,Santarém
+state,Setúbal
+state,Viana do Castelo
+state,Vila Real
+state,Viseu
+state,Adjuntas
+state,Aguada
+state,Aguadilla
+state,Aguas Buenas
+state,Aibonito
+state,Añasco
+state,Arecibo
+state,Arecibo
+state,Arroyo
+state,Barceloneta
+state,Barranquitas
+state,Bayamon
+state,Bayamón
+state,Cabo Rojo
+state,Caguas
+state,Caguas
+state,Camuy
+state,Canóvanas
+state,Carolina
+state,Carolina
+state,Cataño
+state,Cayey
+state,Ceiba
+state,Ciales
+state,Cidra
+state,Coamo
+state,Comerío
+state,Corozal
+state,Culebra
+state,Dorado
+state,Fajardo
+state,Florida
+state,Guánica
+state,Guayama
+state,Guayanilla
+state,Guaynabo
+state,Guaynabo
+state,Gurabo
+state,Hatillo
+state,Hormigueros
+state,Humacao
+state,Isabela
+state,Jayuya
+state,Juana Díaz
+state,Juncos
+state,Lajas
+state,Lares
+state,Las Marías
+state,Las Piedras
+state,Loíza
+state,Luquillo
+state,Manatí
+state,Maricao
+state,Maunabo
+state,Mayagüez
+state,Mayagüez
+state,Moca
+state,Morovis
+state,Naguabo
+state,Naranjito
+state,Orocovis
+state,Patillas
+state,Peñuelas
+state,Ponce
+state,Ponce
+state,Quebradillas
+state,Rincón
+state,Río Grande
+state,Sabana Grande
+state,Salinas
+state,San Germán
+state,San Juan
+state,San Juan
+state,San Lorenzo
+state,San Sebastián
+state,Santa Isabel
+state,Toa Alta
+state,Toa Baja
+state,Toa Baja
+state,Trujillo Alto
+state,Trujillo Alto
+state,Utuado
+state,Vega Alta
+state,Vega Baja
+state,Vieques
+state,Villalba
+state,Yabucoa
+state,Yauco
+state,Al Daayen
+state,Al Khor
+state,Al Rayyan Municipality
+state,Al Wakrah
+state,Al-Shahaniya
+state,Doha
+state,Madinat ash Shamal
+state,Umm Salal Municipality
+state,Alba
+state,Arad County
+state,Arges
+state,Bacău County
+state,Bihor County
+state,Bistrița-Năsăud County
+state,Botoșani County
+state,Braila
+state,Brașov County
+state,Bucharest
+state,Buzău County
+state,Călărași County
+state,Caraș-Severin County
+state,Cluj County
+state,Constanța County
+state,Covasna County
+state,Dâmbovița County
+state,Dolj County
+state,Galați County
+state,Giurgiu County
+state,Gorj County
+state,Harghita County
+state,Hunedoara County
+state,Ialomița County
+state,Iași County
+state,Ilfov County
+state,Maramureș County
+state,Mehedinți County
+state,Mureș County
+state,Neamț County
+state,Olt County
+state,Prahova County
+state,Sălaj County
+state,Satu Mare County
+state,Sibiu County
+state,Suceava County
+state,Teleorman County
+state,Timiș County
+state,Tulcea County
+state,Vâlcea County
+state,Vaslui County
+state,Vrancea County
+state,Altai Krai
+state,Altai Republic
+state,Amur Oblast
+state,Arkhangelsk
+state,Astrakhan Oblast
+state,Belgorod Oblast
+state,Bryansk Oblast
+state,Chechen Republic
+state,Chelyabinsk Oblast
+state,Chukotka Autonomous Okrug
+state,Chuvash Republic
+state,Irkutsk
+state,Ivanovo Oblast
+state,Jewish Autonomous Oblast
+state,Kabardino-Balkar Republic
+state,Kaliningrad
+state,Kaluga Oblast
+state,Kamchatka Krai
+state,Karachay-Cherkess Republic
+state,Kemerovo Oblast
+state,Khabarovsk Krai
+state,Khanty-Mansi Autonomous Okrug
+state,Kirov Oblast
+state,Komi Republic
+state,Kostroma Oblast
+state,Krasnodar Krai
+state,Krasnoyarsk Krai
+state,Kurgan Oblast
+state,Kursk Oblast
+state,Leningrad Oblast
+state,Lipetsk Oblast
+state,Magadan Oblast
+state,Mari El Republic
+state,Moscow
+state,Moscow Oblast
+state,Murmansk Oblast
+state,Nenets Autonomous Okrug
+state,Nizhny Novgorod Oblast
+state,Novgorod Oblast
+state,Novosibirsk
+state,Omsk Oblast
+state,Orenburg Oblast
+state,Oryol Oblast
+state,Penza Oblast
+state,Perm Krai
+state,Primorsky Krai
+state,Pskov Oblast
+state,Republic of Adygea
+state,Republic of Bashkortostan
+state,Republic of Buryatia
+state,Republic of Dagestan
+state,Republic of Ingushetia
+state,Republic of Kalmykia
+state,Republic of Karelia
+state,Republic of Khakassia
+state,Republic of Mordovia
+state,Republic of North Ossetia-Alania
+state,Republic of Tatarstan
+state,Rostov Oblast
+state,Ryazan Oblast
+state,Saint Petersburg
+state,Sakha Republic
+state,Sakhalin
+state,Samara Oblast
+state,Saratov Oblast
+state,Smolensk Oblast
+state,Stavropol Krai
+state,Sverdlovsk
+state,Tambov Oblast
+state,Tomsk Oblast
+state,Tula Oblast
+state,Tuva Republic
+state,Tver Oblast
+state,Tyumen Oblast
+state,Udmurt Republic
+state,Ulyanovsk Oblast
+state,Vladimir Oblast
+state,Volgograd Oblast
+state,Vologda Oblast
+state,Voronezh Oblast
+state,Yamalo-Nenets Autonomous Okrug
+state,Yaroslavl Oblast
+state,Zabaykalsky Krai
+state,Eastern Province
+state,Kigali district
+state,Northern Province
+state,Southern Province
+state,Western Province
+state,Christ Church Nichola Town Parish
+state,Nevis
+state,Saint Anne Sandy Point Parish
+state,Saint George Gingerland Parish
+state,Saint James Windward Parish
+state,Saint John Capisterre Parish
+state,Saint John Figtree Parish
+state,Saint Kitts
+state,Saint Mary Cayon Parish
+state,Saint Paul Capisterre Parish
+state,Saint Paul Charlestown Parish
+state,Saint Peter Basseterre Parish
+state,Saint Thomas Lowland Parish
+state,Saint Thomas Middle Island Parish
+state,Trinity Palmetto Point Parish
+state,Anse la Raye Quarter
+state,Canaries
+state,Castries Quarter
+state,Choiseul Quarter
+state,Dauphin Quarter
+state,Dennery Quarter
+state,Gros Islet Quarter
+state,Laborie Quarter
+state,Micoud Quarter
+state,Praslin Quarter
+state,Soufrière Quarter
+state,Vieux Fort Quarter
+state,Charlotte Parish
+state,Grenadines Parish
+state,Saint Andrew Parish
+state,Saint David Parish
+state,Saint George Parish
+state,Saint Patrick Parish
+state,A'ana
+state,Aiga-i-le-Tai
+state,Atua
+state,Fa'asaleleaga
+state,Gaga'emauga
+state,Gaga'ifomauga
+state,Palauli
+state,Satupa'itea
+state,Tuamasaga
+state,Va'a-o-Fonoti
+state,Vaisigano
+state,Acquaviva
+state,Borgo Maggiore
+state,Chiesanuova
+state,Domagnano
+state,Faetano
+state,Fiorentino
+state,Montegiardino
+state,San Marino
+state,Serravalle
+state,Príncipe Province
+state,São Tomé Province
+state,'Asir
+state,Al Bahah
+state,Al Jawf
+state,Al Madinah
+state,Al-Qassim
+state,Eastern Province
+state,Ha'il
+state,Jizan
+state,Makkah
+state,Najran
+state,Northern Borders
+state,Riyadh
+state,Tabuk
+state,Dakar
+state,Diourbel Region
+state,Fatick
+state,Kaffrine
+state,Kaolack
+state,Kédougou
+state,Kolda
+state,Louga
+state,Matam
+state,Saint-Louis
+state,Sédhiou
+state,Tambacounda Region
+state,Thiès Region
+state,Ziguinchor
+state,Belgrade
+state,Bor District
+state,Braničevo District
+state,Central Banat District
+state,Jablanica District
+state,Kolubara District
+state,Mačva District
+state,Moravica District
+state,Nišava District
+state,North Bačka District
+state,North Banat District
+state,Pčinja District
+state,Pirot District
+state,Podunavlje District
+state,Pomoravlje District
+state,Rasina District
+state,Raška District
+state,South Bačka District
+state,South Banat District
+state,Srem District
+state,Šumadija District
+state,Toplica District
+state,Vojvodina
+state,West Bačka District
+state,Zaječar District
+state,Zlatibor District
+state,Anse Boileau
+state,Anse Royale
+state,Anse-aux-Pins
+state,Au Cap
+state,Baie Lazare
+state,Baie Sainte Anne
+state,Beau Vallon
+state,Bel Air
+state,Bel Ombre
+state,Cascade
+state,Glacis
+state,Grand'Anse Mahé
+state,Grand'Anse Praslin
+state,La Digue
+state,La Rivière Anglaise
+state,Les Mamelles
+state,Mont Buxton
+state,Mont Fleuri
+state,Plaisance
+state,Pointe La Rue
+state,Port Glaud
+state,Roche Caiman
+state,Saint Louis
+state,Takamaka
+state,Eastern Province
+state,Northern Province
+state,Southern Province
+state,Western Area
+state,Central Singapore
+state,North East
+state,North West
+state,South East
+state,South West
+state,Banská Bystrica Region
+state,Bratislava Region
+state,Košice Region
+state,Nitra Region
+state,Prešov Region
+state,Trenčín Region
+state,Trnava Region
+state,Žilina Region
+state,Ajdovščina Municipality
+state,Ankaran Municipality
+state,Beltinci Municipality
+state,Benedikt Municipality
+state,Bistrica ob Sotli Municipality
+state,Bled Municipality
+state,Bloke Municipality
+state,Bohinj Municipality
+state,Borovnica Municipality
+state,Bovec Municipality
+state,Braslovče Municipality
+state,Brda Municipality
+state,Brežice Municipality
+state,Brezovica Municipality
+state,Cankova Municipality
+state,Cerklje na Gorenjskem Municipality
+state,Cerknica Municipality
+state,Cerkno Municipality
+state,Cerkvenjak Municipality
+state,City Municipality of Celje
+state,City Municipality of Novo Mesto
+state,Črenšovci Municipality
+state,Črna na Koroškem Municipality
+state,Črnomelj Municipality
+state,Destrnik Municipality
+state,Divača Municipality
+state,Dobje Municipality
+state,Dobrepolje Municipality
+state,Dobrna Municipality
+state,Dobrova–Polhov Gradec Municipality
+state,Dobrovnik Municipality
+state,Dol pri Ljubljani Municipality
+state,Dolenjske Toplice Municipality
+state,Domžale Municipality
+state,Dornava Municipality
+state,Dravograd Municipality
+state,Duplek Municipality
+state,Gorenja Vas–Poljane Municipality
+state,Gorišnica Municipality
+state,Gorje Municipality
+state,Gornja Radgona Municipality
+state,Gornji Grad Municipality
+state,Gornji Petrovci Municipality
+state,Grad Municipality
+state,Grosuplje Municipality
+state,Hajdina Municipality
+state,Hoče–Slivnica Municipality
+state,Hodoš Municipality
+state,Horjul Municipality
+state,Hrastnik Municipality
+state,Hrpelje–Kozina Municipality
+state,Idrija Municipality
+state,Ig Municipality
+state,Ivančna Gorica Municipality
+state,Izola Municipality
+state,Jesenice Municipality
+state,Jezersko Municipality
+state,Juršinci Municipality
+state,Kamnik Municipality
+state,Kanal ob Soči Municipality
+state,Kidričevo Municipality
+state,Kobarid Municipality
+state,Kobilje Municipality
+state,Kočevje Municipality
+state,Komen Municipality
+state,Komenda Municipality
+state,Koper City Municipality
+state,Kostanjevica na Krki Municipality
+state,Kostel Municipality
+state,Kozje Municipality
+state,Kranj City Municipality
+state,Kranjska Gora Municipality
+state,Križevci Municipality
+state,Kungota
+state,Kuzma Municipality
+state,Laško Municipality
+state,Lenart Municipality
+state,Lendava Municipality
+state,Litija Municipality
+state,Ljubljana City Municipality
+state,Ljubno Municipality
+state,Ljutomer Municipality
+state,Log–Dragomer Municipality
+state,Logatec Municipality
+state,Loška Dolina Municipality
+state,Loški Potok Municipality
+state,Lovrenc na Pohorju Municipality
+state,Luče Municipality
+state,Lukovica Municipality
+state,Majšperk Municipality
+state,Makole Municipality
+state,Maribor City Municipality
+state,Markovci Municipality
+state,Medvode Municipality
+state,Mengeš Municipality
+state,Metlika Municipality
+state,Mežica Municipality
+state,Miklavž na Dravskem Polju Municipality
+state,Miren–Kostanjevica Municipality
+state,Mirna Municipality
+state,Mirna Peč Municipality
+state,Mislinja Municipality
+state,Mokronog–Trebelno Municipality
+state,Moravče Municipality
+state,Moravske Toplice Municipality
+state,Mozirje Municipality
+state,Municipality of Apače
+state,Municipality of Cirkulane
+state,Municipality of Ilirska Bistrica
+state,Municipality of Krško
+state,Municipality of Škofljica
+state,Murska Sobota City Municipality
+state,Muta Municipality
+state,Naklo Municipality
+state,Nazarje Municipality
+state,Nova Gorica City Municipality
+state,Odranci Municipality
+state,Oplotnica
+state,Ormož Municipality
+state,Osilnica Municipality
+state,Pesnica Municipality
+state,Piran Municipality
+state,Pivka Municipality
+state,Podčetrtek Municipality
+state,Podlehnik Municipality
+state,Podvelka Municipality
+state,Poljčane Municipality
+state,Polzela Municipality
+state,Postojna Municipality
+state,Prebold Municipality
+state,Preddvor Municipality
+state,Prevalje Municipality
+state,Ptuj City Municipality
+state,Puconci Municipality
+state,Rače–Fram Municipality
+state,Radeče Municipality
+state,Radenci Municipality
+state,Radlje ob Dravi Municipality
+state,Radovljica Municipality
+state,Ravne na Koroškem Municipality
+state,Razkrižje Municipality
+state,Rečica ob Savinji Municipality
+state,Renče–Vogrsko Municipality
+state,Ribnica Municipality
+state,Ribnica na Pohorju Municipality
+state,Rogaška Slatina Municipality
+state,Rogašovci Municipality
+state,Rogatec Municipality
+state,Ruše Municipality
+state,Šalovci Municipality
+state,Selnica ob Dravi Municipality
+state,Semič Municipality
+state,Šempeter–Vrtojba Municipality
+state,Šenčur Municipality
+state,Šentilj Municipality
+state,Šentjernej Municipality
+state,Šentjur Municipality
+state,Šentrupert Municipality
+state,Sevnica Municipality
+state,Sežana Municipality
+state,Škocjan Municipality
+state,Škofja Loka Municipality
+state,Slovenj Gradec City Municipality
+state,Slovenska Bistrica Municipality
+state,Slovenske Konjice Municipality
+state,Šmarje pri Jelšah Municipality
+state,Šmarješke Toplice Municipality
+state,Šmartno ob Paki Municipality
+state,Šmartno pri Litiji Municipality
+state,Sodražica Municipality
+state,Solčava Municipality
+state,Šoštanj Municipality
+state,Središče ob Dravi
+state,Starše Municipality
+state,Štore Municipality
+state,Straža Municipality
+state,Sveta Ana Municipality
+state,Sveta Trojica v Slovenskih Goricah Municipality
+state,Sveti Andraž v Slovenskih Goricah Municipality
+state,Sveti Jurij ob Ščavnici Municipality
+state,Sveti Jurij v Slovenskih Goricah Municipality
+state,Sveti Tomaž Municipality
+state,Tabor Municipality
+state,Tišina Municipality
+state,Tolmin Municipality
+state,Trbovlje Municipality
+state,Trebnje Municipality
+state,Trnovska Vas Municipality
+state,Tržič Municipality
+state,Trzin Municipality
+state,Turnišče Municipality
+state,Velika Polana Municipality
+state,Velike Lašče Municipality
+state,Veržej Municipality
+state,Videm Municipality
+state,Vipava Municipality
+state,Vitanje Municipality
+state,Vodice Municipality
+state,Vojnik Municipality
+state,Vransko Municipality
+state,Vrhnika Municipality
+state,Vuzenica Municipality
+state,Zagorje ob Savi Municipality
+state,Žalec Municipality
+state,Zavrč Municipality
+state,Železniki Municipality
+state,Žetale Municipality
+state,Žiri Municipality
+state,Žirovnica Municipality
+state,Zreče Municipality
+state,Žužemberk Municipality
+state,Central Province
+state,Choiseul Province
+state,Guadalcanal Province
+state,Honiara
+state,Isabel Province
+state,Makira-Ulawa Province
+state,Malaita Province
+state,Rennell and Bellona Province
+state,Temotu Province
+state,Western Province
+state,Awdal Region
+state,Bakool
+state,Banaadir
+state,Bari
+state,Bay
+state,Galguduud
+state,Gedo
+state,Hiran
+state,Lower Juba
+state,Lower Shebelle
+state,Middle Juba
+state,Middle Shebelle
+state,Mudug
+state,Nugal
+state,Sanaag Region
+state,Togdheer Region
+state,Eastern Cape
+state,Free State
+state,Gauteng
+state,KwaZulu-Natal
+state,Limpopo
+state,Mpumalanga
+state,North West
+state,Northern Cape
+state,Western Cape
+state,Busan
+state,Daegu
+state,Daejeon
+state,Gangwon Province
+state,Gwangju
+state,Gyeonggi Province
+state,Incheon
+state,Jeju
+state,North Chungcheong Province
+state,North Gyeongsang Province
+state,North Jeolla Province
+state,Sejong City
+state,Seoul
+state,South Chungcheong Province
+state,South Gyeongsang Province
+state,South Jeolla Province
+state,Ulsan
+state,Central Equatoria
+state,Eastern Equatoria
+state,Jonglei State
+state,Lakes
+state,Northern Bahr el Ghazal
+state,Unity
+state,Upper Nile
+state,Warrap
+state,Western Bahr el Ghazal
+state,Western Equatoria
+state,A Coruña
+state,Albacete
+state,Alicante
+state,Almeria
+state,Araba
+state,Asturias
+state,Ávila
+state,Badajoz
+state,Barcelona
+state,Bizkaia
+state,Burgos
+state,Caceres
+state,Cádiz
+state,Canarias
+state,Cantabria
+state,Castellón
+state,Ceuta
+state,Ciudad Real
+state,Córdoba
+state,Cuenca
+state,Gipuzkoa
+state,Girona
+state,Granada
+state,Guadalajara
+state,Huelva
+state,Huesca
+state,Islas Baleares
+state,Jaén
+state,La Rioja
+state,Las Palmas
+state,León
+state,Lleida
+state,Lugo
+state,Madrid
+state,Málaga
+state,Melilla
+state,Murcia
+state,Navarra
+state,Ourense
+state,Palencia
+state,Pontevedra
+state,Salamanca
+state,Santa Cruz de Tenerife
+state,Segovia
+state,Sevilla
+state,Soria
+state,Tarragona
+state,Teruel
+state,Toledo
+state,Valencia
+state,Valladolid
+state,Zamora
+state,Zaragoza
+state,Ampara District
+state,Anuradhapura District
+state,Badulla District
+state,Batticaloa District
+state,Central Province
+state,Colombo District
+state,Eastern Province
+state,Galle District
+state,Gampaha District
+state,Hambantota District
+state,Jaffna District
+state,Kalutara District
+state,Kandy District
+state,Kegalle District
+state,Kilinochchi District
+state,Mannar District
+state,Matale District
+state,Matara District
+state,Monaragala District
+state,Mullaitivu District
+state,North Central Province
+state,North Western Province
+state,Northern Province
+state,Nuwara Eliya District
+state,Polonnaruwa District
+state,Puttalam District
+state,Ratnapura district
+state,Sabaragamuwa Province
+state,Southern Province
+state,Trincomalee District
+state,Uva Province
+state,Vavuniya District
+state,Western Province
+state,Al Jazirah
+state,Al Qadarif
+state,Blue Nile
+state,Central Darfur
+state,East Darfur
+state,Kassala
+state,Khartoum
+state,North Darfur
+state,North Kordofan
+state,Northern
+state,Red Sea
+state,River Nile
+state,Sennar
+state,South Darfur
+state,South Kordofan
+state,West Darfur
+state,West Kordofan
+state,White Nile
+state,Brokopondo District
+state,Commewijne District
+state,Coronie District
+state,Marowijne District
+state,Nickerie District
+state,Para District
+state,Paramaribo District
+state,Saramacca District
+state,Sipaliwini District
+state,Wanica District
+state,Blekinge County
+state,Dalarna County
+state,Gävleborg County
+state,Gotland County
+state,Halland County
+state,Jämtland County
+state,Jönköping County
+state,Kalmar County
+state,Kronoberg County
+state,Norrbotten County
+state,Örebro County
+state,Östergötland County
+state,Skåne County
+state,Södermanland County
+state,Stockholm County
+state,Uppsala County
+state,Värmland County
+state,Västerbotten County
+state,Västernorrland County
+state,Västmanland County
+state,Västra Götaland County
+state,Aargau
+state,Appenzell Ausserrhoden
+state,Appenzell Innerrhoden
+state,Basel-Land
+state,Basel-Stadt
+state,Bern
+state,Fribourg
+state,Geneva
+state,Glarus
+state,Graubünden
+state,Jura
+state,Lucerne
+state,Neuchâtel
+state,Nidwalden
+state,Obwalden
+state,Schaffhausen
+state,Schwyz
+state,Solothurn
+state,St. Gallen
+state,Thurgau
+state,Ticino
+state,Uri
+state,Valais
+state,Vaud
+state,Zug
+state,Zürich
+state,Al-Hasakah
+state,Al-Raqqah
+state,Aleppo
+state,As-Suwayda
+state,Damascus
+state,Daraa
+state,Deir ez-Zor
+state,Hama
+state,Homs
+state,Idlib
+state,Latakia
+state,Quneitra
+state,Rif Dimashq
+state,Tartus
+state,Changhua
+state,Chiayi
+state,Chiayi
+state,Hsinchu
+state,Hsinchu
+state,Hualien
+state,Kaohsiung
+state,Keelung
+state,Kinmen
+state,Lienchiang
+state,Miaoli
+state,Nantou
+state,New Taipei
+state,Penghu
+state,Pingtung
+state,Taichung
+state,Tainan
+state,Taipei
+state,Taitung
+state,Taoyuan
+state,Yilan
+state,Yunlin
+state,districts of Republican Subordination
+state,Gorno-Badakhshan Autonomous Province
+state,Khatlon Province
+state,Sughd Province
+state,Arusha
+state,Dar es Salaam
+state,Dodoma
+state,Geita
+state,Iringa
+state,Kagera
+state,Katavi
+state,Kigoma
+state,Kilimanjaro
+state,Lindi
+state,Manyara
+state,Mara
+state,Mbeya
+state,Morogoro
+state,Mtwara
+state,Mwanza
+state,Njombe
+state,Pemba North
+state,Pemba South
+state,Pwani
+state,Rukwa
+state,Ruvuma
+state,Shinyanga
+state,Simiyu
+state,Singida
+state,Songwe
+state,Tabora
+state,Tanga
+state,Zanzibar North
+state,Zanzibar South
+state,Zanzibar West
+state,Amnat Charoen
+state,Ang Thong
+state,Bangkok
+state,Bueng Kan
+state,Buri Ram
+state,Chachoengsao
+state,Chai Nat
+state,Chaiyaphum
+state,Chanthaburi
+state,Chiang Mai
+state,Chiang Rai
+state,Chon Buri
+state,Chumphon
+state,Kalasin
+state,Kamphaeng Phet
+state,Kanchanaburi
+state,Khon Kaen
+state,Krabi
+state,Lampang
+state,Lamphun
+state,Loei
+state,Lop Buri
+state,Mae Hong Son
+state,Maha Sarakham
+state,Mukdahan
+state,Nakhon Nayok
+state,Nakhon Pathom
+state,Nakhon Phanom
+state,Nakhon Ratchasima
+state,Nakhon Sawan
+state,Nakhon Si Thammarat
+state,Nan
+state,Narathiwat
+state,Nong Bua Lam Phu
+state,Nong Khai
+state,Nonthaburi
+state,Pathum Thani
+state,Pattani
+state,Pattaya
+state,Phangnga
+state,Phatthalung
+state,Phayao
+state,Phetchabun
+state,Phetchaburi
+state,Phichit
+state,Phitsanulok
+state,Phra Nakhon Si Ayutthaya
+state,Phrae
+state,Phuket
+state,Prachin Buri
+state,Prachuap Khiri Khan
+state,Ranong
+state,Ratchaburi
+state,Rayong
+state,Roi Et
+state,Sa Kaeo
+state,Sakon Nakhon
+state,Samut Prakan
+state,Samut Sakhon
+state,Samut Songkhram
+state,Saraburi
+state,Satun
+state,Si Sa Ket
+state,Sing Buri
+state,Songkhla
+state,Sukhothai
+state,Suphan Buri
+state,Surat Thani
+state,Surin
+state,Tak
+state,Trang
+state,Trat
+state,Ubon Ratchathani
+state,Udon Thani
+state,Uthai Thani
+state,Uttaradit
+state,Yala
+state,Yasothon
+state,Acklins
+state,Acklins and Crooked Islands
+state,Berry Islands
+state,Bimini
+state,Black Point
+state,Cat Island
+state,Central Abaco
+state,Central Andros
+state,Central Eleuthera
+state,Crooked Island
+state,East Grand Bahama
+state,Exuma
+state,Freeport
+state,Fresh Creek
+state,Governor's Harbour
+state,Grand Cay
+state,Green Turtle Cay
+state,Harbour Island
+state,High Rock
+state,Hope Town
+state,Inagua
+state,Kemps Bay
+state,Long Island
+state,Mangrove Cay
+state,Marsh Harbour
+state,Mayaguana District
+state,New Providence
+state,Nichollstown and Berry Islands
+state,North Abaco
+state,North Andros
+state,North Eleuthera
+state,Ragged Island
+state,Rock Sound
+state,Rum Cay District
+state,San Salvador and Rum Cay
+state,San Salvador Island
+state,Sandy Point
+state,South Abaco
+state,South Andros
+state,South Eleuthera
+state,Spanish Wells
+state,West Grand Bahama
+state,Banjul
+state,Central River Division
+state,Lower River Division
+state,North Bank Division
+state,Upper River Division
+state,West Coast Division
+state,Aileu municipality
+state,Ainaro Municipality
+state,Baucau Municipality
+state,Bobonaro Municipality
+state,Cova Lima Municipality
+state,Dili municipality
+state,Ermera District
+state,Lautém Municipality
+state,Liquiçá Municipality
+state,Manatuto District
+state,Manufahi Municipality
+state,Viqueque Municipality
+state,Centrale Region
+state,Kara Region
+state,Maritime
+state,Plateaux Region
+state,Savanes Region
+state,Haʻapai
+state,ʻEua
+state,Niuas
+state,Tongatapu
+state,Vavaʻu
+state,Arima
+state,Chaguanas
+state,Couva-Tabaquite-Talparo Regional Corporation
+state,Diego Martin Regional Corporation
+state,Eastern Tobago
+state,Penal-Debe Regional Corporation
+state,Point Fortin
+state,Port of Spain
+state,Princes Town Regional Corporation
+state,Rio Claro-Mayaro Regional Corporation
+state,San Fernando
+state,San Juan-Laventille Regional Corporation
+state,Sangre Grande Regional Corporation
+state,Siparia Regional Corporation
+state,Tunapuna-Piarco Regional Corporation
+state,Western Tobago
+state,Ariana
+state,Béja
+state,Ben Arous
+state,Bizerte
+state,Gabès
+state,Gafsa
+state,Jendouba
+state,Kairouan
+state,Kasserine
+state,Kebili
+state,Kef
+state,Mahdia
+state,Manouba
+state,Medenine
+state,Monastir
+state,Nabeul
+state,Sfax
+state,Sidi Bouzid
+state,Siliana
+state,Sousse
+state,Tataouine
+state,Tozeur
+state,Tunis
+state,Zaghouan
+state,Adana
+state,Adıyaman
+state,Afyonkarahisar
+state,Ağrı
+state,Aksaray
+state,Amasya
+state,Ankara
+state,Antalya
+state,Ardahan
+state,Artvin
+state,Aydın
+state,Balıkesir
+state,Bartın
+state,Batman
+state,Bayburt
+state,Bilecik
+state,Bingöl
+state,Bitlis
+state,Bolu
+state,Burdur
+state,Bursa
+state,Çanakkale
+state,Çankırı
+state,Çorum
+state,Denizli
+state,Diyarbakır
+state,Düzce
+state,Edirne
+state,Elazığ
+state,Erzincan
+state,Erzurum
+state,Eskişehir
+state,Gaziantep
+state,Giresun
+state,Gümüşhane
+state,Hakkâri
+state,Hatay
+state,Iğdır
+state,Isparta
+state,İstanbul
+state,İzmir
+state,Kahramanmaraş
+state,Karabük
+state,Karaman
+state,Kars
+state,Kastamonu
+state,Kayseri
+state,Kilis
+state,Kırıkkale
+state,Kırklareli
+state,Kırşehir
+state,Kocaeli
+state,Konya
+state,Kütahya
+state,Malatya
+state,Manisa
+state,Mardin
+state,Mersin
+state,Muğla
+state,Muş
+state,Nevşehir
+state,Niğde
+state,Ordu
+state,Osmaniye
+state,Rize
+state,Sakarya
+state,Samsun
+state,Şanlıurfa
+state,Siirt
+state,Sinop
+state,Sivas
+state,Şırnak
+state,Tekirdağ
+state,Tokat
+state,Trabzon
+state,Tunceli
+state,Uşak
+state,Van
+state,Yalova
+state,Yozgat
+state,Zonguldak
+state,Ahal Region
+state,Ashgabat
+state,Balkan Region
+state,Daşoguz Region
+state,Lebap Region
+state,Mary Region
+state,Funafuti
+state,Nanumanga
+state,Nanumea
+state,Niutao Island Council
+state,Nui
+state,Nukufetau
+state,Nukulaelae
+state,Vaitupu
+state,Abim District
+state,Adjumani District
+state,Agago District
+state,Alebtong District
+state,Amolatar District
+state,Amudat District
+state,Amuria District
+state,Amuru District
+state,Apac District
+state,Arua District
+state,Budaka District
+state,Bududa District
+state,Bugiri District
+state,Buhweju District
+state,Buikwe District
+state,Bukedea District
+state,Bukomansimbi District
+state,Bukwo District
+state,Bulambuli District
+state,Buliisa District
+state,Bundibugyo District
+state,Bunyangabu District
+state,Bushenyi District
+state,Busia District
+state,Butaleja District
+state,Butambala District
+state,Butebo District
+state,Buvuma District
+state,Buyende District
+state,Central Region
+state,Dokolo District
+state,Eastern Region
+state,Gomba District
+state,Gulu District
+state,Ibanda District
+state,Iganga District
+state,Isingiro District
+state,Jinja District
+state,Kaabong District
+state,Kabale District
+state,Kabarole District
+state,Kaberamaido District
+state,Kagadi District
+state,Kakumiro District
+state,Kalangala District
+state,Kaliro District
+state,Kalungu District
+state,Kampala District
+state,Kamuli District
+state,Kamwenge District
+state,Kanungu District
+state,Kapchorwa District
+state,Kasese District
+state,Katakwi District
+state,Kayunga District
+state,Kibaale District
+state,Kiboga District
+state,Kibuku District
+state,Kiruhura District
+state,Kiryandongo District
+state,Kisoro District
+state,Kitgum District
+state,Koboko District
+state,Kole District
+state,Kotido District
+state,Kumi District
+state,Kween District
+state,Kyankwanzi District
+state,Kyegegwa District
+state,Kyenjojo District
+state,Kyotera District
+state,Lamwo District
+state,Lira District
+state,Luuka District
+state,Luwero District
+state,Lwengo District
+state,Lyantonde District
+state,Manafwa District
+state,Maracha District
+state,Masaka District
+state,Masindi District
+state,Mayuge District
+state,Mbale District
+state,Mbarara District
+state,Mitooma District
+state,Mityana District
+state,Moroto District
+state,Moyo District
+state,Mpigi District
+state,Mubende District
+state,Mukono District
+state,Nakapiripirit District
+state,Nakaseke District
+state,Nakasongola District
+state,Namayingo District
+state,Namisindwa District
+state,Namutumba District
+state,Napak District
+state,Nebbi District
+state,Ngora District
+state,Northern Region
+state,Ntoroko District
+state,Ntungamo District
+state,Nwoya District
+state,Omoro District
+state,Otuke District
+state,Oyam District
+state,Pader District
+state,Pakwach District
+state,Pallisa District
+state,Rakai District
+state,Rubanda District
+state,Rubirizi District
+state,Rukiga District
+state,Rukungiri District
+state,Sembabule District
+state,Serere District
+state,Sheema District
+state,Sironko District
+state,Soroti District
+state,Tororo District
+state,Wakiso District
+state,Western Region
+state,Yumbe District
+state,Zombo District
+state,Autonomous Republic of Crimea
+state,Cherkaska oblast
+state,Chernihivska oblast
+state,Chernivetska oblast
+state,Dnipropetrovska oblast
+state,Donetska oblast
+state,Ivano-Frankivska oblast
+state,Kharkivska oblast
+state,Khersonska oblast
+state,Khmelnytska oblast
+state,Kirovohradska oblast
+state,Kyiv
+state,Kyivska oblast
+state,Luhanska oblast
+state,Lvivska oblast
+state,Mykolaivska oblast
+state,Odeska oblast
+state,Poltavska oblast
+state,Rivnenska oblast
+state,Sevastopol
+state,Sumska oblast
+state,Ternopilska oblast
+state,Vinnytska oblast
+state,Volynska oblast
+state,Zakarpatska Oblast
+state,Zaporizka oblast
+state,Zhytomyrska oblast
+state,Abu Dhabi Emirate
+state,Ajman Emirate
+state,Dubai
+state,Fujairah
+state,Ras al-Khaimah
+state,Sharjah Emirate
+state,Umm al-Quwain
+state,Aberdeen
+state,Aberdeenshire
+state,Angus
+state,Antrim
+state,Antrim and Newtownabbey
+state,Ards
+state,Ards and North Down
+state,Argyll and Bute
+state,Armagh City and District Council
+state,"Armagh, Banbridge and Craigavon"
+state,Ascension Island
+state,Ballymena Borough
+state,Ballymoney
+state,Banbridge
+state,Barnsley
+state,Bath and North East Somerset
+state,Bedford
+state,Belfast district
+state,Birmingham
+state,Blackburn with Darwen
+state,Blackpool
+state,Blaenau Gwent County Borough
+state,Bolton
+state,Bournemouth
+state,Bracknell Forest
+state,Bradford
+state,Bridgend County Borough
+state,Brighton and Hove
+state,Buckinghamshire
+state,Bury
+state,Caerphilly County Borough
+state,Calderdale
+state,Cambridgeshire
+state,Carmarthenshire
+state,Carrickfergus Borough Council
+state,Castlereagh
+state,Causeway Coast and Glens
+state,Central Bedfordshire
+state,Ceredigion
+state,Cheshire East
+state,Cheshire West and Chester
+state,City and County of Cardiff
+state,City and County of Swansea
+state,City of Bristol
+state,City of Derby
+state,City of Kingston upon Hull
+state,City of Leicester
+state,City of London
+state,City of Nottingham
+state,City of Peterborough
+state,City of Plymouth
+state,City of Portsmouth
+state,City of Southampton
+state,City of Stoke-on-Trent
+state,City of Sunderland
+state,City of Westminster
+state,City of Wolverhampton
+state,City of York
+state,Clackmannanshire
+state,Coleraine Borough Council
+state,Conwy County Borough
+state,Cookstown District Council
+state,Cornwall
+state,County Durham
+state,Coventry
+state,Craigavon Borough Council
+state,Cumbria
+state,Darlington
+state,Denbighshire
+state,Derbyshire
+state,Derry City and Strabane
+state,Derry City Council
+state,Devon
+state,Doncaster
+state,Dorset
+state,Down District Council
+state,Dudley
+state,Dumfries and Galloway
+state,Dundee
+state,Dungannon and South Tyrone Borough Council
+state,East Ayrshire
+state,East Dunbartonshire
+state,East Lothian
+state,East Renfrewshire
+state,East Riding of Yorkshire
+state,East Sussex
+state,Edinburgh
+state,England
+state,Essex
+state,Falkirk
+state,Fermanagh and Omagh
+state,Fermanagh District Council
+state,Fife
+state,Flintshire
+state,Gateshead
+state,Glasgow
+state,Gloucestershire
+state,Gwynedd
+state,Halton
+state,Hampshire
+state,Hartlepool
+state,Herefordshire
+state,Hertfordshire
+state,Highland
+state,Inverclyde
+state,Isle of Wight
+state,Isles of Scilly
+state,Kent
+state,Kirklees
+state,Knowsley
+state,Lancashire
+state,Larne Borough Council
+state,Leeds
+state,Leicestershire
+state,Limavady Borough Council
+state,Lincolnshire
+state,Lisburn and Castlereagh
+state,Lisburn City Council
+state,Liverpool
+state,London Borough of Barking and Dagenham
+state,London Borough of Barnet
+state,London Borough of Bexley
+state,London Borough of Brent
+state,London Borough of Bromley
+state,London Borough of Camden
+state,London Borough of Croydon
+state,London Borough of Ealing
+state,London Borough of Enfield
+state,London Borough of Hackney
+state,London Borough of Hammersmith and Fulham
+state,London Borough of Haringey
+state,London Borough of Harrow
+state,London Borough of Havering
+state,London Borough of Hillingdon
+state,London Borough of Hounslow
+state,London Borough of Islington
+state,London Borough of Lambeth
+state,London Borough of Lewisham
+state,London Borough of Merton
+state,London Borough of Newham
+state,London Borough of Redbridge
+state,London Borough of Richmond upon Thames
+state,London Borough of Southwark
+state,London Borough of Sutton
+state,London Borough of Tower Hamlets
+state,London Borough of Waltham Forest
+state,London Borough of Wandsworth
+state,Magherafelt District Council
+state,Manchester
+state,Medway
+state,Merthyr Tydfil County Borough
+state,Metropolitan Borough of Wigan
+state,Mid and East Antrim
+state,Mid Ulster
+state,Middlesbrough
+state,Midlothian
+state,Milton Keynes
+state,Monmouthshire
+state,Moray
+state,Moyle District Council
+state,Neath Port Talbot County Borough
+state,Newcastle upon Tyne
+state,Newport
+state,Newry and Mourne District Council
+state,"Newry, Mourne and Down"
+state,Newtownabbey Borough Council
+state,Norfolk
+state,North Ayrshire
+state,North Down Borough Council
+state,North East Lincolnshire
+state,North Lanarkshire
+state,North Lincolnshire
+state,North Somerset
+state,North Tyneside
+state,North Yorkshire
+state,Northamptonshire
+state,Northern Ireland
+state,Northumberland
+state,Nottinghamshire
+state,Oldham
+state,Omagh District Council
+state,Orkney Islands
+state,Outer Hebrides
+state,Oxfordshire
+state,Pembrokeshire
+state,Perth and Kinross
+state,Poole
+state,Powys
+state,Reading
+state,Redcar and Cleveland
+state,Renfrewshire
+state,Rhondda Cynon Taf
+state,Rochdale
+state,Rotherham
+state,Royal Borough of Greenwich
+state,Royal Borough of Kensington and Chelsea
+state,Royal Borough of Kingston upon Thames
+state,Rutland
+state,Saint Helena
+state,Salford
+state,Sandwell
+state,Scotland
+state,Scottish Borders
+state,Sefton
+state,Sheffield
+state,Shetland Islands
+state,Shropshire
+state,Slough
+state,Solihull
+state,Somerset
+state,South Ayrshire
+state,South Gloucestershire
+state,South Lanarkshire
+state,South Tyneside
+state,Southend-on-Sea
+state,St Helens
+state,Staffordshire
+state,Stirling
+state,Stockport
+state,Stockton-on-Tees
+state,Strabane District Council
+state,Suffolk
+state,Surrey
+state,Swindon
+state,Tameside
+state,Telford and Wrekin
+state,Thurrock
+state,Torbay
+state,Torfaen
+state,Trafford
+state,United Kingdom
+state,Vale of Glamorgan
+state,Wakefield
+state,Wales
+state,Walsall
+state,Warrington
+state,Warwickshire
+state,West Berkshire
+state,West Dunbartonshire
+state,West Lothian
+state,West Sussex
+state,Wiltshire
+state,Windsor and Maidenhead
+state,Wirral
+state,Wokingham
+state,Worcestershire
+state,Wrexham County Borough
+state,Alabama
+state,Alaska
+state,American Samoa
+state,Arizona
+state,Arkansas
+state,Baker Island
+state,California
+state,Colorado
+state,Connecticut
+state,Delaware
+state,District of Columbia
+state,Florida
+state,Georgia
+state,Guam
+state,Hawaii
+state,Howland Island
+state,Idaho
+state,Illinois
+state,Indiana
+state,Iowa
+state,Jarvis Island
+state,Johnston Atoll
+state,Kansas
+state,Kentucky
+state,Kingman Reef
+state,Louisiana
+state,Maine
+state,Maryland
+state,Massachusetts
+state,Michigan
+state,Midway Atoll
+state,Minnesota
+state,Mississippi
+state,Missouri
+state,Montana
+state,Navassa Island
+state,Nebraska
+state,Nevada
+state,New Hampshire
+state,New Jersey
+state,New Mexico
+state,New York
+state,North Carolina
+state,North Dakota
+state,Northern Mariana Islands
+state,Ohio
+state,Oklahoma
+state,Oregon
+state,Palmyra Atoll
+state,Pennsylvania
+state,Puerto Rico
+state,Rhode Island
+state,South Carolina
+state,South Dakota
+state,Tennessee
+state,Texas
+state,United States Minor Outlying Islands
+state,United States Virgin Islands
+state,Utah
+state,Vermont
+state,Virginia
+state,Wake Island
+state,Washington
+state,West Virginia
+state,Wisconsin
+state,Wyoming
+state,Baker Island
+state,Howland Island
+state,Jarvis Island
+state,Johnston Atoll
+state,Kingman Reef
+state,Midway Islands
+state,Navassa Island
+state,Palmyra Atoll
+state,Wake Island
+state,Artigas
+state,Canelones
+state,Cerro Largo
+state,Colonia
+state,Durazno
+state,Flores
+state,Florida
+state,Lavalleja
+state,Maldonado
+state,Montevideo
+state,Paysandú
+state,Río Negro
+state,Rivera
+state,Rocha
+state,Salto
+state,San José
+state,Soriano
+state,Tacuarembó
+state,Treinta y Tres
+state,Andijan Region
+state,Bukhara Region
+state,Fergana Region
+state,Jizzakh Region
+state,Karakalpakstan
+state,Namangan Region
+state,Navoiy Region
+state,Qashqadaryo Region
+state,Samarqand Region
+state,Sirdaryo Region
+state,Surxondaryo Region
+state,Tashkent
+state,Tashkent Region
+state,Xorazm Region
+state,Malampa
+state,Penama
+state,Sanma
+state,Shefa
+state,Tafea
+state,Torba
+state,Amazonas
+state,Anzoátegui
+state,Apure
+state,Aragua
+state,Barinas
+state,Bolívar
+state,Carabobo
+state,Cojedes
+state,Delta Amacuro
+state,Distrito Capital
+state,Falcón
+state,Federal Dependencies of Venezuela
+state,Guárico
+state,La Guaira
+state,Lara
+state,Mérida
+state,Miranda
+state,Monagas
+state,Nueva Esparta
+state,Portuguesa
+state,Sucre
+state,Táchira
+state,Trujillo
+state,Yaracuy
+state,Zulia
+state,An Giang
+state,Bà Rịa-Vũng Tàu
+state,Bắc Giang
+state,Bắc Kạn
+state,Bạc Liêu
+state,Bắc Ninh
+state,Bến Tre
+state,Bình Dương
+state,Bình Định
+state,Bình Phước
+state,Bình Thuận
+state,Cà Mau
+state,Cần Thơ
+state,Cao Bằng
+state,Đà Nẵng
+state,Đắk Lắk
+state,Đắk Nông
+state,Điện Biên
+state,Đồng Nai
+state,Đồng Tháp
+state,Gia Lai
+state,Hà Giang
+state,Hà Nam
+state,Hà Nội
+state,Hà Tĩnh
+state,Hải Dương
+state,Hải Phòng
+state,Hậu Giang
+state,Hồ Chí Minh
+state,Hòa Bình
+state,Hưng Yên
+state,Khánh Hòa
+state,Kiên Giang
+state,Kon Tum
+state,Lai Châu
+state,Lâm Đồng
+state,Lạng Sơn
+state,Lào Cai
+state,Long An
+state,Nam Định
+state,Nghệ An
+state,Ninh Bình
+state,Ninh Thuận
+state,Phú Thọ
+state,Phú Yên
+state,Quảng Bình
+state,Quảng Nam
+state,Quảng Ngãi
+state,Quảng Ninh
+state,Quảng Trị
+state,Sóc Trăng
+state,Sơn La
+state,Tây Ninh
+state,Thái Bình
+state,Thái Nguyên
+state,Thanh Hóa
+state,Thừa Thiên-Huế
+state,Tiền Giang
+state,Trà Vinh
+state,Tuyên Quang
+state,Vĩnh Long
+state,Vĩnh Phúc
+state,Yên Bái
+state,Saint Croix
+state,Saint John
+state,Saint Thomas
+state,'Adan
+state,'Amran
+state,Abyan
+state,Al Bayda'
+state,Al Hudaydah
+state,Al Jawf
+state,Al Mahrah
+state,Al Mahwit
+state,Amanat Al Asimah
+state,Dhamar
+state,Hadhramaut
+state,Hajjah
+state,Ibb
+state,Lahij
+state,Ma'rib
+state,Raymah
+state,Saada
+state,Sana'a
+state,Shabwah
+state,Socotra
+state,Ta'izz
+state,Central Province
+state,Copperbelt Province
+state,Eastern Province
+state,Luapula Province
+state,Lusaka Province
+state,Muchinga Province
+state,Northern Province
+state,Northwestern Province
+state,Southern Province
+state,Western Province
+state,Bulawayo Province
+state,Harare Province
+state,Manicaland
+state,Mashonaland Central Province
+state,Mashonaland East Province
+state,Mashonaland West Province
+state,Masvingo Province
+state,Matabeleland North Province
+state,Matabeleland South Province
+state,Midlands Province

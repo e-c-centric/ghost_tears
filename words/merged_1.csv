@@ -1,0 +1,5023 @@
+1,Badakhshan
+1,Badghis
+1,Baghlan
+1,Balkh
+1,Bamyan
+1,Daykundi
+1,Farah
+1,Faryab
+1,Ghazni
+1,Ghōr
+1,Helmand
+1,Herat
+1,Jowzjan
+1,Kabul
+1,Kandahar
+1,Kapisa
+1,Khost
+1,Kunar
+1,Kunduz Province
+1,Laghman
+1,Logar
+1,Nangarhar
+1,Nimruz
+1,Nuristan
+1,Paktia
+1,Paktika
+1,Panjshir
+1,Parwan
+1,Samangan
+1,Sar-e Pol
+1,Takhar
+1,Urozgan
+1,Zabul
+1,Berat County
+1,Berat District
+1,Bulqizë District
+1,Delvinë District
+1,Devoll District
+1,Dibër County
+1,Dibër District
+1,Durrës County
+1,Durrës District
+1,Elbasan County
+1,Fier County
+1,Fier District
+1,Gjirokastër County
+1,Gjirokastër District
+1,Gramsh District
+1,Has District
+1,Kavajë District
+1,Kolonjë District
+1,Korçë County
+1,Korçë District
+1,Krujë District
+1,Kuçovë District
+1,Kukës County
+1,Kukës District
+1,Kurbin District
+1,Lezhë County
+1,Lezhë District
+1,Librazhd District
+1,Lushnjë District
+1,Malësi e Madhe District
+1,Mallakastër District
+1,Mat District
+1,Mirditë District
+1,Peqin District
+1,Përmet District
+1,Pogradec District
+1,Pukë District
+1,Sarandë District
+1,Shkodër County
+1,Shkodër District
+1,Skrapar District
+1,Tepelenë District
+1,Tirana County
+1,Tirana District
+1,Tropojë District
+1,Vlorë County
+1,Vlorë District
+1,Adrar
+1,Aïn Defla
+1,Aïn Témouchent
+1,Algiers
+1,Annaba
+1,Batna
+1,Béchar
+1,Béjaïa
+1,Béni Abbès
+1,Biskra
+1,Blida
+1,Bordj Baji Mokhtar
+1,Bordj Bou Arréridj
+1,Bouïra
+1,Boumerdès
+1,Chlef
+1,Constantine
+1,Djanet
+1,Djelfa
+1,El Bayadh
+1,El M'ghair
+1,El Menia
+1,El Oued
+1,El Tarf
+1,Ghardaïa
+1,Guelma
+1,Illizi
+1,In Guezzam
+1,In Salah
+1,Jijel
+1,Khenchela
+1,Laghouat
+1,M'Sila
+1,Mascara
+1,Médéa
+1,Mila
+1,Mostaganem
+1,Naama
+1,Oran
+1,Ouargla
+1,Ouled Djellal
+1,Oum El Bouaghi
+1,Relizane
+1,Saïda
+1,Sétif
+1,Sidi Bel Abbès
+1,Skikda
+1,Souk Ahras
+1,Tamanghasset
+1,Tébessa
+1,Tiaret
+1,Timimoun
+1,Tindouf
+1,Tipasa
+1,Tissemsilt
+1,Tizi Ouzou
+1,Tlemcen
+1,Touggourt
+1,Andorra la Vella
+1,Canillo
+1,Encamp
+1,Escaldes-Engordany
+1,La Massana
+1,Ordino
+1,Sant Julià de Lòria
+1,Bengo Province
+1,Benguela Province
+1,Bié Province
+1,Cabinda Province
+1,Cuando Cubango Province
+1,Cuanza Norte Province
+1,Cuanza Sul
+1,Cunene Province
+1,Huambo Province
+1,Huíla Province
+1,Luanda Province
+1,Lunda Norte Province
+1,Lunda Sul Province
+1,Malanje Province
+1,Moxico Province
+1,Uíge Province
+1,Zaire Province
+1,Barbuda
+1,Redonda
+1,Saint George Parish
+1,Saint John Parish
+1,Saint Mary Parish
+1,Saint Paul Parish
+1,Saint Peter Parish
+1,Saint Philip Parish
+1,Buenos Aires
+1,Catamarca
+1,Chaco
+1,Chubut
+1,Ciudad Autónoma de Buenos Aires
+1,Córdoba
+1,Corrientes
+1,Entre Ríos
+1,Formosa
+1,Jujuy
+1,La Pampa
+1,La Rioja
+1,Mendoza
+1,Misiones
+1,Neuquén
+1,Río Negro
+1,Salta
+1,San Juan
+1,San Luis
+1,Santa Cruz
+1,Santa Fe
+1,Santiago del Estero
+1,Tierra del Fuego
+1,Tucumán
+1,Aragatsotn Region
+1,Ararat Province
+1,Armavir Region
+1,Gegharkunik Province
+1,Kotayk Region
+1,Lori Region
+1,Shirak Region
+1,Syunik Province
+1,Tavush Region
+1,Vayots Dzor Region
+1,Yerevan
+1,Australian Capital Territory
+1,New South Wales
+1,Northern Territory
+1,Queensland
+1,South Australia
+1,Tasmania
+1,Victoria
+1,Western Australia
+1,Burgenland
+1,Carinthia
+1,Lower Austria
+1,Salzburg
+1,Styria
+1,Tyrol
+1,Upper Austria
+1,Vienna
+1,Vorarlberg
+1,Absheron District
+1,Agdam District
+1,Agdash District
+1,Aghjabadi District
+1,Agstafa District
+1,Agsu District
+1,Astara District
+1,Babek District
+1,Baku
+1,Balakan District
+1,Barda District
+1,Beylagan District
+1,Bilasuvar District
+1,Dashkasan District
+1,Fizuli District
+1,Ganja
+1,Gədəbəy
+1,Gobustan District
+1,Goranboy District
+1,Goychay
+1,Goygol District
+1,Hajigabul District
+1,Imishli District
+1,Ismailli District
+1,Jabrayil District
+1,Jalilabad District
+1,Julfa District
+1,Kalbajar District
+1,Kangarli District
+1,Khachmaz District
+1,Khizi District
+1,Khojali District
+1,Kurdamir District
+1,Lachin District
+1,Lankaran
+1,Lankaran District
+1,Lerik District
+1,Martuni
+1,Masally District
+1,Mingachevir
+1,Nakhchivan Autonomous Republic
+1,Neftchala District
+1,Oghuz District
+1,Ordubad District
+1,Qabala District
+1,Qakh District
+1,Qazakh District
+1,Quba District
+1,Qubadli District
+1,Qusar District
+1,Saatly District
+1,Sabirabad District
+1,Sadarak District
+1,Salyan District
+1,Samukh District
+1,Shabran District
+1,Shahbuz District
+1,Shaki
+1,Shaki District
+1,Shamakhi District
+1,Shamkir District
+1,Sharur District
+1,Shirvan
+1,Shusha District
+1,Siazan District
+1,Sumqayit
+1,Tartar District
+1,Tovuz District
+1,Ujar District
+1,Yardymli District
+1,Yevlakh
+1,Yevlakh District
+1,Zangilan District
+1,Zaqatala District
+1,Zardab District
+1,Capital
+1,Central
+1,Muharraq
+1,Northern
+1,Southern
+1,Barisal
+1,Chittagong
+1,Dhaka
+1,Khulna
+1,Mymensingh
+1,Rajshahi
+1,Rangpur
+1,Sylhet
+1,Christ Church
+1,Saint Andrew
+1,Saint George
+1,Saint James
+1,Saint John
+1,Saint Joseph
+1,Saint Lucy
+1,Saint Michael
+1,Saint Peter
+1,Saint Philip
+1,Saint Thomas
+1,Brest Region
+1,Gomel Region
+1,Grodno Region
+1,Minsk
+1,Minsk Region
+1,Mogilev Region
+1,Vitebsk Region
+1,Antwerp
+1,Brussels-Capital Region
+1,East Flanders
+1,Flanders
+1,Flemish Brabant
+1,Hainaut
+1,Liège
+1,Limburg
+1,Luxembourg
+1,Namur
+1,Wallonia
+1,Walloon Brabant
+1,West Flanders
+1,Belize District
+1,Cayo District
+1,Corozal District
+1,Orange Walk District
+1,Stann Creek District
+1,Toledo District
+1,Alibori Department
+1,Atakora Department
+1,Atlantique Department
+1,Borgou Department
+1,Collines Department
+1,Donga Department
+1,Kouffo Department
+1,Littoral Department
+1,Mono Department
+1,Ouémé Department
+1,Plateau Department
+1,Zou Department
+1,Devonshire
+1,Hamilton
+1,Paget
+1,Pembroke
+1,Saint George's
+1,Sandys
+1,Smith's
+1,Southampton
+1,Warwick
+1,Bumthang
+1,Chukha
+1,Dagana
+1,Gasa
+1,Haa
+1,Lhuntse
+1,Mongar
+1,Paro
+1,Pemagatshel
+1,Punakha
+1,Samdrup Jongkhar
+1,Samtse
+1,Sarpang
+1,Thimphu
+1,Trashi Yangtse	
+1,Trashigang
+1,Trongsa
+1,Tsirang
+1,Wangdue Phodrang
+1,Zhemgang
+1,Beni Department
+1,Chuquisaca Department
+1,Cochabamba Department
+1,La Paz Department
+1,Oruro Department
+1,Pando Department
+1,Potosí Department
+1,Santa Cruz Department
+1,Tarija Department
+1,Bonaire
+1,Saba
+1,Sint Eustatius
+1,Bosnian Podrinje Canton
+1,Brčko District
+1,Canton 10
+1,Central Bosnia Canton
+1,Federation of Bosnia and Herzegovina
+1,Herzegovina-Neretva Canton
+1,Posavina Canton
+1,Republika Srpska
+1,Sarajevo Canton
+1,Tuzla Canton
+1,Una-Sana Canton
+1,West Herzegovina Canton
+1,Zenica-Doboj Canton
+1,Central District
+1,Ghanzi District
+1,Kgalagadi District
+1,Kgatleng District
+1,Kweneng District
+1,Ngamiland
+1,North-East District
+1,North-West District
+1,South-East District
+1,Southern District
+1,Acre
+1,Alagoas
+1,Amapá
+1,Amazonas
+1,Bahia
+1,Ceará
+1,Distrito Federal
+1,Espírito Santo
+1,Goiás
+1,Maranhão
+1,Mato Grosso
+1,Mato Grosso do Sul
+1,Minas Gerais
+1,Pará
+1,Paraíba
+1,Paraná
+1,Pernambuco
+1,Piauí
+1,Rio de Janeiro
+1,Rio Grande do Norte
+1,Rio Grande do Sul
+1,Rondônia
+1,Roraima
+1,Santa Catarina
+1,São Paulo
+1,Sergipe
+1,Tocantins
+1,Belait District
+1,Brunei-Muara District
+1,Temburong District
+1,Tutong District
+1,Blagoevgrad Province
+1,Burgas Province
+1,Dobrich Province
+1,Gabrovo Province
+1,Haskovo Province
+1,Kardzhali Province
+1,Kyustendil Province
+1,Lovech Province
+1,Montana Province
+1,Pazardzhik Province
+1,Pernik Province
+1,Pleven Province
+1,Plovdiv Province
+1,Razgrad Province
+1,Ruse Province
+1,Shumen
+1,Silistra Province
+1,Sliven Province
+1,Smolyan Province
+1,Sofia City Province
+1,Sofia Province
+1,Stara Zagora Province
+1,Targovishte Province
+1,Varna Province
+1,Veliko Tarnovo Province
+1,Vidin Province
+1,Vratsa Province
+1,Yambol Province
+1,Balé Province
+1,Bam Province
+1,Banwa Province
+1,Bazèga Province
+1,Boucle du Mouhoun Region
+1,Bougouriba Province
+1,Boulgou
+1,Cascades Region
+1,Centre
+1,Centre-Est Region
+1,Centre-Nord Region
+1,Centre-Ouest Region
+1,Centre-Sud Region
+1,Comoé Province
+1,Est Region
+1,Ganzourgou Province
+1,Gnagna Province
+1,Gourma Province
+1,Hauts-Bassins Region
+1,Houet Province
+1,Ioba Province
+1,Kadiogo Province
+1,Kénédougou Province
+1,Komondjari Province
+1,Kompienga Province
+1,Kossi Province
+1,Koulpélogo Province
+1,Kouritenga Province
+1,Kourwéogo Province
+1,Léraba Province
+1,Loroum Province
+1,Mouhoun
+1,Nahouri Province
+1,Namentenga Province
+1,Nayala Province
+1,"Nord Region, Burkina Faso"
+1,Noumbiel Province
+1,Oubritenga Province
+1,Oudalan Province
+1,Passoré Province
+1,Plateau-Central Region
+1,Poni Province
+1,Sahel Region
+1,Sanguié Province
+1,Sanmatenga Province
+1,Séno Province
+1,Sissili Province
+1,Soum Province
+1,Sourou Province
+1,Sud-Ouest Region
+1,Tapoa Province
+1,Tuy Province
+1,Yagha Province
+1,Yatenga Province
+1,Ziro Province
+1,Zondoma Province
+1,Zoundwéogo Province
+1,Bubanza Province
+1,Bujumbura Mairie Province
+1,Bujumbura Rural Province
+1,Bururi Province
+1,Cankuzo Province
+1,Cibitoke Province
+1,Gitega Province
+1,Karuzi Province
+1,Kayanza Province
+1,Kirundo Province
+1,Makamba Province
+1,Muramvya Province
+1,Muyinga Province
+1,Mwaro Province
+1,Ngozi Province
+1,Rumonge Province
+1,Rutana Province
+1,Ruyigi Province
+1,Banteay Meanchey
+1,Battambang
+1,Kampong Cham
+1,Kampong Chhnang
+1,Kampong Speu
+1,Kampong Thom
+1,Kampot
+1,Kandal
+1,Kep
+1,Koh Kong
+1,Kratie
+1,Mondulkiri
+1,Oddar Meanchey
+1,Pailin
+1,Phnom Penh
+1,Preah Vihear
+1,Prey Veng
+1,Pursat
+1,Ratanakiri
+1,Siem Reap
+1,Sihanoukville
+1,Stung Treng
+1,Svay Rieng
+1,Takeo
+1,Adamawa
+1,Centre
+1,East
+1,Far North
+1,Littoral
+1,North
+1,Northwest
+1,South
+1,Southwest
+1,West
+1,Alberta
+1,British Columbia
+1,Manitoba
+1,New Brunswick
+1,Newfoundland and Labrador
+1,Northwest Territories
+1,Nova Scotia
+1,Nunavut
+1,Ontario
+1,Prince Edward Island
+1,Quebec
+1,Saskatchewan
+1,Yukon
+1,Barlavento Islands
+1,Boa Vista
+1,Brava
+1,Maio Municipality
+1,Mosteiros
+1,Paul
+1,Porto Novo
+1,Praia
+1,Ribeira Brava Municipality
+1,Ribeira Grande
+1,Ribeira Grande de Santiago
+1,Sal
+1,Santa Catarina
+1,Santa Catarina do Fogo
+1,Santa Cruz
+1,São Domingos
+1,São Filipe
+1,São Lourenço dos Órgãos
+1,São Miguel
+1,São Vicente
+1,Sotavento Islands
+1,Tarrafal
+1,Tarrafal de São Nicolau
+1,Bamingui-Bangoran Prefecture
+1,Bangui
+1,Basse-Kotto Prefecture
+1,Haut-Mbomou Prefecture
+1,Haute-Kotto Prefecture
+1,Kémo Prefecture
+1,Lobaye Prefecture
+1,Mambéré-Kadéï
+1,Mbomou Prefecture
+1,Nana-Grébizi Economic Prefecture
+1,Nana-Mambéré Prefecture
+1,Ombella-M'Poko Prefecture
+1,Ouaka Prefecture
+1,Ouham Prefecture
+1,Ouham-Pendé Prefecture
+1,Sangha-Mbaéré
+1,Vakaga Prefecture
+1,Bahr el Gazel
+1,Batha
+1,Borkou
+1,Chari-Baguirmi
+1,Ennedi-Est
+1,Ennedi-Ouest
+1,Guéra
+1,Hadjer-Lamis
+1,Kanem
+1,Lac
+1,Logone Occidental
+1,Logone Oriental
+1,Mandoul
+1,Mayo-Kebbi Est
+1,Mayo-Kebbi Ouest
+1,Moyen-Chari
+1,N'Djamena
+1,Ouaddaï
+1,Salamat
+1,Sila
+1,Tandjilé
+1,Tibesti
+1,Wadi Fira
+1,Aisén del General Carlos Ibañez del Campo
+1,Antofagasta
+1,Arica y Parinacota
+1,Atacama
+1,Biobío
+1,Coquimbo
+1,La Araucanía
+1,Libertador General Bernardo O'Higgins
+1,Los Lagos
+1,Los Ríos
+1,Magallanes y de la Antártica Chilena
+1,Maule
+1,Ñuble
+1,Región Metropolitana de Santiago
+1,Tarapacá
+1,Valparaíso
+1,Anhui
+1,Beijing
+1,Chongqing
+1,Fujian
+1,Gansu
+1,Guangdong
+1,Guangxi Zhuang
+1,Guizhou
+1,Hainan
+1,Hebei
+1,Heilongjiang
+1,Henan
+1,Hong Kong SAR
+1,Hubei
+1,Hunan
+1,Inner Mongolia
+1,Jiangsu
+1,Jiangxi
+1,Jilin
+1,Liaoning
+1,Macau SAR
+1,Ningxia Huizu
+1,Qinghai
+1,Shaanxi
+1,Shandong
+1,Shanghai
+1,Shanxi
+1,Sichuan
+1,Taiwan
+1,Tianjin
+1,Xinjiang
+1,Xizang
+1,Yunnan
+1,Zhejiang
+1,Amazonas
+1,Antioquia
+1,Arauca
+1,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+1,Atlántico
+1,Bogotá D.C.
+1,Bolívar
+1,Boyacá
+1,Caldas
+1,Caquetá
+1,Casanare
+1,Cauca
+1,Cesar
+1,Chocó
+1,Córdoba
+1,Cundinamarca
+1,Guainía
+1,Guaviare
+1,Huila
+1,La Guajira
+1,Magdalena
+1,Meta
+1,Nariño
+1,Norte de Santander
+1,Putumayo
+1,Quindío
+1,Risaralda
+1,Santander
+1,Sucre
+1,Tolima
+1,Valle del Cauca
+1,Vaupés
+1,Vichada
+1,Anjouan
+1,Grande Comore
+1,Mohéli
+1,Bouenza Department
+1,Brazzaville
+1,Cuvette Department
+1,Cuvette-Ouest Department
+1,Kouilou Department
+1,Lékoumou Department
+1,Likouala Department
+1,Niari Department
+1,Plateaux Department
+1,Pointe-Noire
+1,Pool Department
+1,Sangha Department
+1,Alajuela Province
+1,Guanacaste Province
+1,Heredia Province
+1,Limón Province
+1,Provincia de Cartago
+1,Puntarenas Province
+1,San José Province
+1,Abidjan
+1,Agnéby
+1,Bafing Region
+1,Bas-Sassandra District
+1,Bas-Sassandra Region
+1,Comoé District
+1,Denguélé District
+1,Denguélé Region
+1,Dix-Huit Montagnes
+1,Fromager
+1,Gôh-Djiboua District
+1,Haut-Sassandra
+1,Lacs District
+1,Lacs Region
+1,Lagunes District
+1,Lagunes region
+1,Marahoué Region
+1,Montagnes District
+1,Moyen-Cavally
+1,Moyen-Comoé
+1,N'zi-Comoé
+1,Sassandra-Marahoué District
+1,Savanes Region
+1,Sud-Bandama
+1,Sud-Comoé
+1,Vallée du Bandama District
+1,Vallée du Bandama Region
+1,Woroba District
+1,Worodougou
+1,Yamoussoukro
+1,Zanzan Region
+1,Bjelovar-Bilogora
+1,Brod-Posavina
+1,Dubrovnik-Neretva
+1,Istria
+1,Karlovac
+1,Koprivnica-Križevci
+1,Krapina-Zagorje
+1,Lika-Senj
+1,Međimurje
+1,Osijek-Baranja
+1,Požega-Slavonia
+1,Primorje-Gorski Kotar
+1,Šibenik-Knin
+1,Sisak-Moslavina
+1,Split-Dalmatia
+1,Varaždin
+1,Virovitica-Podravina
+1,Vukovar-Syrmia
+1,Zadar
+1,Zagreb
+1,Zagreb
+1,Artemisa Province
+1,Camagüey Province
+1,Ciego de Ávila Province
+1,Cienfuegos Province
+1,Granma Province
+1,Guantánamo Province
+1,Havana Province
+1,Holguín Province
+1,Isla de la Juventud
+1,Las Tunas Province
+1,Matanzas Province
+1,Mayabeque Province
+1,Pinar del Río Province
+1,Sancti Spíritus Province
+1,Santiago de Cuba Province
+1,Villa Clara Province
+1,Famagusta District (Mağusa)
+1,Kyrenia District (Keryneia)
+1,Larnaca District (Larnaka)
+1,Limassol District (Leymasun)
+1,Nicosia District (Lefkoşa)
+1,Paphos District (Pafos)
+1,Benešov
+1,Beroun
+1,Blansko
+1,Břeclav
+1,Brno-město
+1,Brno-venkov
+1,Bruntál
+1,Česká Lípa
+1,České Budějovice
+1,Český Krumlov
+1,Cheb
+1,Chomutov
+1,Chrudim
+1,Děčín
+1,Domažlice
+1,Frýdek-Místek
+1,Havlíčkův Brod
+1,Hodonín
+1,Hradec Králové
+1,Jablonec nad Nisou
+1,Jeseník
+1,Jičín
+1,Jihlava
+1,Jihočeský kraj
+1,Jihomoravský kraj
+1,Jindřichův Hradec
+1,Karlovarský kraj
+1,Karlovy Vary
+1,Karviná
+1,Kladno
+1,Klatovy
+1,Kolín
+1,Kraj Vysočina
+1,Královéhradecký kraj
+1,Kroměříž
+1,Kutná Hora
+1,Liberec
+1,Liberecký kraj
+1,Litoměřice
+1,Louny
+1,Mělník
+1,Mladá Boleslav
+1,Moravskoslezský kraj
+1,Most
+1,Náchod
+1,Nový Jičín
+1,Nymburk
+1,Olomouc
+1,Olomoucký kraj
+1,Opava
+1,Ostrava-město
+1,Pardubice
+1,Pardubický kraj
+1,Pelhřimov
+1,Písek
+1,Plzeň-jih
+1,Plzeň-město
+1,Plzeň-sever
+1,Plzeňský kraj
+1,Prachatice
+1,Praha-východ
+1,Praha-západ
+1,"Praha, Hlavní město"
+1,Přerov
+1,Příbram
+1,Prostějov
+1,Rakovník
+1,Rokycany
+1,Rychnov nad Kněžnou
+1,Semily
+1,Sokolov
+1,Strakonice
+1,Středočeský kraj
+1,Šumperk
+1,Svitavy
+1,Tábor
+1,Tachov
+1,Teplice
+1,Třebíč
+1,Trutnov
+1,Uherské Hradiště
+1,Ústecký kraj
+1,Ústí nad Labem
+1,Ústí nad Orlicí
+1,Vsetín
+1,Vyškov
+1,Žďár nad Sázavou
+1,Zlín
+1,Zlínský kraj
+1,Znojmo
+1,Bas-Uélé
+1,Équateur
+1,Haut-Katanga
+1,Haut-Lomami
+1,Haut-Uélé
+1,Ituri
+1,Kasaï
+1,Kasaï Central
+1,Kasaï Oriental
+1,Kinshasa
+1,Kongo Central
+1,Kwango
+1,Kwilu
+1,Lomami
+1,Lualaba
+1,Mai-Ndombe
+1,Maniema
+1,Mongala
+1,Nord-Kivu
+1,Nord-Ubangi
+1,Sankuru
+1,Sud-Kivu
+1,Sud-Ubangi
+1,Tanganyika
+1,Tshopo
+1,Tshuapa
+1,Capital Region of Denmark
+1,Central Denmark Region
+1,North Denmark Region
+1,Region of Southern Denmark
+1,Region Zealand
+1,Ali Sabieh Region
+1,Arta Region
+1,Dikhil Region
+1,Djibouti
+1,Obock Region
+1,Tadjourah Region
+1,Saint Andrew Parish
+1,Saint David Parish
+1,Saint George Parish
+1,Saint John Parish
+1,Saint Joseph Parish
+1,Saint Luke Parish
+1,Saint Mark Parish
+1,Saint Patrick Parish
+1,Saint Paul Parish
+1,Saint Peter Parish
+1,Azua Province
+1,Baoruco Province
+1,Barahona Province
+1,Dajabón Province
+1,Distrito Nacional
+1,Duarte Province
+1,El Seibo Province
+1,Espaillat Province
+1,Hato Mayor Province
+1,Hermanas Mirabal Province
+1,Independencia
+1,La Altagracia Province
+1,La Romana Province
+1,La Vega Province
+1,María Trinidad Sánchez Province
+1,Monseñor Nouel Province
+1,Monte Cristi Province
+1,Monte Plata Province
+1,Pedernales Province
+1,Peravia Province
+1,Puerto Plata Province
+1,Samaná Province
+1,San Cristóbal Province
+1,San José de Ocoa Province
+1,San Juan Province
+1,San Pedro de Macorís
+1,Sánchez Ramírez Province
+1,Santiago Province
+1,Santiago Rodríguez Province
+1,Santo Domingo Province
+1,Valverde Province
+1,Azuay
+1,Bolívar
+1,Cañar
+1,Carchi
+1,Chimborazo
+1,Cotopaxi
+1,El Oro
+1,Esmeraldas
+1,Galápagos
+1,Guayas
+1,Imbabura
+1,Loja
+1,Los Ríos
+1,Manabí
+1,Morona-Santiago
+1,Napo
+1,Orellana
+1,Pastaza
+1,Pichincha
+1,Santa Elena
+1,Santo Domingo de los Tsáchilas
+1,Sucumbíos
+1,Tungurahua
+1,Zamora Chinchipe
+1,Alexandria
+1,Aswan
+1,Asyut
+1,Beheira
+1,Beni Suef
+1,Cairo
+1,Dakahlia
+1,Damietta
+1,Faiyum
+1,Gharbia
+1,Giza
+1,Ismailia
+1,Kafr el-Sheikh
+1,Luxor
+1,Matrouh
+1,Minya
+1,Monufia
+1,New Valley
+1,North Sinai
+1,Port Said
+1,Qalyubia
+1,Qena
+1,Red Sea
+1,Sharqia
+1,Sohag
+1,South Sinai
+1,Suez
+1,Ahuachapán Department
+1,Cabañas Department
+1,Chalatenango Department
+1,Cuscatlán Department
+1,La Libertad Department
+1,La Paz Department
+1,La Unión Department
+1,Morazán Department
+1,San Miguel Department
+1,San Salvador Department
+1,San Vicente Department
+1,Santa Ana Department
+1,Sonsonate Department
+1,Usulután Department
+1,Annobón Province
+1,Bioko Norte Province
+1,Bioko Sur Province
+1,Centro Sur Province
+1,Insular Region
+1,Kié-Ntem Province
+1,Litoral Province
+1,Río Muni
+1,Wele-Nzas Province
+1,Anseba Region
+1,Debub Region
+1,Gash-Barka Region
+1,Maekel Region
+1,Northern Red Sea Region
+1,Southern Red Sea Region
+1,Harju County
+1,Hiiu County
+1,Ida-Viru County
+1,Järva County
+1,Jõgeva County
+1,Lääne County
+1,Lääne-Viru County
+1,Pärnu County
+1,Põlva County
+1,Rapla County
+1,Saare County
+1,Tartu County
+1,Valga County
+1,Viljandi County
+1,Võru County
+1,Hhohho District
+1,Lubombo District
+1,Manzini District
+1,Shiselweni District
+1,Addis Ababa
+1,Afar Region
+1,Amhara Region
+1,Benishangul-Gumuz Region
+1,Dire Dawa
+1,Gambela Region
+1,Harari Region
+1,Oromia Region
+1,Somali Region
+1,"Southern Nations, Nationalities, and Peoples' Region"
+1,Tigray Region
+1,Eysturoy
+1,Northern Isles
+1,Sandoy
+1,Streymoy
+1,Suðuroy
+1,Vágar
+1,Ba
+1,Bua
+1,Cakaudrove
+1,Central Division
+1,Eastern Division
+1,Kadavu
+1,Lau
+1,Lomaiviti
+1,Macuata
+1,Nadroga-Navosa
+1,Naitasiri
+1,Namosi
+1,Northern Division
+1,Ra
+1,Rewa
+1,Rotuma
+1,Serua
+1,Tailevu
+1,Western Division
+1,Åland Islands
+1,Central Finland
+1,Central Ostrobothnia
+1,Finland Proper
+1,Kainuu
+1,Kymenlaakso
+1,Lapland
+1,North Karelia
+1,Northern Ostrobothnia
+1,Northern Savonia
+1,Ostrobothnia
+1,Päijänne Tavastia
+1,Pirkanmaa
+1,Satakunta
+1,South Karelia
+1,Southern Ostrobothnia
+1,Southern Savonia
+1,Tavastia Proper
+1,Uusimaa
+1,Ain
+1,Aisne
+1,Allier
+1,Alpes-de-Haute-Provence
+1,Alpes-Maritimes
+1,Alsace
+1,Ardèche
+1,Ardennes
+1,Ariège
+1,Aube
+1,Aude
+1,Auvergne-Rhône-Alpes
+1,Aveyron
+1,Bas-Rhin
+1,Bouches-du-Rhône
+1,Bourgogne-Franche-Comté
+1,Bretagne
+1,Calvados
+1,Cantal
+1,Centre-Val de Loire
+1,Charente
+1,Charente-Maritime
+1,Cher
+1,Clipperton
+1,Corrèze
+1,Corse
+1,Corse-du-Sud
+1,Côte-d'Or
+1,Côtes-d'Armor
+1,Creuse
+1,Deux-Sèvres
+1,Dordogne
+1,Doubs
+1,Drôme
+1,Essonne
+1,Eure
+1,Eure-et-Loir
+1,Finistère
+1,French Guiana
+1,French Polynesia
+1,French Southern and Antarctic Lands
+1,Gard
+1,Gers
+1,Gironde
+1,Grand-Est
+1,Guadeloupe
+1,Haut-Rhin
+1,Haute-Corse
+1,Haute-Garonne
+1,Haute-Loire
+1,Haute-Marne
+1,Haute-Saône
+1,Haute-Savoie
+1,Haute-Vienne
+1,Hautes-Alpes
+1,Hautes-Pyrénées
+1,Hauts-de-France
+1,Hauts-de-Seine
+1,Hérault
+1,Île-de-France
+1,Ille-et-Vilaine
+1,Indre
+1,Indre-et-Loire
+1,Isère
+1,Jura
+1,La Réunion
+1,Landes
+1,Loir-et-Cher
+1,Loire
+1,Loire-Atlantique
+1,Loiret
+1,Lot
+1,Lot-et-Garonne
+1,Lozère
+1,Maine-et-Loire
+1,Manche
+1,Marne
+1,Martinique
+1,Mayenne
+1,Mayotte
+1,Métropole de Lyon
+1,Meurthe-et-Moselle
+1,Meuse
+1,Morbihan
+1,Moselle
+1,Nièvre
+1,Nord
+1,Normandie
+1,Nouvelle-Aquitaine
+1,Occitanie
+1,Oise
+1,Orne
+1,Paris
+1,Pas-de-Calais
+1,Pays-de-la-Loire
+1,Provence-Alpes-Côte-d’Azur
+1,Puy-de-Dôme
+1,Pyrénées-Atlantiques
+1,Pyrénées-Orientales
+1,Rhône
+1,Saint Pierre and Miquelon
+1,Saint-Barthélemy
+1,Saint-Martin
+1,Saône-et-Loire
+1,Sarthe
+1,Savoie
+1,Seine-et-Marne
+1,Seine-Maritime
+1,Seine-Saint-Denis
+1,Somme
+1,Tarn
+1,Tarn-et-Garonne
+1,Territoire de Belfort
+1,Val-d'Oise
+1,Val-de-Marne
+1,Var
+1,Vaucluse
+1,Vendée
+1,Vienne
+1,Vosges
+1,Wallis and Futuna
+1,Yonne
+1,Yvelines
+1,Estuaire Province
+1,Haut-Ogooué Province
+1,Moyen-Ogooué Province
+1,Ngounié Province
+1,Nyanga Province
+1,Ogooué-Ivindo Province
+1,Ogooué-Lolo Province
+1,Ogooué-Maritime Province
+1,Woleu-Ntem Province
+1,Abkhazia
+1,Adjara
+1,Guria
+1,Imereti
+1,Kakheti
+1,Khelvachauri Municipality
+1,Kvemo Kartli
+1,Mtskheta-Mtianeti
+1,Racha-Lechkhumi and Kvemo Svaneti
+1,Samegrelo-Zemo Svaneti
+1,Samtskhe-Javakheti
+1,Senaki Municipality
+1,Shida Kartli
+1,Tbilisi
+1,Baden-Württemberg
+1,Bavaria
+1,Berlin
+1,Brandenburg
+1,Bremen
+1,Hamburg
+1,Hessen
+1,Lower Saxony
+1,Mecklenburg-Vorpommern
+1,North Rhine-Westphalia
+1,Rhineland-Palatinate
+1,Saarland
+1,Saxony
+1,Saxony-Anhalt
+1,Schleswig-Holstein
+1,Thuringia
+1,Ahafo
+1,Ashanti
+1,Bono
+1,Bono East
+1,Central
+1,Eastern
+1,Greater Accra
+1,North East
+1,Northern
+1,Oti
+1,Savannah
+1,Upper East
+1,Upper West
+1,Volta
+1,Western
+1,Western North
+1,Achaea Regional Unit
+1,Aetolia-Acarnania Regional Unit
+1,Arcadia Prefecture
+1,Argolis Regional Unit
+1,Attica Region
+1,Boeotia Regional Unit
+1,Central Greece Region
+1,Central Macedonia
+1,Chania Regional Unit
+1,Corfu Prefecture
+1,Corinthia Regional Unit
+1,Crete Region
+1,Drama Regional Unit
+1,East Attica Regional Unit
+1,East Macedonia and Thrace
+1,Epirus Region
+1,Euboea
+1,Grevena Prefecture
+1,Imathia Regional Unit
+1,Ioannina Regional Unit
+1,Ionian Islands Region
+1,Karditsa Regional Unit
+1,Kastoria Regional Unit
+1,Kefalonia Prefecture
+1,Kilkis Regional Unit
+1,Kozani Prefecture
+1,Laconia
+1,Larissa Prefecture
+1,Lefkada Regional Unit
+1,Pella Regional Unit
+1,Peloponnese Region
+1,Phthiotis Prefecture
+1,Preveza Prefecture
+1,Serres Prefecture
+1,South Aegean
+1,Thessaloniki Regional Unit
+1,West Greece Region
+1,West Macedonia Region
+1,Carriacou and Petite Martinique
+1,Saint Andrew Parish
+1,Saint David Parish
+1,Saint George Parish
+1,Saint John Parish
+1,Saint Mark Parish
+1,Saint Patrick Parish
+1,Alta Verapaz
+1,Baja Verapaz
+1,Chimaltenango
+1,Chiquimula
+1,El Progreso
+1,Escuintla
+1,Guatemala
+1,Huehuetenango
+1,Izabal
+1,Jalapa
+1,Jutiapa
+1,Petén
+1,Quetzaltenango
+1,Quiché
+1,Retalhuleu
+1,Sacatepéquez
+1,San Marcos
+1,Santa Rosa
+1,Sololá
+1,Suchitepéquez
+1,Totonicapán
+1,Zacapa
+1,Beyla Prefecture
+1,Boffa Prefecture
+1,Boké Prefecture
+1,Boké Region
+1,Conakry
+1,Coyah Prefecture
+1,Dabola Prefecture
+1,Dalaba Prefecture
+1,Dinguiraye Prefecture
+1,Dubréka Prefecture
+1,Faranah Prefecture
+1,Forécariah Prefecture
+1,Fria Prefecture
+1,Gaoual Prefecture
+1,Guéckédou Prefecture
+1,Kankan Prefecture
+1,Kankan Region
+1,Kérouané Prefecture
+1,Kindia Prefecture
+1,Kindia Region
+1,Kissidougou Prefecture
+1,Koubia Prefecture
+1,Koundara Prefecture
+1,Kouroussa Prefecture
+1,Labé Prefecture
+1,Labé Region
+1,Lélouma Prefecture
+1,Lola Prefecture
+1,Macenta Prefecture
+1,Mali Prefecture
+1,Mamou Prefecture
+1,Mamou Region
+1,Mandiana Prefecture
+1,Nzérékoré Prefecture
+1,Nzérékoré Region
+1,Pita Prefecture
+1,Siguiri Prefecture
+1,Télimélé Prefecture
+1,Tougué Prefecture
+1,Yomou Prefecture
+1,Bafatá
+1,Biombo Region
+1,Bolama Region
+1,Cacheu Region
+1,Gabú Region
+1,Leste Province
+1,Norte Province
+1,Oio Region
+1,Quinara Region
+1,Sul Province
+1,Tombali Region
+1,Barima-Waini
+1,Cuyuni-Mazaruni
+1,Demerara-Mahaica
+1,East Berbice-Corentyne
+1,Essequibo Islands-West Demerara
+1,Mahaica-Berbice
+1,Pomeroon-Supenaam
+1,Potaro-Siparuni
+1,Upper Demerara-Berbice
+1,Upper Takutu-Upper Essequibo
+1,Artibonite
+1,Centre
+1,Grand'Anse
+1,Nippes
+1,Nord
+1,Nord-Est
+1,Nord-Ouest
+1,Ouest
+1,Sud
+1,Sud-Est
+1,Atlántida Department
+1,Bay Islands Department
+1,Choluteca Department
+1,Colón Department
+1,Comayagua Department
+1,Copán Department
+1,Cortés Department
+1,El Paraíso Department
+1,Francisco Morazán Department
+1,Gracias a Dios Department
+1,Intibucá Department
+1,La Paz Department
+1,Lempira Department
+1,Ocotepeque Department
+1,Olancho Department
+1,Santa Bárbara Department
+1,Valle Department
+1,Yoro Department
+1,Central and Western
+1,Eastern
+1,Islands
+1,Kowloon City
+1,Kwai Tsing
+1,Kwun Tong
+1,North
+1,Sai Kung
+1,Sha Tin
+1,Sham Shui Po
+1,Southern
+1,Tai Po
+1,Tsuen Wan
+1,Tuen Mun
+1,Wan Chai
+1,Wong Tai Sin
+1,Yau Tsim Mong
+1,Yuen Long
+1,Bács-Kiskun
+1,Baranya
+1,Békés
+1,Békéscsaba
+1,Borsod-Abaúj-Zemplén
+1,Budapest
+1,Csongrád County
+1,Debrecen
+1,Dunaújváros
+1,Eger
+1,Érd
+1,Fejér County
+1,Győr
+1,Győr-Moson-Sopron County
+1,Hajdú-Bihar County
+1,Heves County
+1,Hódmezővásárhely
+1,Jász-Nagykun-Szolnok County
+1,Kaposvár
+1,Kecskemét
+1,Komárom-Esztergom
+1,Miskolc
+1,Nagykanizsa
+1,Nógrád County
+1,Nyíregyháza
+1,Pécs
+1,Pest County
+1,Salgótarján
+1,Somogy County
+1,Sopron
+1,Szabolcs-Szatmár-Bereg County
+1,Szeged
+1,Székesfehérvár
+1,Szekszárd
+1,Szolnok
+1,Szombathely
+1,Tatabánya
+1,Tolna County
+1,Vas County
+1,Veszprém
+1,Veszprém County
+1,Zala County
+1,Zalaegerszeg
+1,Capital Region
+1,Eastern Region
+1,Northeastern Region
+1,Northwestern Region
+1,Southern Peninsula Region
+1,Southern Region
+1,Western Region
+1,Westfjords
+1,Andaman and Nicobar Islands
+1,Andhra Pradesh
+1,Arunachal Pradesh
+1,Assam
+1,Bihar
+1,Chandigarh
+1,Chhattisgarh
+1,Dadra and Nagar Haveli and Daman and Diu
+1,Delhi
+1,Goa
+1,Gujarat
+1,Haryana
+1,Himachal Pradesh
+1,Jammu and Kashmir
+1,Jharkhand
+1,Karnataka
+1,Kerala
+1,Ladakh
+1,Lakshadweep
+1,Madhya Pradesh
+1,Maharashtra
+1,Manipur
+1,Meghalaya
+1,Mizoram
+1,Nagaland
+1,Odisha
+1,Puducherry
+1,Punjab
+1,Rajasthan
+1,Sikkim
+1,Tamil Nadu
+1,Telangana
+1,Tripura
+1,Uttar Pradesh
+1,Uttarakhand
+1,West Bengal
+1,Aceh
+1,Bali
+1,Banten
+1,Bengkulu
+1,DI Yogyakarta
+1,DKI Jakarta
+1,Gorontalo
+1,Jambi
+1,Jawa Barat
+1,Jawa Tengah
+1,Jawa Timur
+1,Kalimantan Barat
+1,Kalimantan Selatan
+1,Kalimantan Tengah
+1,Kalimantan Timur
+1,Kalimantan Utara
+1,Kepulauan Bangka Belitung
+1,Kepulauan Riau
+1,Lampung
+1,Maluku
+1,Maluku Utara
+1,Nusa Tenggara Barat
+1,Nusa Tenggara Timur
+1,Papua
+1,Papua Barat
+1,Papua Barat Daya
+1,Papua Pegunungan
+1,Papua Selatan
+1,Papua Tengah
+1,Riau
+1,Sulawesi Barat
+1,Sulawesi Selatan
+1,Sulawesi Tengah
+1,Sulawesi Tenggara
+1,Sulawesi Utara
+1,Sumatera Barat
+1,Sumatera Selatan
+1,Sumatera Utara
+1,Alborz
+1,Ardabil
+1,Bushehr
+1,Chaharmahal and Bakhtiari
+1,East Azerbaijan
+1,Fars
+1,Gilan
+1,Golestan
+1,Hamadan
+1,Hormozgan
+1,Ilam
+1,Isfahan
+1,Kerman
+1,Kermanshah
+1,Khuzestan
+1,Kohgiluyeh and Boyer-Ahmad
+1,Kurdistan
+1,Lorestan
+1,Markazi
+1,Mazandaran
+1,North Khorasan
+1,Qazvin
+1,Qom
+1,Razavi Khorasan
+1,Semnan
+1,Sistan and Baluchestan
+1,South Khorasan
+1,Tehran
+1,West Azarbaijan
+1,Yazd
+1,Zanjan
+1,Al Anbar
+1,Al Muthanna
+1,Al-Qādisiyyah
+1,Babylon
+1,Baghdad
+1,Basra
+1,Dhi Qar
+1,Diyala
+1,Dohuk
+1,Erbil
+1,Karbala
+1,Kirkuk
+1,Maysan
+1,Najaf
+1,Nineveh
+1,Saladin
+1,Sulaymaniyah
+1,Wasit
+1,Carlow
+1,Cavan
+1,Clare
+1,Connacht
+1,Cork
+1,Donegal
+1,Dublin
+1,Galway
+1,Kerry
+1,Kildare
+1,Kilkenny
+1,Laois
+1,Leinster
+1,Limerick
+1,Longford
+1,Louth
+1,Mayo
+1,Meath
+1,Monaghan
+1,Munster
+1,Offaly
+1,Roscommon
+1,Sligo
+1,Tipperary
+1,Ulster
+1,Waterford
+1,Westmeath
+1,Wexford
+1,Wicklow
+1,Central District
+1,Haifa District
+1,Jerusalem District
+1,Northern District
+1,Southern District
+1,Tel Aviv District
+1,Abruzzo
+1,Agrigento
+1,Alessandria
+1,Ancona
+1,Aosta Valley
+1,Apulia
+1,Ascoli Piceno
+1,Asti
+1,Avellino
+1,Barletta-Andria-Trani
+1,Basilicata
+1,Belluno
+1,Benevento
+1,Bergamo
+1,Biella
+1,Brescia
+1,Brindisi
+1,Calabria
+1,Caltanissetta
+1,Campania
+1,Campobasso
+1,Caserta
+1,Catanzaro
+1,Chieti
+1,Como
+1,Cosenza
+1,Cremona
+1,Crotone
+1,Cuneo
+1,Emilia-Romagna
+1,Enna
+1,Fermo
+1,Ferrara
+1,Foggia
+1,Forlì-Cesena
+1,Friuli–Venezia Giulia
+1,Frosinone
+1,Gorizia
+1,Grosseto
+1,Imperia
+1,Isernia
+1,L'Aquila
+1,La Spezia
+1,Latina
+1,Lazio
+1,Lecce
+1,Lecco
+1,Liguria
+1,Livorno
+1,Lodi
+1,Lombardy
+1,Lucca
+1,Macerata
+1,Mantua
+1,Marche
+1,Massa and Carrara
+1,Matera
+1,Medio Campidano
+1,Modena
+1,Molise
+1,Monza and Brianza
+1,Novara
+1,Nuoro
+1,Oristano
+1,Padua
+1,Palermo
+1,Parma
+1,Pavia
+1,Perugia
+1,Pesaro and Urbino
+1,Pescara
+1,Piacenza
+1,Piedmont
+1,Pisa
+1,Pistoia
+1,Pordenone
+1,Potenza
+1,Prato
+1,Ragusa
+1,Ravenna
+1,Reggio Emilia
+1,Rieti
+1,Rimini
+1,Rovigo
+1,Salerno
+1,Sardinia
+1,Sassari
+1,Savona
+1,Sicily
+1,Siena
+1,Siracusa
+1,Sondrio
+1,South Sardinia
+1,Taranto
+1,Teramo
+1,Terni
+1,Trapani
+1,Trentino-South Tyrol
+1,Treviso
+1,Trieste
+1,Tuscany
+1,Udine
+1,Umbria
+1,Varese
+1,Veneto
+1,Verbano-Cusio-Ossola
+1,Vercelli
+1,Verona
+1,Vibo Valentia
+1,Vicenza
+1,Viterbo
+1,Clarendon Parish
+1,Hanover Parish
+1,Kingston Parish
+1,Manchester Parish
+1,Portland Parish
+1,Saint Andrew
+1,Saint Ann Parish
+1,Saint Catherine Parish
+1,Saint Elizabeth Parish
+1,Saint James Parish
+1,Saint Mary Parish
+1,Saint Thomas Parish
+1,Trelawny Parish
+1,Westmoreland Parish
+1,Aichi Prefecture
+1,Akita Prefecture
+1,Aomori Prefecture
+1,Chiba Prefecture
+1,Ehime Prefecture
+1,Fukui Prefecture
+1,Fukuoka Prefecture
+1,Fukushima Prefecture
+1,Gifu Prefecture
+1,Gunma Prefecture
+1,Hiroshima Prefecture
+1,Hokkaidō Prefecture
+1,Hyōgo Prefecture
+1,Ibaraki Prefecture
+1,Ishikawa Prefecture
+1,Iwate Prefecture
+1,Kagawa Prefecture
+1,Kagoshima Prefecture
+1,Kanagawa Prefecture
+1,Kōchi Prefecture
+1,Kumamoto Prefecture
+1,Kyōto Prefecture
+1,Mie Prefecture
+1,Miyagi Prefecture
+1,Miyazaki Prefecture
+1,Nagano Prefecture
+1,Nagasaki Prefecture
+1,Nara Prefecture
+1,Niigata Prefecture
+1,Ōita Prefecture
+1,Okayama Prefecture
+1,Okinawa Prefecture
+1,Ōsaka Prefecture
+1,Saga Prefecture
+1,Saitama Prefecture
+1,Shiga Prefecture
+1,Shimane Prefecture
+1,Shizuoka Prefecture
+1,Tochigi Prefecture
+1,Tokushima Prefecture
+1,Tokyo
+1,Tottori Prefecture
+1,Toyama Prefecture
+1,Wakayama Prefecture
+1,Yamagata Prefecture
+1,Yamaguchi Prefecture
+1,Yamanashi Prefecture
+1,Ajloun
+1,Amman
+1,Aqaba
+1,Balqa
+1,Irbid
+1,Jerash
+1,Karak
+1,Ma'an
+1,Madaba
+1,Mafraq
+1,Tafilah
+1,Zarqa
+1,Akmola Region
+1,Aktobe Region
+1,Almaty
+1,Almaty Region
+1,Atyrau Region
+1,Baikonur
+1,East Kazakhstan Region
+1,Jambyl Region
+1,Karaganda Region
+1,Kostanay Region
+1,Kyzylorda Region
+1,Mangystau Region
+1,North Kazakhstan Region
+1,Nur-Sultan
+1,Pavlodar Region
+1,Turkestan Region
+1,West Kazakhstan Province
+1,Baringo
+1,Bomet
+1,Bungoma
+1,Busia
+1,Elgeyo-Marakwet
+1,Embu
+1,Garissa
+1,Homa Bay
+1,Isiolo
+1,Kajiado
+1,Kakamega
+1,Kericho
+1,Kiambu
+1,Kilifi
+1,Kirinyaga
+1,Kisii
+1,Kisumu
+1,Kitui
+1,Kwale
+1,Laikipia
+1,Lamu
+1,Machakos
+1,Makueni
+1,Mandera
+1,Marsabit
+1,Meru
+1,Migori
+1,Mombasa
+1,Murang'a
+1,Nairobi City
+1,Nakuru
+1,Nandi
+1,Narok
+1,Nyamira
+1,Nyandarua
+1,Nyeri
+1,Samburu
+1,Siaya
+1,Taita–Taveta
+1,Tana River
+1,Tharaka-Nithi
+1,Trans Nzoia
+1,Turkana
+1,Uasin Gishu
+1,Vihiga
+1,Wajir
+1,West Pokot
+1,Gilbert Islands
+1,Line Islands
+1,Phoenix Islands
+1,Đakovica District (Gjakove)
+1,Gjilan District
+1,Kosovska Mitrovica District
+1,Peć District
+1,Pristina (Priştine)
+1,Prizren District
+1,Uroševac District (Ferizaj)
+1,Al Ahmadi
+1,Al Farwaniyah
+1,Al Jahra
+1,Capital
+1,Hawalli
+1,Mubarak Al-Kabeer
+1,Batken Region
+1,Bishkek
+1,Chuy Region
+1,Issyk-Kul Region
+1,Jalal-Abad Region
+1,Naryn Region
+1,Osh
+1,Osh Region
+1,Talas Region
+1,Attapeu Province
+1,Bokeo Province
+1,Bolikhamsai Province
+1,Champasak Province
+1,Houaphanh Province
+1,Khammouane Province
+1,Luang Namtha Province
+1,Luang Prabang Province
+1,Oudomxay Province
+1,Phongsaly Province
+1,Sainyabuli Province
+1,Salavan Province
+1,Savannakhet Province
+1,Sekong Province
+1,Vientiane Prefecture
+1,Vientiane Province
+1,Xaisomboun
+1,Xaisomboun Province
+1,Xiangkhouang Province
+1,Aglona Municipality
+1,Aizkraukle Municipality
+1,Aizpute Municipality
+1,Aknīste Municipality
+1,Aloja Municipality
+1,Alsunga Municipality
+1,Alūksne Municipality
+1,Amata Municipality
+1,Ape Municipality
+1,Auce Municipality
+1,Babīte Municipality
+1,Baldone Municipality
+1,Baltinava Municipality
+1,Balvi Municipality
+1,Bauska Municipality
+1,Beverīna Municipality
+1,Brocēni Municipality
+1,Burtnieki Municipality
+1,Carnikava Municipality
+1,Cēsis Municipality
+1,Cesvaine Municipality
+1,Cibla Municipality
+1,Dagda Municipality
+1,Daugavpils
+1,Daugavpils Municipality
+1,Dobele Municipality
+1,Dundaga Municipality
+1,Durbe Municipality
+1,Engure Municipality
+1,Ērgļi Municipality
+1,Garkalne Municipality
+1,Grobiņa Municipality
+1,Gulbene Municipality
+1,Iecava Municipality
+1,Ikšķile Municipality
+1,Ilūkste Municipality
+1,Inčukalns Municipality
+1,Jaunjelgava Municipality
+1,Jaunpiebalga Municipality
+1,Jaunpils Municipality
+1,Jēkabpils
+1,Jēkabpils Municipality
+1,Jelgava
+1,Jelgava Municipality
+1,Jūrmala
+1,Kandava Municipality
+1,Kārsava Municipality
+1,Ķegums Municipality
+1,Ķekava Municipality
+1,Kocēni Municipality
+1,Koknese Municipality
+1,Krāslava Municipality
+1,Krimulda Municipality
+1,Krustpils Municipality
+1,Kuldīga Municipality
+1,Lielvārde Municipality
+1,Liepāja
+1,Līgatne Municipality
+1,Limbaži Municipality
+1,Līvāni Municipality
+1,Lubāna Municipality
+1,Ludza Municipality
+1,Madona Municipality
+1,Mālpils Municipality
+1,Mārupe Municipality
+1,Mazsalaca Municipality
+1,Mērsrags Municipality
+1,Naukšēni Municipality
+1,Nereta Municipality
+1,Nīca Municipality
+1,Ogre Municipality
+1,Olaine Municipality
+1,Ozolnieki Municipality
+1,Pārgauja Municipality
+1,Pāvilosta Municipality
+1,Pļaviņas Municipality
+1,Preiļi Municipality
+1,Priekule Municipality
+1,Priekuļi Municipality
+1,Rauna Municipality
+1,Rēzekne
+1,Rēzekne Municipality
+1,Riebiņi Municipality
+1,Riga
+1,Roja Municipality
+1,Ropaži Municipality
+1,Rucava Municipality
+1,Rugāji Municipality
+1,Rūjiena Municipality
+1,Rundāle Municipality
+1,Sala Municipality
+1,Salacgrīva Municipality
+1,Salaspils Municipality
+1,Saldus Municipality
+1,Saulkrasti Municipality
+1,Sēja Municipality
+1,Sigulda Municipality
+1,Skrīveri Municipality
+1,Skrunda Municipality
+1,Smiltene Municipality
+1,Stopiņi Municipality
+1,Strenči Municipality
+1,Talsi Municipality
+1,Tērvete Municipality
+1,Tukums Municipality
+1,Vaiņode Municipality
+1,Valka Municipality
+1,Valmiera
+1,Varakļāni Municipality
+1,Vārkava Municipality
+1,Vecpiebalga Municipality
+1,Vecumnieki Municipality
+1,Ventspils
+1,Ventspils Municipality
+1,Viesīte Municipality
+1,Viļaka Municipality
+1,Viļāni Municipality
+1,Zilupe Municipality
+1,Akkar
+1,Baalbek-Hermel
+1,Beirut
+1,Beqaa
+1,Mount Lebanon
+1,Nabatieh
+1,North
+1,South
+1,Berea District
+1,Butha-Buthe District
+1,Leribe District
+1,Mafeteng District
+1,Maseru District
+1,Mohale's Hoek District
+1,Mokhotlong District
+1,Qacha's Nek District
+1,Quthing District
+1,Thaba-Tseka District
+1,Bomi County
+1,Bong County
+1,Gbarpolu County
+1,Grand Bassa County
+1,Grand Cape Mount County
+1,Grand Gedeh County
+1,Grand Kru County
+1,Lofa County
+1,Margibi County
+1,Maryland County
+1,Montserrado County
+1,Nimba
+1,River Cess County
+1,River Gee County
+1,Sinoe County
+1,Al Wahat District
+1,Benghazi
+1,Derna District
+1,Ghat District
+1,Jabal al Akhdar
+1,Jabal al Gharbi District
+1,Jafara
+1,Jufra
+1,Kufra District
+1,Marj District
+1,Misrata District
+1,Murqub
+1,Murzuq District
+1,Nalut District
+1,Nuqat al Khams
+1,Sabha District
+1,Sirte District
+1,Tripoli District
+1,Wadi al Hayaa District
+1,Wadi al Shatii District
+1,Zawiya District
+1,Balzers
+1,Eschen
+1,Gamprin
+1,Mauren
+1,Planken
+1,Ruggell
+1,Schaan
+1,Schellenberg
+1,Triesen
+1,Triesenberg
+1,Vaduz
+1,Akmenė District Municipality
+1,Alytus City Municipality
+1,Alytus County
+1,Alytus District Municipality
+1,Birštonas Municipality
+1,Biržai District Municipality
+1,Druskininkai municipality
+1,Elektrėnai municipality
+1,Ignalina District Municipality
+1,Jonava District Municipality
+1,Joniškis District Municipality
+1,Jurbarkas District Municipality
+1,Kaišiadorys District Municipality
+1,Kalvarija municipality
+1,Kaunas City Municipality
+1,Kaunas County
+1,Kaunas District Municipality
+1,Kazlų Rūda municipality
+1,Kėdainiai District Municipality
+1,Kelmė District Municipality
+1,Klaipeda City Municipality
+1,Klaipėda County
+1,Klaipėda District Municipality
+1,Kretinga District Municipality
+1,Kupiškis District Municipality
+1,Lazdijai District Municipality
+1,Marijampolė County
+1,Marijampolė Municipality
+1,Mažeikiai District Municipality
+1,Molėtai District Municipality
+1,Neringa Municipality
+1,Pagėgiai municipality
+1,Pakruojis District Municipality
+1,Palanga City Municipality
+1,Panevėžys City Municipality
+1,Panevėžys County
+1,Panevėžys District Municipality
+1,Pasvalys District Municipality
+1,Plungė District Municipality
+1,Prienai District Municipality
+1,Radviliškis District Municipality
+1,Raseiniai District Municipality
+1,Rietavas municipality
+1,Rokiškis District Municipality
+1,Šakiai District Municipality
+1,Šalčininkai District Municipality
+1,Šiauliai City Municipality
+1,Šiauliai County
+1,Šiauliai District Municipality
+1,Šilalė District Municipality
+1,Šilutė District Municipality
+1,Širvintos District Municipality
+1,Skuodas District Municipality
+1,Švenčionys District Municipality
+1,Tauragė County
+1,Tauragė District Municipality
+1,Telšiai County
+1,Telšiai District Municipality
+1,Trakai District Municipality
+1,Ukmergė District Municipality
+1,Utena County
+1,Utena District Municipality
+1,Varėna District Municipality
+1,Vilkaviškis District Municipality
+1,Vilnius City Municipality
+1,Vilnius County
+1,Vilnius District Municipality
+1,Visaginas Municipality
+1,Zarasai District Municipality
+1,Canton of Capellen
+1,Canton of Clervaux
+1,Canton of Diekirch
+1,Canton of Echternach
+1,Canton of Esch-sur-Alzette
+1,Canton of Grevenmacher
+1,Canton of Luxembourg
+1,Canton of Mersch
+1,Canton of Redange
+1,Canton of Remich
+1,Canton of Vianden
+1,Canton of Wiltz
+1,Diekirch District
+1,Grevenmacher District
+1,Luxembourg District
+1,Antananarivo Province
+1,Antsiranana Province
+1,Fianarantsoa Province
+1,Mahajanga Province
+1,Toamasina Province
+1,Toliara Province
+1,Balaka District
+1,Blantyre District
+1,Central Region
+1,Chikwawa District
+1,Chiradzulu District
+1,Chitipa district
+1,Dedza District
+1,Dowa District
+1,Karonga District
+1,Kasungu District
+1,Likoma District
+1,Lilongwe District
+1,Machinga District
+1,Mangochi District
+1,Mchinji District
+1,Mulanje District
+1,Mwanza District
+1,Mzimba District
+1,Nkhata Bay District
+1,Nkhotakota District
+1,Northern Region
+1,Nsanje District
+1,Ntcheu District
+1,Ntchisi District
+1,Phalombe District
+1,Rumphi District
+1,Salima District
+1,Southern Region
+1,Thyolo District
+1,Zomba District
+1,Johor
+1,Kedah
+1,Kelantan
+1,Kuala Lumpur
+1,Labuan
+1,Malacca
+1,Negeri Sembilan
+1,Pahang
+1,Penang
+1,Perak
+1,Perlis
+1,Putrajaya
+1,Sabah
+1,Sarawak
+1,Selangor
+1,Terengganu
+1,Addu Atoll
+1,Alif Alif Atoll
+1,Alif Dhaal Atoll
+1,Central Province
+1,Dhaalu Atoll
+1,Faafu Atoll
+1,Gaafu Alif Atoll
+1,Gaafu Dhaalu Atoll
+1,Gnaviyani Atoll
+1,Haa Alif Atoll
+1,Haa Dhaalu Atoll
+1,Kaafu Atoll
+1,Laamu Atoll
+1,Lhaviyani Atoll
+1,Malé
+1,Meemu Atoll
+1,Noonu Atoll
+1,North Central Province
+1,North Province
+1,Raa Atoll
+1,Shaviyani Atoll
+1,South Central Province
+1,South Province
+1,Thaa Atoll
+1,Upper South Province
+1,Vaavu Atoll
+1,Bamako
+1,Gao Region
+1,Kayes Region
+1,Kidal Region
+1,Koulikoro Region
+1,Ménaka Region
+1,Mopti Region
+1,Ségou Region
+1,Sikasso Region
+1,Taoudénit Region
+1,Tombouctou Region
+1,Attard
+1,Balzan
+1,Birgu
+1,Birkirkara
+1,Birżebbuġa
+1,Cospicua
+1,Dingli
+1,Fgura
+1,Floriana
+1,Fontana
+1,Għajnsielem
+1,Għarb
+1,Għargħur
+1,Għasri
+1,Għaxaq
+1,Gudja
+1,Gżira
+1,Ħamrun
+1,Iklin
+1,Kalkara
+1,Kerċem
+1,Kirkop
+1,Lija
+1,Luqa
+1,Marsa
+1,Marsaskala
+1,Marsaxlokk
+1,Mdina
+1,Mellieħa
+1,Mġarr
+1,Mosta
+1,Mqabba
+1,Msida
+1,Mtarfa
+1,Munxar
+1,Nadur
+1,Naxxar
+1,Paola
+1,Pembroke
+1,Pietà
+1,Qala
+1,Qormi
+1,Qrendi
+1,Rabat
+1,San Ġwann
+1,San Lawrenz
+1,Sannat
+1,Santa Luċija
+1,Santa Venera
+1,Senglea
+1,Siġġiewi
+1,Sliema
+1,St. Julian's
+1,St. Paul's Bay
+1,Swieqi
+1,Ta' Xbiex
+1,Tarxien
+1,Valletta
+1,Victoria
+1,Xagħra
+1,Xewkija
+1,Xgħajra
+1,Żabbar
+1,Żebbuġ Gozo
+1,Żebbuġ Malta
+1,Żejtun
+1,Żurrieq
+1,Ralik Chain
+1,Ratak Chain
+1,Adrar
+1,Assaba
+1,Brakna
+1,Dakhlet Nouadhibou
+1,Gorgol
+1,Guidimaka
+1,Hodh Ech Chargui
+1,Hodh El Gharbi
+1,Inchiri
+1,Nouakchott-Nord
+1,Nouakchott-Ouest
+1,Nouakchott-Sud
+1,Tagant
+1,Tiris Zemmour
+1,Trarza
+1,Agalega Islands
+1,Black River
+1,Flacq
+1,Grand Port
+1,Moka
+1,Pamplemousses
+1,Plaines Wilhems
+1,Port Louis
+1,Rivière du Rempart
+1,Rodrigues Island
+1,Saint Brandon Islands
+1,Savanne
+1,Aguascalientes
+1,Baja California
+1,Baja California Sur
+1,Campeche
+1,Chiapas
+1,Chihuahua
+1,Ciudad de México
+1,Coahuila de Zaragoza
+1,Colima
+1,Durango
+1,Estado de México
+1,Guanajuato
+1,Guerrero
+1,Hidalgo
+1,Jalisco
+1,Michoacán de Ocampo
+1,Morelos
+1,Nayarit
+1,Nuevo León
+1,Oaxaca
+1,Puebla
+1,Querétaro
+1,Quintana Roo
+1,San Luis Potosí
+1,Sinaloa
+1,Sonora
+1,Tabasco
+1,Tamaulipas
+1,Tlaxcala
+1,Veracruz de Ignacio de la Llave
+1,Yucatán
+1,Zacatecas
+1,Chuuk State
+1,Kosrae State
+1,Pohnpei State
+1,Yap State
+1,Anenii Noi District
+1,Bălți Municipality
+1,Basarabeasca District
+1,Bender Municipality
+1,Briceni District
+1,Cahul District
+1,Călărași District
+1,Cantemir District
+1,Căușeni District
+1,Chișinău Municipality
+1,Cimișlia District
+1,Criuleni District
+1,Dondușeni District
+1,Drochia District
+1,Dubăsari District
+1,Edineț District
+1,Fălești District
+1,Florești District
+1,Gagauzia
+1,Glodeni District
+1,Hîncești District
+1,Ialoveni District
+1,Nisporeni District
+1,Ocnița District
+1,Orhei District
+1,Rezina District
+1,Rîșcani District
+1,Sîngerei District
+1,Șoldănești District
+1,Soroca District
+1,Ștefan Vodă District
+1,Strășeni District
+1,Taraclia District
+1,Telenești District
+1,Transnistria autonomous territorial unit
+1,Ungheni District
+1,La Colle
+1,La Condamine
+1,Moneghetti
+1,Arkhangai Province
+1,Bayan-Ölgii Province
+1,Bayankhongor Province
+1,Bulgan Province
+1,Darkhan-Uul Province
+1,Dornod Province
+1,Dornogovi Province
+1,Dundgovi Province
+1,Govi-Altai Province
+1,Govisümber Province
+1,Khentii Province
+1,Khovd Province
+1,Khövsgöl Province
+1,Ömnögovi Province
+1,Orkhon Province
+1,Övörkhangai Province
+1,Selenge Province
+1,Sükhbaatar Province
+1,Töv Province
+1,Uvs Province
+1,Zavkhan Province
+1,Andrijevica Municipality
+1,Bar Municipality
+1,Berane Municipality
+1,Bijelo Polje Municipality
+1,Budva Municipality
+1,Danilovgrad Municipality
+1,Gusinje Municipality
+1,Kolašin Municipality
+1,Kotor Municipality
+1,Mojkovac Municipality
+1,Nikšić Municipality
+1,Old Royal Capital Cetinje
+1,Petnjica Municipality
+1,Plav Municipality
+1,Pljevlja Municipality
+1,Plužine Municipality
+1,Podgorica Municipality
+1,Rožaje Municipality
+1,Šavnik Municipality
+1,Tivat Municipality
+1,Ulcinj Municipality
+1,Žabljak Municipality
+1,Agadir-Ida-Ou-Tanane
+1,Al Haouz
+1,Al Hoceïma
+1,Aousserd (EH)
+1,Assa-Zag (EH-partial)
+1,Azilal
+1,Béni Mellal
+1,Béni Mellal-Khénifra
+1,Benslimane
+1,Berkane
+1,Berrechid
+1,Boujdour (EH)
+1,Boulemane
+1,Casablanca
+1,Casablanca-Settat
+1,Chefchaouen
+1,Chichaoua
+1,Chtouka-Ait Baha
+1,Dakhla-Oued Ed-Dahab (EH)
+1,Drâa-Tafilalet
+1,Driouch
+1,El Hajeb
+1,El Jadida
+1,El Kelâa des Sraghna
+1,Errachidia
+1,Es-Semara (EH-partial)
+1,Essaouira
+1,Fahs-Anjra
+1,Fès
+1,Fès-Meknès
+1,Figuig
+1,Fquih Ben Salah
+1,Guelmim
+1,Guelmim-Oued Noun (EH-partial)
+1,Guercif
+1,Ifrane
+1,Inezgane-Ait Melloul
+1,Jerada
+1,Kénitra
+1,Khémisset
+1,Khénifra
+1,Khouribga
+1,L'Oriental
+1,Laâyoune (EH)
+1,Laâyoune-Sakia El Hamra (EH-partial)
+1,Larache
+1,M’diq-Fnideq
+1,Marrakech
+1,Marrakesh-Safi
+1,Médiouna
+1,Meknès
+1,Midelt
+1,Mohammadia
+1,Moulay Yacoub
+1,Nador
+1,Nouaceur
+1,Ouarzazate
+1,Oued Ed-Dahab (EH)
+1,Ouezzane
+1,Oujda-Angad
+1,Rabat
+1,Rabat-Salé-Kénitra
+1,Rehamna
+1,Safi
+1,Salé
+1,Sefrou
+1,Settat
+1,Sidi Bennour
+1,Sidi Ifni
+1,Sidi Kacem
+1,Sidi Slimane
+1,Skhirate-Témara
+1,Souss-Massa
+1,Tan-Tan (EH-partial)
+1,Tanger-Assilah
+1,Tanger-Tétouan-Al Hoceïma
+1,Taounate
+1,Taourirt
+1,Tarfaya (EH-partial)
+1,Taroudannt
+1,Tata
+1,Taza
+1,Tétouan
+1,Tinghir
+1,Tiznit
+1,Youssoufia
+1,Zagora
+1,Cabo Delgado Province
+1,Gaza Province
+1,Inhambane Province
+1,Manica Province
+1,Maputo
+1,Maputo Province
+1,Nampula Province
+1,Niassa Province
+1,Sofala Province
+1,Tete Province
+1,Zambezia Province
+1,Ayeyarwady Region
+1,Bago
+1,Chin State
+1,Kachin State
+1,Kayah State
+1,Kayin State
+1,Magway Region
+1,Mandalay Region
+1,Mon State
+1,Naypyidaw Union Territory
+1,Rakhine State
+1,Sagaing Region
+1,Shan State
+1,Tanintharyi Region
+1,Yangon Region
+1,Erongo Region
+1,Hardap Region
+1,Karas Region
+1,Kavango East Region
+1,Kavango West Region
+1,Khomas Region
+1,Kunene Region
+1,Ohangwena Region
+1,Omaheke Region
+1,Omusati Region
+1,Oshana Region
+1,Oshikoto Region
+1,Otjozondjupa Region
+1,Zambezi Region
+1,Aiwo District
+1,Anabar District
+1,Anetan District
+1,Anibare District
+1,Baiti District
+1,Boe District
+1,Buada District
+1,Denigomodu District
+1,Ewa District
+1,Ijuw District
+1,Meneng District
+1,Nibok District
+1,Uaboe District
+1,Yaren District
+1,Bagmati
+1,Gandaki
+1,Karnali
+1,Koshi
+1,Lumbini
+1,Madhesh
+1,Sudurpashchim
+1,Bonaire
+1,Drenthe
+1,Flevoland
+1,Friesland
+1,Gelderland
+1,Groningen
+1,Limburg
+1,North Brabant
+1,North Holland
+1,Overijssel
+1,Saba
+1,Sint Eustatius
+1,South Holland
+1,Utrecht
+1,Zeeland
+1,Loyalty Islands Province
+1,North Province
+1,South Province
+1,Auckland Region
+1,Bay of Plenty Region
+1,Canterbury Region
+1,Chatham Islands
+1,Gisborne District
+1,Hawke's Bay Region
+1,Manawatu-Wanganui Region
+1,Marlborough Region
+1,Nelson Region
+1,Northland Region
+1,Otago Region
+1,Southland Region
+1,Taranaki Region
+1,Tasman District
+1,Waikato Region
+1,Wellington Region
+1,West Coast Region
+1,Boaco
+1,Carazo
+1,Chinandega
+1,Chontales
+1,Estelí
+1,Granada
+1,Jinotega
+1,León
+1,Madriz
+1,Managua
+1,Masaya
+1,Matagalpa
+1,North Caribbean Coast
+1,Nueva Segovia
+1,Río San Juan
+1,Rivas
+1,South Caribbean Coast
+1,Agadez Region
+1,Diffa Region
+1,Dosso Region
+1,Maradi Region
+1,Tahoua Region
+1,Tillabéri Region
+1,Zinder Region
+1,Abia
+1,Abuja Federal Capital Territory
+1,Adamawa
+1,Akwa Ibom
+1,Anambra
+1,Bauchi
+1,Bayelsa
+1,Benue
+1,Borno
+1,Cross River
+1,Delta
+1,Ebonyi
+1,Edo
+1,Ekiti
+1,Enugu
+1,Gombe
+1,Imo
+1,Jigawa
+1,Kaduna
+1,Kano
+1,Katsina
+1,Kebbi
+1,Kogi
+1,Kwara
+1,Lagos
+1,Nasarawa
+1,Niger
+1,Ogun
+1,Ondo
+1,Osun
+1,Oyo
+1,Plateau
+1,Rivers
+1,Sokoto
+1,Taraba
+1,Yobe
+1,Zamfara
+1,Chagang Province
+1,Kangwon Province
+1,North Hamgyong Province
+1,North Hwanghae Province
+1,North Pyongan Province
+1,Pyongyang
+1,Rason
+1,Ryanggang Province
+1,South Hamgyong Province
+1,South Hwanghae Province
+1,South Pyongan Province
+1,Aerodrom Municipality
+1,Aračinovo Municipality
+1,Berovo Municipality
+1,Bitola Municipality
+1,Bogdanci Municipality
+1,Bogovinje Municipality
+1,Bosilovo Municipality
+1,Brvenica Municipality
+1,Butel Municipality
+1,Čair Municipality
+1,Čaška Municipality
+1,Centar Municipality
+1,Centar Župa Municipality
+1,Češinovo-Obleševo Municipality
+1,Čučer-Sandevo Municipality
+1,Debarca Municipality
+1,Delčevo Municipality
+1,Demir Hisar Municipality
+1,Demir Kapija Municipality
+1,Dojran Municipality
+1,Dolneni Municipality
+1,Drugovo Municipality
+1,Gazi Baba Municipality
+1,Gevgelija Municipality
+1,Gjorče Petrov Municipality
+1,Gostivar Municipality
+1,Gradsko Municipality
+1,Greater Skopje
+1,Ilinden Municipality
+1,Jegunovce Municipality
+1,Karbinci
+1,Karpoš Municipality
+1,Kavadarci Municipality
+1,Kičevo Municipality
+1,Kisela Voda Municipality
+1,Kočani Municipality
+1,Konče Municipality
+1,Kratovo Municipality
+1,Kriva Palanka Municipality
+1,Krivogaštani Municipality
+1,Kruševo Municipality
+1,Kumanovo Municipality
+1,Lipkovo Municipality
+1,Lozovo Municipality
+1,Makedonska Kamenica Municipality
+1,Makedonski Brod Municipality
+1,Mavrovo and Rostuša Municipality
+1,Mogila Municipality
+1,Negotino Municipality
+1,Novaci Municipality
+1,Novo Selo Municipality
+1,Ohrid Municipality
+1,Oslomej Municipality
+1,Pehčevo Municipality
+1,Petrovec Municipality
+1,Plasnica Municipality
+1,Prilep Municipality
+1,Probištip Municipality
+1,Radoviš Municipality
+1,Rankovce Municipality
+1,Resen Municipality
+1,Rosoman Municipality
+1,Saraj Municipality
+1,Sopište Municipality
+1,Staro Nagoričane Municipality
+1,Štip Municipality
+1,Struga Municipality
+1,Strumica Municipality
+1,Studeničani Municipality
+1,Šuto Orizari Municipality
+1,Sveti Nikole Municipality
+1,Tearce Municipality
+1,Tetovo Municipality
+1,Valandovo Municipality
+1,Vasilevo Municipality
+1,Veles Municipality
+1,Vevčani Municipality
+1,Vinica Municipality
+1,Vraneštica Municipality
+1,Vrapčište Municipality
+1,Zajas Municipality
+1,Zelenikovo Municipality
+1,Želino Municipality
+1,Zrnovci Municipality
+1,Agder
+1,Innlandet
+1,Jan Mayen
+1,Møre og Romsdal
+1,Nordland
+1,Oslo
+1,Rogaland
+1,Svalbard
+1,Troms og Finnmark
+1,Trøndelag
+1,Vestfold og Telemark
+1,Vestland
+1,Viken
+1,Ad Dakhiliyah
+1,Ad Dhahirah
+1,Al Batinah North
+1,Al Batinah Region
+1,Al Batinah South
+1,Al Buraimi
+1,Al Wusta
+1,Ash Sharqiyah North
+1,Ash Sharqiyah Region
+1,Ash Sharqiyah South
+1,Dhofar
+1,Musandam
+1,Muscat
+1,Azad Kashmir
+1,Balochistan
+1,Federally Administered Tribal Areas
+1,Gilgit-Baltistan
+1,Islamabad Capital Territory
+1,Khyber Pakhtunkhwa
+1,Punjab
+1,Sindh
+1,Aimeliik
+1,Airai
+1,Angaur
+1,Hatohobei
+1,Kayangel
+1,Koror
+1,Melekeok
+1,Ngaraard
+1,Ngarchelong
+1,Ngardmau
+1,Ngatpang
+1,Ngchesar
+1,Ngeremlengui
+1,Ngiwal
+1,Peleliu
+1,Sonsorol
+1,Bethlehem
+1,Deir El Balah
+1,Gaza
+1,Hebron
+1,Jenin
+1,Jericho and Al Aghwar
+1,Jerusalem
+1,Khan Yunis
+1,Nablus
+1,North Gaza
+1,Qalqilya
+1,Rafah
+1,Ramallah
+1,Salfit
+1,Tubas
+1,Tulkarm
+1,Bocas del Toro Province
+1,Chiriquí Province
+1,Coclé Province
+1,Colón Province
+1,Darién Province
+1,Emberá-Wounaan Comarca
+1,Guna Yala
+1,Herrera Province
+1,Los Santos Province
+1,Ngöbe-Buglé Comarca
+1,Panamá Oeste Province
+1,Panamá Province
+1,Veraguas Province
+1,Bougainville
+1,Central Province
+1,Chimbu Province
+1,East New Britain
+1,East Sepik
+1,Eastern Highlands Province
+1,Enga Province
+1,Gulf
+1,Hela
+1,Jiwaka Province
+1,Madang Province
+1,Manus Province
+1,Milne Bay Province
+1,Morobe Province
+1,New Ireland Province
+1,Oro Province
+1,Port Moresby
+1,Sandaun Province
+1,Southern Highlands Province
+1,West New Britain Province
+1,Western Highlands Province
+1,Western Province
+1,Alto Paraguay Department
+1,Alto Paraná Department
+1,Amambay Department
+1,Asuncion
+1,Boquerón Department
+1,Caaguazú
+1,Caazapá
+1,Canindeyú
+1,Central Department
+1,Concepción Department
+1,Cordillera Department
+1,Guairá Department
+1,Itapúa
+1,Misiones Department
+1,Ñeembucú Department
+1,Paraguarí Department
+1,Presidente Hayes Department
+1,San Pedro Department
+1,Amazonas
+1,Áncash
+1,Apurímac
+1,Arequipa
+1,Ayacucho
+1,Cajamarca
+1,Callao
+1,Cusco
+1,Huancavelica
+1,Huanuco
+1,Ica
+1,Junín
+1,La Libertad
+1,Lambayeque
+1,Lima
+1,Loreto
+1,Madre de Dios
+1,Moquegua
+1,Pasco
+1,Piura
+1,Puno
+1,San Martín
+1,Tacna
+1,Tumbes
+1,Ucayali
+1,Abra
+1,Agusan del Norte
+1,Agusan del Sur
+1,Aklan
+1,Albay
+1,Antique
+1,Apayao
+1,Aurora
+1,Autonomous Region in Muslim Mindanao
+1,Basilan
+1,Bataan
+1,Batanes
+1,Batangas
+1,Benguet
+1,Bicol
+1,Biliran
+1,Bohol
+1,Bukidnon
+1,Bulacan
+1,Cagayan
+1,Cagayan Valley
+1,Calabarzon
+1,Camarines Norte
+1,Camarines Sur
+1,Camiguin
+1,Capiz
+1,Caraga
+1,Catanduanes
+1,Cavite
+1,Cebu
+1,Central Luzon
+1,Central Visayas
+1,Compostela Valley
+1,Cordillera Administrative
+1,Cotabato
+1,Davao
+1,Davao del Norte
+1,Davao del Sur
+1,Davao Occidental
+1,Davao Oriental
+1,Dinagat Islands
+1,Eastern Samar
+1,Eastern Visayas
+1,Guimaras
+1,Ifugao
+1,Ilocos
+1,Ilocos Norte
+1,Ilocos Sur
+1,Iloilo
+1,Isabela
+1,Kalinga
+1,La Union
+1,Laguna
+1,Lanao del Norte
+1,Lanao del Sur
+1,Leyte
+1,Maguindanao
+1,Marinduque
+1,Masbate
+1,Metro Manila
+1,Mimaropa
+1,Misamis Occidental
+1,Misamis Oriental
+1,Mountain Province
+1,Negros Occidental
+1,Negros Oriental
+1,Northern Mindanao
+1,Northern Samar
+1,Nueva Ecija
+1,Nueva Vizcaya
+1,Occidental Mindoro
+1,Oriental Mindoro
+1,Palawan
+1,Pampanga
+1,Pangasinan
+1,Quezon
+1,Quirino
+1,Rizal
+1,Romblon
+1,Sarangani
+1,Siquijor
+1,Soccsksargen
+1,Sorsogon
+1,South Cotabato
+1,Southern Leyte
+1,Sultan Kudarat
+1,Sulu
+1,Surigao del Norte
+1,Surigao del Sur
+1,Tarlac
+1,Tawi-Tawi
+1,Western Samar
+1,Western Visayas
+1,Zambales
+1,Zamboanga del Norte
+1,Zamboanga del Sur
+1,Zamboanga Peninsula
+1,Zamboanga Sibugay
+1,Greater Poland
+1,Holy Cross
+1,Kuyavia-Pomerania
+1,Lesser Poland
+1,Lower Silesia
+1,Lublin
+1,Lubusz
+1,Łódź
+1,Mazovia
+1,Podlaskie
+1,Pomerania
+1,Silesia
+1,Subcarpathia
+1,Upper Silesia
+1,Warmia-Masuria
+1,West Pomerania
+1,Açores
+1,Aveiro
+1,Beja
+1,Braga
+1,Bragança
+1,Castelo Branco
+1,Coimbra
+1,Évora
+1,Faro
+1,Guarda
+1,Leiria
+1,Lisbon
+1,Madeira
+1,Portalegre
+1,Porto
+1,Santarém
+1,Setúbal
+1,Viana do Castelo
+1,Vila Real
+1,Viseu
+1,Adjuntas
+1,Aguada
+1,Aguadilla
+1,Aguas Buenas
+1,Aibonito
+1,Añasco
+1,Arecibo
+1,Arecibo
+1,Arroyo
+1,Barceloneta
+1,Barranquitas
+1,Bayamon
+1,Bayamón
+1,Cabo Rojo
+1,Caguas
+1,Caguas
+1,Camuy
+1,Canóvanas
+1,Carolina
+1,Carolina
+1,Cataño
+1,Cayey
+1,Ceiba
+1,Ciales
+1,Cidra
+1,Coamo
+1,Comerío
+1,Corozal
+1,Culebra
+1,Dorado
+1,Fajardo
+1,Florida
+1,Guánica
+1,Guayama
+1,Guayanilla
+1,Guaynabo
+1,Guaynabo
+1,Gurabo
+1,Hatillo
+1,Hormigueros
+1,Humacao
+1,Isabela
+1,Jayuya
+1,Juana Díaz
+1,Juncos
+1,Lajas
+1,Lares
+1,Las Marías
+1,Las Piedras
+1,Loíza
+1,Luquillo
+1,Manatí
+1,Maricao
+1,Maunabo
+1,Mayagüez
+1,Mayagüez
+1,Moca
+1,Morovis
+1,Naguabo
+1,Naranjito
+1,Orocovis
+1,Patillas
+1,Peñuelas
+1,Ponce
+1,Ponce
+1,Quebradillas
+1,Rincón
+1,Río Grande
+1,Sabana Grande
+1,Salinas
+1,San Germán
+1,San Juan
+1,San Juan
+1,San Lorenzo
+1,San Sebastián
+1,Santa Isabel
+1,Toa Alta
+1,Toa Baja
+1,Toa Baja
+1,Trujillo Alto
+1,Trujillo Alto
+1,Utuado
+1,Vega Alta
+1,Vega Baja
+1,Vieques
+1,Villalba
+1,Yabucoa
+1,Yauco
+1,Al Daayen
+1,Al Khor
+1,Al Rayyan Municipality
+1,Al Wakrah
+1,Al-Shahaniya
+1,Doha
+1,Madinat ash Shamal
+1,Umm Salal Municipality
+1,Alba
+1,Arad County
+1,Arges
+1,Bacău County
+1,Bihor County
+1,Bistrița-Năsăud County
+1,Botoșani County
+1,Braila
+1,Brașov County
+1,Bucharest
+1,Buzău County
+1,Călărași County
+1,Caraș-Severin County
+1,Cluj County
+1,Constanța County
+1,Covasna County
+1,Dâmbovița County
+1,Dolj County
+1,Galați County
+1,Giurgiu County
+1,Gorj County
+1,Harghita County
+1,Hunedoara County
+1,Ialomița County
+1,Iași County
+1,Ilfov County
+1,Maramureș County
+1,Mehedinți County
+1,Mureș County
+1,Neamț County
+1,Olt County
+1,Prahova County
+1,Sălaj County
+1,Satu Mare County
+1,Sibiu County
+1,Suceava County
+1,Teleorman County
+1,Timiș County
+1,Tulcea County
+1,Vâlcea County
+1,Vaslui County
+1,Vrancea County
+1,Altai Krai
+1,Altai Republic
+1,Amur Oblast
+1,Arkhangelsk
+1,Astrakhan Oblast
+1,Belgorod Oblast
+1,Bryansk Oblast
+1,Chechen Republic
+1,Chelyabinsk Oblast
+1,Chukotka Autonomous Okrug
+1,Chuvash Republic
+1,Irkutsk
+1,Ivanovo Oblast
+1,Jewish Autonomous Oblast
+1,Kabardino-Balkar Republic
+1,Kaliningrad
+1,Kaluga Oblast
+1,Kamchatka Krai
+1,Karachay-Cherkess Republic
+1,Kemerovo Oblast
+1,Khabarovsk Krai
+1,Khanty-Mansi Autonomous Okrug
+1,Kirov Oblast
+1,Komi Republic
+1,Kostroma Oblast
+1,Krasnodar Krai
+1,Krasnoyarsk Krai
+1,Kurgan Oblast
+1,Kursk Oblast
+1,Leningrad Oblast
+1,Lipetsk Oblast
+1,Magadan Oblast
+1,Mari El Republic
+1,Moscow
+1,Moscow Oblast
+1,Murmansk Oblast
+1,Nenets Autonomous Okrug
+1,Nizhny Novgorod Oblast
+1,Novgorod Oblast
+1,Novosibirsk
+1,Omsk Oblast
+1,Orenburg Oblast
+1,Oryol Oblast
+1,Penza Oblast
+1,Perm Krai
+1,Primorsky Krai
+1,Pskov Oblast
+1,Republic of Adygea
+1,Republic of Bashkortostan
+1,Republic of Buryatia
+1,Republic of Dagestan
+1,Republic of Ingushetia
+1,Republic of Kalmykia
+1,Republic of Karelia
+1,Republic of Khakassia
+1,Republic of Mordovia
+1,Republic of North Ossetia-Alania
+1,Republic of Tatarstan
+1,Rostov Oblast
+1,Ryazan Oblast
+1,Saint Petersburg
+1,Sakha Republic
+1,Sakhalin
+1,Samara Oblast
+1,Saratov Oblast
+1,Smolensk Oblast
+1,Stavropol Krai
+1,Sverdlovsk
+1,Tambov Oblast
+1,Tomsk Oblast
+1,Tula Oblast
+1,Tuva Republic
+1,Tver Oblast
+1,Tyumen Oblast
+1,Udmurt Republic
+1,Ulyanovsk Oblast
+1,Vladimir Oblast
+1,Volgograd Oblast
+1,Vologda Oblast
+1,Voronezh Oblast
+1,Yamalo-Nenets Autonomous Okrug
+1,Yaroslavl Oblast
+1,Zabaykalsky Krai
+1,Eastern Province
+1,Kigali district
+1,Northern Province
+1,Southern Province
+1,Western Province
+1,Christ Church Nichola Town Parish
+1,Nevis
+1,Saint Anne Sandy Point Parish
+1,Saint George Gingerland Parish
+1,Saint James Windward Parish
+1,Saint John Capisterre Parish
+1,Saint John Figtree Parish
+1,Saint Kitts
+1,Saint Mary Cayon Parish
+1,Saint Paul Capisterre Parish
+1,Saint Paul Charlestown Parish
+1,Saint Peter Basseterre Parish
+1,Saint Thomas Lowland Parish
+1,Saint Thomas Middle Island Parish
+1,Trinity Palmetto Point Parish
+1,Anse la Raye Quarter
+1,Canaries
+1,Castries Quarter
+1,Choiseul Quarter
+1,Dauphin Quarter
+1,Dennery Quarter
+1,Gros Islet Quarter
+1,Laborie Quarter
+1,Micoud Quarter
+1,Praslin Quarter
+1,Soufrière Quarter
+1,Vieux Fort Quarter
+1,Charlotte Parish
+1,Grenadines Parish
+1,Saint Andrew Parish
+1,Saint David Parish
+1,Saint George Parish
+1,Saint Patrick Parish
+1,A'ana
+1,Aiga-i-le-Tai
+1,Atua
+1,Fa'asaleleaga
+1,Gaga'emauga
+1,Gaga'ifomauga
+1,Palauli
+1,Satupa'itea
+1,Tuamasaga
+1,Va'a-o-Fonoti
+1,Vaisigano
+1,Acquaviva
+1,Borgo Maggiore
+1,Chiesanuova
+1,Domagnano
+1,Faetano
+1,Fiorentino
+1,Montegiardino
+1,San Marino
+1,Serravalle
+1,Príncipe Province
+1,São Tomé Province
+1,'Asir
+1,Al Bahah
+1,Al Jawf
+1,Al Madinah
+1,Al-Qassim
+1,Eastern Province
+1,Ha'il
+1,Jizan
+1,Makkah
+1,Najran
+1,Northern Borders
+1,Riyadh
+1,Tabuk
+1,Dakar
+1,Diourbel Region
+1,Fatick
+1,Kaffrine
+1,Kaolack
+1,Kédougou
+1,Kolda
+1,Louga
+1,Matam
+1,Saint-Louis
+1,Sédhiou
+1,Tambacounda Region
+1,Thiès Region
+1,Ziguinchor
+1,Belgrade
+1,Bor District
+1,Braničevo District
+1,Central Banat District
+1,Jablanica District
+1,Kolubara District
+1,Mačva District
+1,Moravica District
+1,Nišava District
+1,North Bačka District
+1,North Banat District
+1,Pčinja District
+1,Pirot District
+1,Podunavlje District
+1,Pomoravlje District
+1,Rasina District
+1,Raška District
+1,South Bačka District
+1,South Banat District
+1,Srem District
+1,Šumadija District
+1,Toplica District
+1,Vojvodina
+1,West Bačka District
+1,Zaječar District
+1,Zlatibor District
+1,Anse Boileau
+1,Anse Royale
+1,Anse-aux-Pins
+1,Au Cap
+1,Baie Lazare
+1,Baie Sainte Anne
+1,Beau Vallon
+1,Bel Air
+1,Bel Ombre
+1,Cascade
+1,Glacis
+1,Grand'Anse Mahé
+1,Grand'Anse Praslin
+1,La Digue
+1,La Rivière Anglaise
+1,Les Mamelles
+1,Mont Buxton
+1,Mont Fleuri
+1,Plaisance
+1,Pointe La Rue
+1,Port Glaud
+1,Roche Caiman
+1,Saint Louis
+1,Takamaka
+1,Eastern Province
+1,Northern Province
+1,Southern Province
+1,Western Area
+1,Central Singapore
+1,North East
+1,North West
+1,South East
+1,South West
+1,Banská Bystrica Region
+1,Bratislava Region
+1,Košice Region
+1,Nitra Region
+1,Prešov Region
+1,Trenčín Region
+1,Trnava Region
+1,Žilina Region
+1,Ajdovščina Municipality
+1,Ankaran Municipality
+1,Beltinci Municipality
+1,Benedikt Municipality
+1,Bistrica ob Sotli Municipality
+1,Bled Municipality
+1,Bloke Municipality
+1,Bohinj Municipality
+1,Borovnica Municipality
+1,Bovec Municipality
+1,Braslovče Municipality
+1,Brda Municipality
+1,Brežice Municipality
+1,Brezovica Municipality
+1,Cankova Municipality
+1,Cerklje na Gorenjskem Municipality
+1,Cerknica Municipality
+1,Cerkno Municipality
+1,Cerkvenjak Municipality
+1,City Municipality of Celje
+1,City Municipality of Novo Mesto
+1,Črenšovci Municipality
+1,Črna na Koroškem Municipality
+1,Črnomelj Municipality
+1,Destrnik Municipality
+1,Divača Municipality
+1,Dobje Municipality
+1,Dobrepolje Municipality
+1,Dobrna Municipality
+1,Dobrova–Polhov Gradec Municipality
+1,Dobrovnik Municipality
+1,Dol pri Ljubljani Municipality
+1,Dolenjske Toplice Municipality
+1,Domžale Municipality
+1,Dornava Municipality
+1,Dravograd Municipality
+1,Duplek Municipality
+1,Gorenja Vas–Poljane Municipality
+1,Gorišnica Municipality
+1,Gorje Municipality
+1,Gornja Radgona Municipality
+1,Gornji Grad Municipality
+1,Gornji Petrovci Municipality
+1,Grad Municipality
+1,Grosuplje Municipality
+1,Hajdina Municipality
+1,Hoče–Slivnica Municipality
+1,Hodoš Municipality
+1,Horjul Municipality
+1,Hrastnik Municipality
+1,Hrpelje–Kozina Municipality
+1,Idrija Municipality
+1,Ig Municipality
+1,Ivančna Gorica Municipality
+1,Izola Municipality
+1,Jesenice Municipality
+1,Jezersko Municipality
+1,Juršinci Municipality
+1,Kamnik Municipality
+1,Kanal ob Soči Municipality
+1,Kidričevo Municipality
+1,Kobarid Municipality
+1,Kobilje Municipality
+1,Kočevje Municipality
+1,Komen Municipality
+1,Komenda Municipality
+1,Koper City Municipality
+1,Kostanjevica na Krki Municipality
+1,Kostel Municipality
+1,Kozje Municipality
+1,Kranj City Municipality
+1,Kranjska Gora Municipality
+1,Križevci Municipality
+1,Kungota
+1,Kuzma Municipality
+1,Laško Municipality
+1,Lenart Municipality
+1,Lendava Municipality
+1,Litija Municipality
+1,Ljubljana City Municipality
+1,Ljubno Municipality
+1,Ljutomer Municipality
+1,Log–Dragomer Municipality
+1,Logatec Municipality
+1,Loška Dolina Municipality
+1,Loški Potok Municipality
+1,Lovrenc na Pohorju Municipality
+1,Luče Municipality
+1,Lukovica Municipality
+1,Majšperk Municipality
+1,Makole Municipality
+1,Maribor City Municipality
+1,Markovci Municipality
+1,Medvode Municipality
+1,Mengeš Municipality
+1,Metlika Municipality
+1,Mežica Municipality
+1,Miklavž na Dravskem Polju Municipality
+1,Miren–Kostanjevica Municipality
+1,Mirna Municipality
+1,Mirna Peč Municipality
+1,Mislinja Municipality
+1,Mokronog–Trebelno Municipality
+1,Moravče Municipality
+1,Moravske Toplice Municipality
+1,Mozirje Municipality
+1,Municipality of Apače
+1,Municipality of Cirkulane
+1,Municipality of Ilirska Bistrica
+1,Municipality of Krško
+1,Municipality of Škofljica
+1,Murska Sobota City Municipality
+1,Muta Municipality
+1,Naklo Municipality
+1,Nazarje Municipality
+1,Nova Gorica City Municipality
+1,Odranci Municipality
+1,Oplotnica
+1,Ormož Municipality
+1,Osilnica Municipality
+1,Pesnica Municipality
+1,Piran Municipality
+1,Pivka Municipality
+1,Podčetrtek Municipality
+1,Podlehnik Municipality
+1,Podvelka Municipality
+1,Poljčane Municipality
+1,Polzela Municipality
+1,Postojna Municipality
+1,Prebold Municipality
+1,Preddvor Municipality
+1,Prevalje Municipality
+1,Ptuj City Municipality
+1,Puconci Municipality
+1,Rače–Fram Municipality
+1,Radeče Municipality
+1,Radenci Municipality
+1,Radlje ob Dravi Municipality
+1,Radovljica Municipality
+1,Ravne na Koroškem Municipality
+1,Razkrižje Municipality
+1,Rečica ob Savinji Municipality
+1,Renče–Vogrsko Municipality
+1,Ribnica Municipality
+1,Ribnica na Pohorju Municipality
+1,Rogaška Slatina Municipality
+1,Rogašovci Municipality
+1,Rogatec Municipality
+1,Ruše Municipality
+1,Šalovci Municipality
+1,Selnica ob Dravi Municipality
+1,Semič Municipality
+1,Šempeter–Vrtojba Municipality
+1,Šenčur Municipality
+1,Šentilj Municipality
+1,Šentjernej Municipality
+1,Šentjur Municipality
+1,Šentrupert Municipality
+1,Sevnica Municipality
+1,Sežana Municipality
+1,Škocjan Municipality
+1,Škofja Loka Municipality
+1,Slovenj Gradec City Municipality
+1,Slovenska Bistrica Municipality
+1,Slovenske Konjice Municipality
+1,Šmarje pri Jelšah Municipality
+1,Šmarješke Toplice Municipality
+1,Šmartno ob Paki Municipality
+1,Šmartno pri Litiji Municipality
+1,Sodražica Municipality
+1,Solčava Municipality
+1,Šoštanj Municipality
+1,Središče ob Dravi
+1,Starše Municipality
+1,Štore Municipality
+1,Straža Municipality
+1,Sveta Ana Municipality
+1,Sveta Trojica v Slovenskih Goricah Municipality
+1,Sveti Andraž v Slovenskih Goricah Municipality
+1,Sveti Jurij ob Ščavnici Municipality
+1,Sveti Jurij v Slovenskih Goricah Municipality
+1,Sveti Tomaž Municipality
+1,Tabor Municipality
+1,Tišina Municipality
+1,Tolmin Municipality
+1,Trbovlje Municipality
+1,Trebnje Municipality
+1,Trnovska Vas Municipality
+1,Tržič Municipality
+1,Trzin Municipality
+1,Turnišče Municipality
+1,Velika Polana Municipality
+1,Velike Lašče Municipality
+1,Veržej Municipality
+1,Videm Municipality
+1,Vipava Municipality
+1,Vitanje Municipality
+1,Vodice Municipality
+1,Vojnik Municipality
+1,Vransko Municipality
+1,Vrhnika Municipality
+1,Vuzenica Municipality
+1,Zagorje ob Savi Municipality
+1,Žalec Municipality
+1,Zavrč Municipality
+1,Železniki Municipality
+1,Žetale Municipality
+1,Žiri Municipality
+1,Žirovnica Municipality
+1,Zreče Municipality
+1,Žužemberk Municipality
+1,Central Province
+1,Choiseul Province
+1,Guadalcanal Province
+1,Honiara
+1,Isabel Province
+1,Makira-Ulawa Province
+1,Malaita Province
+1,Rennell and Bellona Province
+1,Temotu Province
+1,Western Province
+1,Awdal Region
+1,Bakool
+1,Banaadir
+1,Bari
+1,Bay
+1,Galguduud
+1,Gedo
+1,Hiran
+1,Lower Juba
+1,Lower Shebelle
+1,Middle Juba
+1,Middle Shebelle
+1,Mudug
+1,Nugal
+1,Sanaag Region
+1,Togdheer Region
+1,Eastern Cape
+1,Free State
+1,Gauteng
+1,KwaZulu-Natal
+1,Limpopo
+1,Mpumalanga
+1,North West
+1,Northern Cape
+1,Western Cape
+1,Busan
+1,Daegu
+1,Daejeon
+1,Gangwon Province
+1,Gwangju
+1,Gyeonggi Province
+1,Incheon
+1,Jeju
+1,North Chungcheong Province
+1,North Gyeongsang Province
+1,North Jeolla Province
+1,Sejong City
+1,Seoul
+1,South Chungcheong Province
+1,South Gyeongsang Province
+1,South Jeolla Province
+1,Ulsan
+1,Central Equatoria
+1,Eastern Equatoria
+1,Jonglei State
+1,Lakes
+1,Northern Bahr el Ghazal
+1,Unity
+1,Upper Nile
+1,Warrap
+1,Western Bahr el Ghazal
+1,Western Equatoria
+1,A Coruña
+1,Albacete
+1,Alicante
+1,Almeria
+1,Araba
+1,Asturias
+1,Ávila
+1,Badajoz
+1,Barcelona
+1,Bizkaia
+1,Burgos
+1,Caceres
+1,Cádiz
+1,Canarias
+1,Cantabria
+1,Castellón
+1,Ceuta
+1,Ciudad Real
+1,Córdoba
+1,Cuenca
+1,Gipuzkoa
+1,Girona
+1,Granada
+1,Guadalajara
+1,Huelva
+1,Huesca
+1,Islas Baleares
+1,Jaén
+1,La Rioja
+1,Las Palmas
+1,León
+1,Lleida
+1,Lugo
+1,Madrid
+1,Málaga
+1,Melilla
+1,Murcia
+1,Navarra
+1,Ourense
+1,Palencia
+1,Pontevedra
+1,Salamanca
+1,Santa Cruz de Tenerife
+1,Segovia
+1,Sevilla
+1,Soria
+1,Tarragona
+1,Teruel
+1,Toledo
+1,Valencia
+1,Valladolid
+1,Zamora
+1,Zaragoza
+1,Ampara District
+1,Anuradhapura District
+1,Badulla District
+1,Batticaloa District
+1,Central Province
+1,Colombo District
+1,Eastern Province
+1,Galle District
+1,Gampaha District
+1,Hambantota District
+1,Jaffna District
+1,Kalutara District
+1,Kandy District
+1,Kegalle District
+1,Kilinochchi District
+1,Mannar District
+1,Matale District
+1,Matara District
+1,Monaragala District
+1,Mullaitivu District
+1,North Central Province
+1,North Western Province
+1,Northern Province
+1,Nuwara Eliya District
+1,Polonnaruwa District
+1,Puttalam District
+1,Ratnapura district
+1,Sabaragamuwa Province
+1,Southern Province
+1,Trincomalee District
+1,Uva Province
+1,Vavuniya District
+1,Western Province
+1,Al Jazirah
+1,Al Qadarif
+1,Blue Nile
+1,Central Darfur
+1,East Darfur
+1,Kassala
+1,Khartoum
+1,North Darfur
+1,North Kordofan
+1,Northern
+1,Red Sea
+1,River Nile
+1,Sennar
+1,South Darfur
+1,South Kordofan
+1,West Darfur
+1,West Kordofan
+1,White Nile
+1,Brokopondo District
+1,Commewijne District
+1,Coronie District
+1,Marowijne District
+1,Nickerie District
+1,Para District
+1,Paramaribo District
+1,Saramacca District
+1,Sipaliwini District
+1,Wanica District
+1,Blekinge County
+1,Dalarna County
+1,Gävleborg County
+1,Gotland County
+1,Halland County
+1,Jämtland County
+1,Jönköping County
+1,Kalmar County
+1,Kronoberg County
+1,Norrbotten County
+1,Örebro County
+1,Östergötland County
+1,Skåne County
+1,Södermanland County
+1,Stockholm County
+1,Uppsala County
+1,Värmland County
+1,Västerbotten County
+1,Västernorrland County
+1,Västmanland County
+1,Västra Götaland County
+1,Aargau
+1,Appenzell Ausserrhoden
+1,Appenzell Innerrhoden
+1,Basel-Land
+1,Basel-Stadt
+1,Bern
+1,Fribourg
+1,Geneva
+1,Glarus
+1,Graubünden
+1,Jura
+1,Lucerne
+1,Neuchâtel
+1,Nidwalden
+1,Obwalden
+1,Schaffhausen
+1,Schwyz
+1,Solothurn
+1,St. Gallen
+1,Thurgau
+1,Ticino
+1,Uri
+1,Valais
+1,Vaud
+1,Zug
+1,Zürich
+1,Al-Hasakah
+1,Al-Raqqah
+1,Aleppo
+1,As-Suwayda
+1,Damascus
+1,Daraa
+1,Deir ez-Zor
+1,Hama
+1,Homs
+1,Idlib
+1,Latakia
+1,Quneitra
+1,Rif Dimashq
+1,Tartus
+1,Changhua
+1,Chiayi
+1,Chiayi
+1,Hsinchu
+1,Hsinchu
+1,Hualien
+1,Kaohsiung
+1,Keelung
+1,Kinmen
+1,Lienchiang
+1,Miaoli
+1,Nantou
+1,New Taipei
+1,Penghu
+1,Pingtung
+1,Taichung
+1,Tainan
+1,Taipei
+1,Taitung
+1,Taoyuan
+1,Yilan
+1,Yunlin
+1,districts of Republican Subordination
+1,Gorno-Badakhshan Autonomous Province
+1,Khatlon Province
+1,Sughd Province
+1,Arusha
+1,Dar es Salaam
+1,Dodoma
+1,Geita
+1,Iringa
+1,Kagera
+1,Katavi
+1,Kigoma
+1,Kilimanjaro
+1,Lindi
+1,Manyara
+1,Mara
+1,Mbeya
+1,Morogoro
+1,Mtwara
+1,Mwanza
+1,Njombe
+1,Pemba North
+1,Pemba South
+1,Pwani
+1,Rukwa
+1,Ruvuma
+1,Shinyanga
+1,Simiyu
+1,Singida
+1,Songwe
+1,Tabora
+1,Tanga
+1,Zanzibar North
+1,Zanzibar South
+1,Zanzibar West
+1,Amnat Charoen
+1,Ang Thong
+1,Bangkok
+1,Bueng Kan
+1,Buri Ram
+1,Chachoengsao
+1,Chai Nat
+1,Chaiyaphum
+1,Chanthaburi
+1,Chiang Mai
+1,Chiang Rai
+1,Chon Buri
+1,Chumphon
+1,Kalasin
+1,Kamphaeng Phet
+1,Kanchanaburi
+1,Khon Kaen
+1,Krabi
+1,Lampang
+1,Lamphun
+1,Loei
+1,Lop Buri
+1,Mae Hong Son
+1,Maha Sarakham
+1,Mukdahan
+1,Nakhon Nayok
+1,Nakhon Pathom
+1,Nakhon Phanom
+1,Nakhon Ratchasima
+1,Nakhon Sawan
+1,Nakhon Si Thammarat
+1,Nan
+1,Narathiwat
+1,Nong Bua Lam Phu
+1,Nong Khai
+1,Nonthaburi
+1,Pathum Thani
+1,Pattani
+1,Pattaya
+1,Phangnga
+1,Phatthalung
+1,Phayao
+1,Phetchabun
+1,Phetchaburi
+1,Phichit
+1,Phitsanulok
+1,Phra Nakhon Si Ayutthaya
+1,Phrae
+1,Phuket
+1,Prachin Buri
+1,Prachuap Khiri Khan
+1,Ranong
+1,Ratchaburi
+1,Rayong
+1,Roi Et
+1,Sa Kaeo
+1,Sakon Nakhon
+1,Samut Prakan
+1,Samut Sakhon
+1,Samut Songkhram
+1,Saraburi
+1,Satun
+1,Si Sa Ket
+1,Sing Buri
+1,Songkhla
+1,Sukhothai
+1,Suphan Buri
+1,Surat Thani
+1,Surin
+1,Tak
+1,Trang
+1,Trat
+1,Ubon Ratchathani
+1,Udon Thani
+1,Uthai Thani
+1,Uttaradit
+1,Yala
+1,Yasothon
+1,Acklins
+1,Acklins and Crooked Islands
+1,Berry Islands
+1,Bimini
+1,Black Point
+1,Cat Island
+1,Central Abaco
+1,Central Andros
+1,Central Eleuthera
+1,Crooked Island
+1,East Grand Bahama
+1,Exuma
+1,Freeport
+1,Fresh Creek
+1,Governor's Harbour
+1,Grand Cay
+1,Green Turtle Cay
+1,Harbour Island
+1,High Rock
+1,Hope Town
+1,Inagua
+1,Kemps Bay
+1,Long Island
+1,Mangrove Cay
+1,Marsh Harbour
+1,Mayaguana District
+1,New Providence
+1,Nichollstown and Berry Islands
+1,North Abaco
+1,North Andros
+1,North Eleuthera
+1,Ragged Island
+1,Rock Sound
+1,Rum Cay District
+1,San Salvador and Rum Cay
+1,San Salvador Island
+1,Sandy Point
+1,South Abaco
+1,South Andros
+1,South Eleuthera
+1,Spanish Wells
+1,West Grand Bahama
+1,Banjul
+1,Central River Division
+1,Lower River Division
+1,North Bank Division
+1,Upper River Division
+1,West Coast Division
+1,Aileu municipality
+1,Ainaro Municipality
+1,Baucau Municipality
+1,Bobonaro Municipality
+1,Cova Lima Municipality
+1,Dili municipality
+1,Ermera District
+1,Lautém Municipality
+1,Liquiçá Municipality
+1,Manatuto District
+1,Manufahi Municipality
+1,Viqueque Municipality
+1,Centrale Region
+1,Kara Region
+1,Maritime
+1,Plateaux Region
+1,Savanes Region
+1,Haʻapai
+1,ʻEua
+1,Niuas
+1,Tongatapu
+1,Vavaʻu
+1,Arima
+1,Chaguanas
+1,Couva-Tabaquite-Talparo Regional Corporation
+1,Diego Martin Regional Corporation
+1,Eastern Tobago
+1,Penal-Debe Regional Corporation
+1,Point Fortin
+1,Port of Spain
+1,Princes Town Regional Corporation
+1,Rio Claro-Mayaro Regional Corporation
+1,San Fernando
+1,San Juan-Laventille Regional Corporation
+1,Sangre Grande Regional Corporation
+1,Siparia Regional Corporation
+1,Tunapuna-Piarco Regional Corporation
+1,Western Tobago
+1,Ariana
+1,Béja
+1,Ben Arous
+1,Bizerte
+1,Gabès
+1,Gafsa
+1,Jendouba
+1,Kairouan
+1,Kasserine
+1,Kebili
+1,Kef
+1,Mahdia
+1,Manouba
+1,Medenine
+1,Monastir
+1,Nabeul
+1,Sfax
+1,Sidi Bouzid
+1,Siliana
+1,Sousse
+1,Tataouine
+1,Tozeur
+1,Tunis
+1,Zaghouan
+1,Adana
+1,Adıyaman
+1,Afyonkarahisar
+1,Ağrı
+1,Aksaray
+1,Amasya
+1,Ankara
+1,Antalya
+1,Ardahan
+1,Artvin
+1,Aydın
+1,Balıkesir
+1,Bartın
+1,Batman
+1,Bayburt
+1,Bilecik
+1,Bingöl
+1,Bitlis
+1,Bolu
+1,Burdur
+1,Bursa
+1,Çanakkale
+1,Çankırı
+1,Çorum
+1,Denizli
+1,Diyarbakır
+1,Düzce
+1,Edirne
+1,Elazığ
+1,Erzincan
+1,Erzurum
+1,Eskişehir
+1,Gaziantep
+1,Giresun
+1,Gümüşhane
+1,Hakkâri
+1,Hatay
+1,Iğdır
+1,Isparta
+1,İstanbul
+1,İzmir
+1,Kahramanmaraş
+1,Karabük
+1,Karaman
+1,Kars
+1,Kastamonu
+1,Kayseri
+1,Kilis
+1,Kırıkkale
+1,Kırklareli
+1,Kırşehir
+1,Kocaeli
+1,Konya
+1,Kütahya
+1,Malatya
+1,Manisa
+1,Mardin
+1,Mersin
+1,Muğla
+1,Muş
+1,Nevşehir
+1,Niğde
+1,Ordu
+1,Osmaniye
+1,Rize
+1,Sakarya
+1,Samsun
+1,Şanlıurfa
+1,Siirt
+1,Sinop
+1,Sivas
+1,Şırnak
+1,Tekirdağ
+1,Tokat
+1,Trabzon
+1,Tunceli
+1,Uşak
+1,Van
+1,Yalova
+1,Yozgat
+1,Zonguldak
+1,Ahal Region
+1,Ashgabat
+1,Balkan Region
+1,Daşoguz Region
+1,Lebap Region
+1,Mary Region
+1,Funafuti
+1,Nanumanga
+1,Nanumea
+1,Niutao Island Council
+1,Nui
+1,Nukufetau
+1,Nukulaelae
+1,Vaitupu
+1,Abim District
+1,Adjumani District
+1,Agago District
+1,Alebtong District
+1,Amolatar District
+1,Amudat District
+1,Amuria District
+1,Amuru District
+1,Apac District
+1,Arua District
+1,Budaka District
+1,Bududa District
+1,Bugiri District
+1,Buhweju District
+1,Buikwe District
+1,Bukedea District
+1,Bukomansimbi District
+1,Bukwo District
+1,Bulambuli District
+1,Buliisa District
+1,Bundibugyo District
+1,Bunyangabu District
+1,Bushenyi District
+1,Busia District
+1,Butaleja District
+1,Butambala District
+1,Butebo District
+1,Buvuma District
+1,Buyende District
+1,Central Region
+1,Dokolo District
+1,Eastern Region
+1,Gomba District
+1,Gulu District
+1,Ibanda District
+1,Iganga District
+1,Isingiro District
+1,Jinja District
+1,Kaabong District
+1,Kabale District
+1,Kabarole District
+1,Kaberamaido District
+1,Kagadi District
+1,Kakumiro District
+1,Kalangala District
+1,Kaliro District
+1,Kalungu District
+1,Kampala District
+1,Kamuli District
+1,Kamwenge District
+1,Kanungu District
+1,Kapchorwa District
+1,Kasese District
+1,Katakwi District
+1,Kayunga District
+1,Kibaale District
+1,Kiboga District
+1,Kibuku District
+1,Kiruhura District
+1,Kiryandongo District
+1,Kisoro District
+1,Kitgum District
+1,Koboko District
+1,Kole District
+1,Kotido District
+1,Kumi District
+1,Kween District
+1,Kyankwanzi District
+1,Kyegegwa District
+1,Kyenjojo District
+1,Kyotera District
+1,Lamwo District
+1,Lira District
+1,Luuka District
+1,Luwero District
+1,Lwengo District
+1,Lyantonde District
+1,Manafwa District
+1,Maracha District
+1,Masaka District
+1,Masindi District
+1,Mayuge District
+1,Mbale District
+1,Mbarara District
+1,Mitooma District
+1,Mityana District
+1,Moroto District
+1,Moyo District
+1,Mpigi District
+1,Mubende District
+1,Mukono District
+1,Nakapiripirit District
+1,Nakaseke District
+1,Nakasongola District
+1,Namayingo District
+1,Namisindwa District
+1,Namutumba District
+1,Napak District
+1,Nebbi District
+1,Ngora District
+1,Northern Region
+1,Ntoroko District
+1,Ntungamo District
+1,Nwoya District
+1,Omoro District
+1,Otuke District
+1,Oyam District
+1,Pader District
+1,Pakwach District
+1,Pallisa District
+1,Rakai District
+1,Rubanda District
+1,Rubirizi District
+1,Rukiga District
+1,Rukungiri District
+1,Sembabule District
+1,Serere District
+1,Sheema District
+1,Sironko District
+1,Soroti District
+1,Tororo District
+1,Wakiso District
+1,Western Region
+1,Yumbe District
+1,Zombo District
+1,Autonomous Republic of Crimea
+1,Cherkaska oblast
+1,Chernihivska oblast
+1,Chernivetska oblast
+1,Dnipropetrovska oblast
+1,Donetska oblast
+1,Ivano-Frankivska oblast
+1,Kharkivska oblast
+1,Khersonska oblast
+1,Khmelnytska oblast
+1,Kirovohradska oblast
+1,Kyiv
+1,Kyivska oblast
+1,Luhanska oblast
+1,Lvivska oblast
+1,Mykolaivska oblast
+1,Odeska oblast
+1,Poltavska oblast
+1,Rivnenska oblast
+1,Sevastopol
+1,Sumska oblast
+1,Ternopilska oblast
+1,Vinnytska oblast
+1,Volynska oblast
+1,Zakarpatska Oblast
+1,Zaporizka oblast
+1,Zhytomyrska oblast
+1,Abu Dhabi Emirate
+1,Ajman Emirate
+1,Dubai
+1,Fujairah
+1,Ras al-Khaimah
+1,Sharjah Emirate
+1,Umm al-Quwain
+1,Aberdeen
+1,Aberdeenshire
+1,Angus
+1,Antrim
+1,Antrim and Newtownabbey
+1,Ards
+1,Ards and North Down
+1,Argyll and Bute
+1,Armagh City and District Council
+1,"Armagh, Banbridge and Craigavon"
+1,Ascension Island
+1,Ballymena Borough
+1,Ballymoney
+1,Banbridge
+1,Barnsley
+1,Bath and North East Somerset
+1,Bedford
+1,Belfast district
+1,Birmingham
+1,Blackburn with Darwen
+1,Blackpool
+1,Blaenau Gwent County Borough
+1,Bolton
+1,Bournemouth
+1,Bracknell Forest
+1,Bradford
+1,Bridgend County Borough
+1,Brighton and Hove
+1,Buckinghamshire
+1,Bury
+1,Caerphilly County Borough
+1,Calderdale
+1,Cambridgeshire
+1,Carmarthenshire
+1,Carrickfergus Borough Council
+1,Castlereagh
+1,Causeway Coast and Glens
+1,Central Bedfordshire
+1,Ceredigion
+1,Cheshire East
+1,Cheshire West and Chester
+1,City and County of Cardiff
+1,City and County of Swansea
+1,City of Bristol
+1,City of Derby
+1,City of Kingston upon Hull
+1,City of Leicester
+1,City of London
+1,City of Nottingham
+1,City of Peterborough
+1,City of Plymouth
+1,City of Portsmouth
+1,City of Southampton
+1,City of Stoke-on-Trent
+1,City of Sunderland
+1,City of Westminster
+1,City of Wolverhampton
+1,City of York
+1,Clackmannanshire
+1,Coleraine Borough Council
+1,Conwy County Borough
+1,Cookstown District Council
+1,Cornwall
+1,County Durham
+1,Coventry
+1,Craigavon Borough Council
+1,Cumbria
+1,Darlington
+1,Denbighshire
+1,Derbyshire
+1,Derry City and Strabane
+1,Derry City Council
+1,Devon
+1,Doncaster
+1,Dorset
+1,Down District Council
+1,Dudley
+1,Dumfries and Galloway
+1,Dundee
+1,Dungannon and South Tyrone Borough Council
+1,East Ayrshire
+1,East Dunbartonshire
+1,East Lothian
+1,East Renfrewshire
+1,East Riding of Yorkshire
+1,East Sussex
+1,Edinburgh
+1,England
+1,Essex
+1,Falkirk
+1,Fermanagh and Omagh
+1,Fermanagh District Council
+1,Fife
+1,Flintshire
+1,Gateshead
+1,Glasgow
+1,Gloucestershire
+1,Gwynedd
+1,Halton
+1,Hampshire
+1,Hartlepool
+1,Herefordshire
+1,Hertfordshire
+1,Highland
+1,Inverclyde
+1,Isle of Wight
+1,Isles of Scilly
+1,Kent
+1,Kirklees
+1,Knowsley
+1,Lancashire
+1,Larne Borough Council
+1,Leeds
+1,Leicestershire
+1,Limavady Borough Council
+1,Lincolnshire
+1,Lisburn and Castlereagh
+1,Lisburn City Council
+1,Liverpool
+1,London Borough of Barking and Dagenham
+1,London Borough of Barnet
+1,London Borough of Bexley
+1,London Borough of Brent
+1,London Borough of Bromley
+1,London Borough of Camden
+1,London Borough of Croydon
+1,London Borough of Ealing
+1,London Borough of Enfield
+1,London Borough of Hackney
+1,London Borough of Hammersmith and Fulham
+1,London Borough of Haringey
+1,London Borough of Harrow
+1,London Borough of Havering
+1,London Borough of Hillingdon
+1,London Borough of Hounslow
+1,London Borough of Islington
+1,London Borough of Lambeth
+1,London Borough of Lewisham
+1,London Borough of Merton
+1,London Borough of Newham
+1,London Borough of Redbridge
+1,London Borough of Richmond upon Thames
+1,London Borough of Southwark
+1,London Borough of Sutton
+1,London Borough of Tower Hamlets
+1,London Borough of Waltham Forest
+1,London Borough of Wandsworth
+1,Magherafelt District Council
+1,Manchester
+1,Medway
+1,Merthyr Tydfil County Borough
+1,Metropolitan Borough of Wigan
+1,Mid and East Antrim
+1,Mid Ulster
+1,Middlesbrough
+1,Midlothian
+1,Milton Keynes
+1,Monmouthshire
+1,Moray
+1,Moyle District Council
+1,Neath Port Talbot County Borough
+1,Newcastle upon Tyne
+1,Newport
+1,Newry and Mourne District Council
+1,"Newry, Mourne and Down"
+1,Newtownabbey Borough Council
+1,Norfolk
+1,North Ayrshire
+1,North Down Borough Council
+1,North East Lincolnshire
+1,North Lanarkshire
+1,North Lincolnshire
+1,North Somerset
+1,North Tyneside
+1,North Yorkshire
+1,Northamptonshire
+1,Northern Ireland
+1,Northumberland
+1,Nottinghamshire
+1,Oldham
+1,Omagh District Council
+1,Orkney Islands
+1,Outer Hebrides
+1,Oxfordshire
+1,Pembrokeshire
+1,Perth and Kinross
+1,Poole
+1,Powys
+1,Reading
+1,Redcar and Cleveland
+1,Renfrewshire
+1,Rhondda Cynon Taf
+1,Rochdale
+1,Rotherham
+1,Royal Borough of Greenwich
+1,Royal Borough of Kensington and Chelsea
+1,Royal Borough of Kingston upon Thames
+1,Rutland
+1,Saint Helena
+1,Salford
+1,Sandwell
+1,Scotland
+1,Scottish Borders
+1,Sefton
+1,Sheffield
+1,Shetland Islands
+1,Shropshire
+1,Slough
+1,Solihull
+1,Somerset
+1,South Ayrshire
+1,South Gloucestershire
+1,South Lanarkshire
+1,South Tyneside
+1,Southend-on-Sea
+1,St Helens
+1,Staffordshire
+1,Stirling
+1,Stockport
+1,Stockton-on-Tees
+1,Strabane District Council
+1,Suffolk
+1,Surrey
+1,Swindon
+1,Tameside
+1,Telford and Wrekin
+1,Thurrock
+1,Torbay
+1,Torfaen
+1,Trafford
+1,United Kingdom
+1,Vale of Glamorgan
+1,Wakefield
+1,Wales
+1,Walsall
+1,Warrington
+1,Warwickshire
+1,West Berkshire
+1,West Dunbartonshire
+1,West Lothian
+1,West Sussex
+1,Wiltshire
+1,Windsor and Maidenhead
+1,Wirral
+1,Wokingham
+1,Worcestershire
+1,Wrexham County Borough
+1,Alabama
+1,Alaska
+1,American Samoa
+1,Arizona
+1,Arkansas
+1,Baker Island
+1,California
+1,Colorado
+1,Connecticut
+1,Delaware
+1,District of Columbia
+1,Florida
+1,Georgia
+1,Guam
+1,Hawaii
+1,Howland Island
+1,Idaho
+1,Illinois
+1,Indiana
+1,Iowa
+1,Jarvis Island
+1,Johnston Atoll
+1,Kansas
+1,Kentucky
+1,Kingman Reef
+1,Louisiana
+1,Maine
+1,Maryland
+1,Massachusetts
+1,Michigan
+1,Midway Atoll
+1,Minnesota
+1,Mississippi
+1,Missouri
+1,Montana
+1,Navassa Island
+1,Nebraska
+1,Nevada
+1,New Hampshire
+1,New Jersey
+1,New Mexico
+1,New York
+1,North Carolina
+1,North Dakota
+1,Northern Mariana Islands
+1,Ohio
+1,Oklahoma
+1,Oregon
+1,Palmyra Atoll
+1,Pennsylvania
+1,Puerto Rico
+1,Rhode Island
+1,South Carolina
+1,South Dakota
+1,Tennessee
+1,Texas
+1,United States Minor Outlying Islands
+1,United States Virgin Islands
+1,Utah
+1,Vermont
+1,Virginia
+1,Wake Island
+1,Washington
+1,West Virginia
+1,Wisconsin
+1,Wyoming
+1,Baker Island
+1,Howland Island
+1,Jarvis Island
+1,Johnston Atoll
+1,Kingman Reef
+1,Midway Islands
+1,Navassa Island
+1,Palmyra Atoll
+1,Wake Island
+1,Artigas
+1,Canelones
+1,Cerro Largo
+1,Colonia
+1,Durazno
+1,Flores
+1,Florida
+1,Lavalleja
+1,Maldonado
+1,Montevideo
+1,Paysandú
+1,Río Negro
+1,Rivera
+1,Rocha
+1,Salto
+1,San José
+1,Soriano
+1,Tacuarembó
+1,Treinta y Tres
+1,Andijan Region
+1,Bukhara Region
+1,Fergana Region
+1,Jizzakh Region
+1,Karakalpakstan
+1,Namangan Region
+1,Navoiy Region
+1,Qashqadaryo Region
+1,Samarqand Region
+1,Sirdaryo Region
+1,Surxondaryo Region
+1,Tashkent
+1,Tashkent Region
+1,Xorazm Region
+1,Malampa
+1,Penama
+1,Sanma
+1,Shefa
+1,Tafea
+1,Torba
+1,Amazonas
+1,Anzoátegui
+1,Apure
+1,Aragua
+1,Barinas
+1,Bolívar
+1,Carabobo
+1,Cojedes
+1,Delta Amacuro
+1,Distrito Capital
+1,Falcón
+1,Federal Dependencies of Venezuela
+1,Guárico
+1,La Guaira
+1,Lara
+1,Mérida
+1,Miranda
+1,Monagas
+1,Nueva Esparta
+1,Portuguesa
+1,Sucre
+1,Táchira
+1,Trujillo
+1,Yaracuy
+1,Zulia
+1,An Giang
+1,Bà Rịa-Vũng Tàu
+1,Bắc Giang
+1,Bắc Kạn
+1,Bạc Liêu
+1,Bắc Ninh
+1,Bến Tre
+1,Bình Dương
+1,Bình Định
+1,Bình Phước
+1,Bình Thuận
+1,Cà Mau
+1,Cần Thơ
+1,Cao Bằng
+1,Đà Nẵng
+1,Đắk Lắk
+1,Đắk Nông
+1,Điện Biên
+1,Đồng Nai
+1,Đồng Tháp
+1,Gia Lai
+1,Hà Giang
+1,Hà Nam
+1,Hà Nội
+1,Hà Tĩnh
+1,Hải Dương
+1,Hải Phòng
+1,Hậu Giang
+1,Hồ Chí Minh
+1,Hòa Bình
+1,Hưng Yên
+1,Khánh Hòa
+1,Kiên Giang
+1,Kon Tum
+1,Lai Châu
+1,Lâm Đồng
+1,Lạng Sơn
+1,Lào Cai
+1,Long An
+1,Nam Định
+1,Nghệ An
+1,Ninh Bình
+1,Ninh Thuận
+1,Phú Thọ
+1,Phú Yên
+1,Quảng Bình
+1,Quảng Nam
+1,Quảng Ngãi
+1,Quảng Ninh
+1,Quảng Trị
+1,Sóc Trăng
+1,Sơn La
+1,Tây Ninh
+1,Thái Bình
+1,Thái Nguyên
+1,Thanh Hóa
+1,Thừa Thiên-Huế
+1,Tiền Giang
+1,Trà Vinh
+1,Tuyên Quang
+1,Vĩnh Long
+1,Vĩnh Phúc
+1,Yên Bái
+1,Saint Croix
+1,Saint John
+1,Saint Thomas
+1,'Adan
+1,'Amran
+1,Abyan
+1,Al Bayda'
+1,Al Hudaydah
+1,Al Jawf
+1,Al Mahrah
+1,Al Mahwit
+1,Amanat Al Asimah
+1,Dhamar
+1,Hadhramaut
+1,Hajjah
+1,Ibb
+1,Lahij
+1,Ma'rib
+1,Raymah
+1,Saada
+1,Sana'a
+1,Shabwah
+1,Socotra
+1,Ta'izz
+1,Central Province
+1,Copperbelt Province
+1,Eastern Province
+1,Luapula Province
+1,Lusaka Province
+1,Muchinga Province
+1,Northern Province
+1,Northwestern Province
+1,Southern Province
+1,Western Province
+1,Bulawayo Province
+1,Harare Province
+1,Manicaland
+1,Mashonaland Central Province
+1,Mashonaland East Province
+1,Mashonaland West Province
+1,Masvingo Province
+1,Matabeleland North Province
+1,Matabeleland South Province
+1,Midlands Province
