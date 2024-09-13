@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';  // Database host
-$db   = 'ghosttears'; // database name
+$db   = 'ghosttears'; // Database name
 $user = 'root';       // database username
 $pass = '';           // database password
 
@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $password = $_POST['password'];
 
         // Check if username already exists
-        $stmt = $pdo->prepare("SELECT * FROM users WHERE username = ?");
+        $stmt = $pdo->prepare("SELECT user_id, username, password FROM users WHERE username = ?");
         $stmt->execute([$username]);
         $user = $stmt->fetch();
 
@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $player = $_POST['creator'];
 
         //get category id
-        $stmt = $pdo->prepare("SELECT * FROM categories WHERE category_name = ?");
+        $stmt = $pdo->prepare("SELECT category_id FROM categories WHERE category_name = ?");
         $stmt->execute([$category]);
         $category = $stmt->fetch();
         $category_id = $category['category_id'];
@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $game_id = $_POST['game_id'];
         $player = $_POST['player'];
 
-        $stmt = $pdo->prepare("SELECT * FROM games WHERE game_id = ?");
+        $stmt = $pdo->prepare("SELECT game_id, category_id, status, current_word FROM games WHERE game_id = ?");
         $stmt->execute([$game_id]);
         $game = $stmt->fetch();
 
@@ -84,7 +84,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             exit;
         }
 
-        $stmt = $pdo->prepare("SELECT * FROM player_game WHERE game_id = ?");
+        $stmt = $pdo->prepare("SELECT user_id, turn_order FROM player_game WHERE game_id = ?");
         $stmt->execute([$game_id]);
         $order = $stmt->fetch(PDO::FETCH_ASSOC);
         $next_order = $order['turn_order'] + 1;
@@ -95,16 +95,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo json_encode(['status' => 'success', 'message' => 'Joined game successfully']);
     } elseif ($action === 'get_game') {
         $game_id = $_POST['game_id'];
-
-        // Prepare and execute the query to get game details along with players and words using JOINs
         $stmt = $pdo->prepare("
             SELECT 
                 g.*, 
                 pg.user_id, pg.turn_order, 
-                gw.word 
+                gw.word, gw.last_guesser 
             FROM games g
             LEFT JOIN player_game pg ON g.game_id = pg.game_id
-            LEFT JOIN game_words gw ON g.game_id = gw.game_id
+            LEFT JOIN words_used gw ON g.game_id = gw.game_id
             WHERE g.game_id = ?
         ");
         $stmt->execute([$game_id]);
@@ -134,11 +132,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     'turn_order' => $row['turn_order']
                 ];
             }
-            if (!in_array($row['word'], $words)) {
-                $words[] = $row['word'];
+            if (!in_array(['word' => $row['word'], 'last_guesser' => $row['last_guesser']], $words)) {
+                $words[] = [
+                    'word' => $row['word'],
+                    'last_guesser' => $row['last_guesser']
+                ];
             }
         }
-
         echo json_encode(['status' => 'success', 'game' => $game, 'players' => $players, 'words' => $words]);
     } elseif ($action === 'show_games') {
         $stmt = $pdo->prepare("
@@ -172,7 +172,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo json_encode(['status' => 'success', 'games' => array_values($games)]);
     } elseif ($action === 'get_categories') {
 
-        $stmt = $pdo->prepare("SELECT * FROM categories");
+        $stmt = $pdo->prepare("SELECT category_id, category_name FROM categories");
         $stmt->execute();
         $categories = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
@@ -188,7 +188,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         fclose($file);
         echo json_encode(['status' => 'success', 'message' => 'Words loaded successfully']);
     } elseif ($action === 'load_out') {
-        $stmt = $pdo->prepare("SELECT DISTINCT * FROM categories ORDER BY category_id");
+        $stmt = $pdo->prepare("SELECT DISTINCT category_id, category_name FROM categories ORDER BY category_id");
         $stmt->execute();
         $categories = $stmt->fetchAll(PDO::FETCH_ASSOC);
         $category_list = array_column($categories, 'category_name');
@@ -216,5 +216,33 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
         echo json_encode(['status' => 'success', 'message' => 'Words exported successfully']);
+    } elseif ($action === 'submit_letter') {
+        $game_id = $_POST['game_id'];
+        $letter = $_POST['letter'];
+        $speller = $_POST['player'];
+
+        $stmt = $pdo->prepare("SELECT * from games WHERE games.game_id = ?");
+        $stmt->execute([$game_id]);
+        $details = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        $current_word = $details[0]['current_word'] . $letter;
+
+        $completion = $_POST['completion'] == 'true' ? 1 : 0;
+        if ($details[0]['status'] === 'ongoing') {
+            if ($completion === 1) {
+                $stmt = $pdo->prepare("UPDATE games SET current_word = ? WHERE games.game_id = ?");
+                $stmt->execute(['', $game_id]);
+                $stmt = $pdo->prepare("INSERT INTO words_used(game_id, word, last_guesser) VALUES (?, ?, ?);");
+                $stmt->execute([$game_id, $current_word, $speller]);
+
+                echo json_encode(['status' => 'success', 'message' => 'Word completed']);
+            } else {
+                $stmt = $pdo->prepare("UPDATE games SET current_word = ? WHERE games.game_id = ?");
+                $stmt->execute([$current_word, $game_id]);
+
+                echo json_encode(['status' => 'success', 'message' => 'Letter added']);
+            }
+        } else {
+            echo json_encode(['status' => 'error', 'message' => 'Game has ended']);
+        }
     }
 }
