@@ -54,7 +54,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     } elseif ($action === 'new_game') {
         $category = $_POST['category'];
-        $mode = $_POST['mode'];
         $player = $_POST['creator'];
 
         //get category id

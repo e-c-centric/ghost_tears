@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Waiting for the Sunrise
+- Font Author: Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)
+- Font Source: https://fonts.gstatic.com/s/waitingforthesunrise/v20/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsYZQ9h_ZYk5J.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
