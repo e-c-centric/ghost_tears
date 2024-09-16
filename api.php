@@ -1,4 +1,8 @@
 <?php
+
+header('Content-Type: application/json');
+
+
 $host = 'localhost';  // Database host
 $db   = 'ghosttears'; // Database name
 $user = 'root';       // database username

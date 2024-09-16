@@ -1,97 +1,297 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ghosttears Game</title>
+    <title>Ghosttears</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .alphabet {
+            position: absolute;
+            font-size: 2rem;
+            animation: bounce 5s infinite;
+            opacity: 0.2;
+        }
+
+        @keyframes bounce {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-100px);
+            }
+        }
+
+        .alphabet:nth-child(odd) {
+            animation-duration: 4s;
+        }
+
+        .alphabet:nth-child(even) {
+            animation-duration: 6s;
+        }
+
+        .hero {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #6e8efb;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .hero:hover .dropdown-menu {
+            display: block;
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            right: 0;
+            background: white;
+            color: black;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        .dropdown-menu a {
+            display: block;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .dropdown-menu a:hover {
+            background: #f8f9fa;
+        }
+
+        .welcome-message {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #6e8efb;
+            text-shadow: 2px 2px #a777e3;
+        }
+
+        .btn-custom {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+        }
+
+        .btn-custom:hover {
+            background: linear-gradient(135deg, #a777e3, #6e8efb);
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            if (localStorage.getItem('loggedin') !== 'true' || !localStorage.getItem('user_id')) {
+                window.location.href = 'index.html';
+            } else {
+                // Display the username
+                document.getElementById('username-display').textContent = localStorage.getItem('username');
+                document.getElementById('username-display-1').textContent = localStorage.getItem('username');
+            }
+
+            // Logout functionality
+            document.getElementById('logout').addEventListener('click', function () {
+                localStorage.removeItem('loggedin');
+                localStorage.removeItem('user_id');
+                localStorage.removeItem('username');
+                window.location.href = 'index.html';
+            });
+
+            // Fetch categories for the create game modal
+            $.ajax({
+                type: 'POST',
+                url: 'api.php',
+                data: {
+                    action: 'get_categories'
+                },
+                success: function (response) {
+                    if (response.status === 'success') {
+                        var categories = response.categories;
+                        var categorySelect = $('#game-category');
+                        categories.forEach(function (category) {
+                            categorySelect.append('<option value="' + category.category_name + '">' + category.category_name + '</option>');
+                        });
+                    } else {
+                        Swal.fire('Error', 'Failed to load categories', 'error');
+                    }
+                }
+            });
+        });
+    </script>
 </head>
-<body class="bg-light">
 
-<div class="container mt-5">
-    <!-- User Registration Form -->
-    <div class="card mb-3">
-        <div class="card-body">
-            <h5 class="card-title">Register</h5>
-            <form id="register-form">
-                <div class="mb-3">
-                    <label for="username" class="form-label">Username</label>
-                    <input type="text" class="form-control" id="register-username" name="username" required>
-                </div>
-                <div class="mb-3">
-                    <label for="password" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="register-password" name="password" required>
-                </div>
-                <button type="submit" class="btn btn-primary">Register</button>
-            </form>
+<body>
+    <!-- Background Alphabets -->
+    <div class="alphabet" style="left: 10%; top: 20%;">G</div>
+    <div class="alphabet" style="left: 30%; top: 40%;">H</div>
+    <div class="alphabet" style="left: 50%; top: 10%;">O</div>
+    <div class="alphabet" style="left: 70%; top: 30%;">S</div>
+    <div class="alphabet" style="left: 90%; top: 50%;">T</div>
+    <div class="alphabet" style="left: 20%; top: 60%;">T</div>
+    <div class="alphabet" style="left: 40%; top: 80%;">E</div>
+    <div class="alphabet" style="left: 60%; top: 70%;">A</div>
+    <div class="alphabet" style="left: 80%; top: 90%;">R</div>
+    <div class="alphabet" style="left: 90%; top: 10%;">S</div>
+
+    <!-- Hero Section -->
+    <div class="hero"><i class="fas fa-user"></i>
+        <span>Hi, </span>
+        <span id="username-display"></span>
+        <div class="dropdown-menu">
+            <a href="#" id="logout">Logout</a>
         </div>
     </div>
 
-    <!-- User Login Form -->
-    <div class="card mb-3">
-        <div class="card-body">
-            <h5 class="card-title">Login</h5>
-            <form id="login-form">
-                <div class="mb-3">
-                    <label for="login-username" class="form-label">Username</label>
-                    <input type="text" class="form-control" id="login-username" name="username" required>
-                </div>
-                <div class="mb-3">
-                    <label for="login-password" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="login-password" name="password" required>
-                </div>
-                <button type="submit" class="btn btn-primary">Login</button>
-            </form>
+    <!-- Main Page Content -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="welcome-message">Welcome, <span id="username-display-1"></span>!</h1>
+                <button class="btn btn-custom mt-3" data-bs-toggle="modal" data-bs-target="#createGameModal">Create
+                    Game</button>
+                <button class="btn btn-custom mt-3" data-bs-toggle="modal" data-bs-target="#joinGameModal">Join
+                    Game</button>
+            </div>
         </div>
     </div>
 
-    <!-- Game Creation Form -->
-    <div class="card mb-3">
-        <div class="card-body">
-            <h5 class="card-title">Create Game</h5>
-            <form id="game-form">
-                <div class="mb-3">
-                    <label for="category" class="form-label">Category</label>
-                    <input type="text" class="form-control" id="game-category" name="category" required>
+    <!-- Create Game Modal -->
+    <div class="modal fade" id="createGameModal" tabindex="-1" aria-labelledby="createGameModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="createGameModalLabel">Create a Game</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <button type="submit" class="btn btn-primary">Create Game</button>
-            </form>
+                <div class="modal-body">
+                    <form id="create-game-form">
+                        <div class="mb-3">
+                            <label for="game-category" class="form-label">Game Category</label>
+                            <select class="form-control" id="game-category" name="category" required>
+                                <option value="" disabled selected>Select a category</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Create Game</button>
+                    </form>
+                </div>
+            </div>
         </div>
     </div>
 
-    <!-- Join Game Form -->
-    <div class="card mb-3">
-        <div class="card-body">
-            <h5 class="card-title">Join Game</h5>
-            <form id="join-form">
-                <div class="mb-3">
-                    <label for="game_id" class="form-label">Game ID</label>
-                    <input type="text" class="form-control" id="join-game-id" name="game_id" required>
+    <!-- Join Game Modal -->
+    <div class="modal fade" id="joinGameModal" tabindex="-1" aria-labelledby="joinGameModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="joinGameModalLabel">Join a Game</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <button type="submit" class="btn btn-primary">Join Game</button>
-            </form>
+                <div class="modal-body">
+                    <div id="available-games">
+                        <!-- Available games will be loaded here -->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <!-- Submit a Letter -->
-    <div class="card mb-3">
-        <div class="card-body">
-            <h5 class="card-title">Submit Letter</h5>
-            <form id="letter-form">
-                <div class="mb-3">
-                    <label for="letter" class="form-label">Letter</label>
-                    <input type="text" class="form-control" id="letter" name="letter" maxlength="1" required>
-                </div>
-                <button type="submit" class="btn btn-primary">Submit Letter</button>
-            </form>
-        </div>
-    </div>
-</div>
+    <script>
+        $(document).ready(function () {
+            $('#create-game-form').submit(function (e) {
+                e.preventDefault();
+                $.ajax({
+                    type: 'POST',
+                    url: 'api.php',
+                    data: {
+                        action: 'new_game',
+                        category: $('#game-category').val(),
+                        creator: localStorage.getItem('user_id')
+                    },
+                    success: function (response) {
+                        if (response.status === 'success') {
+                            Swal.fire('Success', 'Game created successfully. Game ID: ' + response.game_id, 'success');
+                        } else {
+                            Swal.fire('Error', response.message, 'error');
+                        }
+                    }
+                });
+            });
 
-<!-- Bootstrap JS -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-<!-- jQuery, AJAX, and SweetAlert scripts will go here -->
+            // Load available games when the join game modal is opened
+            $('#joinGameModal').on('show.bs.modal', function () {
+                $.ajax({
+                    type: 'POST',
+                    url: 'api.php',
+                    data: {
+                        action: 'show_games'
+                    },
+                    success: function (response) {
+                        if (response.status === 'success') {
+                            var games = response.games;
+                            var gamesList = '<ul class="list-group">';
+                            games.forEach(function (game) {
+                                gamesList += '<li class="list-group-item"><button class="btn btn-link join-game-btn" data-game-id="' + game.game_id + '">Join Game: ' + game.category_id + ' (Status: ' + game.status + ')</button></li>';
+                            });
+                            gamesList += '</ul>';
+                            $('#available-games').html(gamesList);
+
+                            // Add click event to join game buttons
+                            $('.join-game-btn').click(function () {
+                                var gameId = $(this).data('game-id');
+                                $.ajax({
+                                    type: 'POST',
+                                    url: 'api.php',
+                                    data: {
+                                        action: 'join_game',
+                                        game_id: gameId,
+                                        player: localStorage.getItem('user_id')
+                                    },
+                                    success: function (response) {
+                                        if (response.status === 'success') {
+                                            Swal.fire('Success', 'Joined game successfully.', 'success');
+                                        } else {
+                                            Swal.fire('Error', response.message, 'error');
+                                        }
+                                    }
+                                });
+                            });
+                        } else {
+                            $('#available-games').html('<p>No available games.</p>');
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
